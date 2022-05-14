@@ -1,0 +1,92 @@
+MOzilla bUg categorized:
+
+first 0-10000:
+
+
+uncategorized to categorized: CRASH 255
+uncategorized to categorized: Regression: 821
+uncategorized to categorized: performance:  8
+uncategorized to categorized: polish:  878
+uncategorized to categorized: clean:  51
+uncategorized to categorized: networking:  322
+uncategorized to categorized: usability:  260
+uncategorized to categorized: Concurrency:  171
+uncategorized to categorized: Security:  313
+NO category count:  6921
+
+Process finished with exit code 0
+
+
+10001-20000:
+
+uncategorized to categorized: CRASH 237
+uncategorized to categorized: Regression: 1205
+uncategorized to categorized: performance:  24
+uncategorized to categorized: polish:  680
+uncategorized to categorized: clean:  22
+uncategorized to categorized: networking:  236
+uncategorized to categorized: usability:  175
+uncategorized to categorized: Concurrency:  151
+uncategorized to categorized: Security:  158
+NO category count:  7111
+
+
+20000-30000:
+
+uncategorized to categorized: CRASH 279
+uncategorized to categorized: Regression: 1055
+uncategorized to categorized: performance:  18
+uncategorized to categorized: polish:  732
+uncategorized to categorized: clean:  65
+uncategorized to categorized: networking:  239
+uncategorized to categorized: usability:  295
+uncategorized to categorized: Concurrency:  148
+uncategorized to categorized: Security:  215
+NO category count:  6953
+
+30001-40000:
+
+uncategorized to categorized: CRASH 189
+uncategorized to categorized: Regression: 962
+uncategorized to categorized: performance:  32
+uncategorized to categorized: polish:  714
+uncategorized to categorized: clean:  53
+uncategorized to categorized: networking:  304
+uncategorized to categorized: usability:  403
+uncategorized to categorized: Concurrency:  146
+uncategorized to categorized: Security:  295
+NO category count:  6901
+
+40001-60000:
+
+uncategorized to categorized: CRASH 526
+uncategorized to categorized: Regression: 1418
+uncategorized to categorized: performance:  48
+uncategorized to categorized: polish:  2026
+uncategorized to categorized: clean:  208
+uncategorized to categorized: networking:  678
+uncategorized to categorized: usability:  711
+uncategorized to categorized: Concurrency:  371
+uncategorized to categorized: Security:  597
+NO category count:  13416
+
+
+Process finished with exit code 0
+
+60001-80000:
+
+uncategorized to categorized: CRASH 732
+uncategorized to categorized: Regression: 1006
+uncategorized to categorized: performance:  127
+uncategorized to categorized: polish:  2357
+uncategorized to categorized: clean:  355
+uncategorized to categorized: networking:  557
+uncategorized to categorized: usability:  909
+uncategorized to categorized: Concurrency:  591
+uncategorized to categorized: Security:  820
+NO category count:  12545
+
+Process finished with exit code 0
+
+
+

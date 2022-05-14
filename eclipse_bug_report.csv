@@ -1,0 +1,1001 @@
+ID,Summary,Product,Comp,Assignee,QAContact,Reporter,Vers,Status,Resolution,Opened,Sev,# Comments,Changed
+528905,"JDT UI Gerrit failing with ""invalid location for system libraries"" error",JDT,Core,jdt-core-inbox@eclipse.org,,noopur_gupta@in.ibm.com,4.8,RESO,FIXE,18-12-2017,blo,30,17-01-2018
+536353,Update to latest wtp releng tools,Platform,Releng,platform-releng-inbox@eclip...,,sravankumarl@in.ibm.com,4.9,RESO,FIXE,27-06-2018,blo,2,27-06-2018
+461674,[Mac] Look for eclipse.ini in new place,Equinox,Launcher,pascal@rapicorp.com,,pascal@rapicorp.com,4.5.0,RESO,FIXE,08-03-2015,blo,30,20-03-2015
+512739,"[newindex] ArithmeticException during ""Updating Java index"".",JDT,Core,sxenos@gmail.com,,stephan.herrmann@berlin.de,4.7,VERI,FIXE,26-02-2017,blo,21,19-03-2017
+492829,"[GTK3] Import existing projects broken (infinite spin), affecting all Ubuntu 16.04 users, unless SWT_GTK3=0 workaround",Platform,SWT,platform-swt-inbox@eclipse.org,,mike@vorburger.ch,4.5.2,CLOS,DUPL,02-05-2016,blo,5,03-05-2016
+516665,NPE trying to configure workspace setting,PDE,UI,Vikas.Chandra@in.ibm.com,,daniel_megert@ch.ibm.com,4.7,VERI,FIXE,15-05-2017,blo,9,17-05-2017
+546114,Unexpected and new cycle error reported,PDE,UI,daniel_megert@ch.ibm.com,,daniel_megert@ch.ibm.com,4.12,VERI,FIXE,04-04-2019,blo,12,08-04-2019
+552329,FieldEditor should not use preference store field directly,Platform,UI,laeubi@laeubi-soft.de,,laeubi@laeubi-soft.de,4.13,VERI,FIXE,22-10-2019,blo,4,23-10-2019
+541541,Build I20181125-1800 failed due to Platform Team changes,Platform,Team,akurtakov@gmail.com,,kalyan_prasad@in.ibm.com,4.1,RESO,FIXE,25-11-2018,blo,5,26-11-2018
+541123,SWT Build Failed due to incorrect number of libraries built,Platform,SWT,sravankumarl@in.ibm.com,,kalyan_prasad@in.ibm.com,4.1,RESO,FIXE,13-11-2018,blo,5,16-02-2020
+541331,Build I20181119-1800 failed due to swt changes,Platform,SWT,lshanmug@in.ibm.com,,kalyan_prasad@in.ibm.com,4.1,RESO,FIXE,19-11-2018,blo,5,21-12-2018
+551368,VerifyError with latest jdt.core code on master,JDT,Core,Olivier_Thomann@ca.ibm.com,,jarthana@in.ibm.com,4.14,VERI,FIXE,23-09-2019,blo,86,10-12-2019
+528354,Mismatch in SWT libraries built,Platform,SWT,platform-swt-inbox@eclipse.org,,sravankumarl@in.ibm.com,4.8,CLOS,FIXE,08-12-2017,blo,8,04-01-2018
+544823,Timeout while jar signing caused I20190226-0600 and I20190226-0715 I-build failure,Platform,Releng,daniel_megert@ch.ibm.com,,niraj.modi@in.ibm.com,4.11,VERI,FIXE,26-02-2019,blo,22,26-02-2019
+506845,Workbench blocked after cancelling build job,Platform,Resource,sxenos@gmail.com,,markus.kell.r@gmail.com,4.7,VERI,FIXE,01-11-2016,blo,12,03-11-2016
+535219,Eclipse repo including a.jre.javase/10 while units require a.jre.javase/9,Platform,Releng,mistria@redhat.com,,mistria@redhat.com,4.8,RESO,FIXE,28-05-2018,cri,9,30-05-2018
+513938,"[gtk3] ""SWTError: No more callbacks"" in DragSource causes tons of NPEs in various test suites since I20170315-2000",Platform,SWT,lufimtse@redhat.com,akurtakov@gmail.com,markus.kell.r@gmail.com,4.7,RESO,FIXE,20-03-2017,cri,6,22-03-2017
+519390,Copy All Non-Conflicting changes from Right to Left overwrites local changes,Platform,Compare,loskutov@gmx.de,,michael.dillon@infor.com,4.7,RESO,FIXE,07-07-2017,cri,18,13-09-2017
+492857,The E4 project web site is totally out of date !,e4,UI,e4.ui-inbox@eclipse.org,,olivier.prouvost@opcoach.com,0.17,RESO,WORK,02-05-2016,cri,3,06-02-2019
+466091,Can not start Eclipse after installing everything (from our repo),Platform,UI,loskutov@gmx.de,,david_williams@acm.org,4.5,CLOS,FIXE,01-05-2015,cri,22,06-05-2015
+479435,Display.setSynchronizer's call to runAsyncMessages can cause the workbench to crash,Platform,SWT,sxenos@gmail.com,,sxenos@gmail.com,4.5,RESO,FIXE,09-10-2015,cri,16,05-11-2015
+471308,E4 tools download project site is totally out of date,e4,Tools,e4.tools-inbox@eclipse.org,,olivier.prouvost@opcoach.com,0.17,RESO,FIXE,29-06-2015,cri,20,29-10-2015
+506113,NPE in CompilationUnitEditor.<init> due to JavaPlugin.getDefault() returning null,Platform,SWT,eclipse.sprigogin@gmail.com,,eclipse.sprigogin@gmail.com,4.6,VERI,FIXE,17-10-2016,cri,34,09-01-2017
+466796,[regression] Eclipse Application icon disappeared,PDE,UI,pde-ui-inbox@eclipse.org,,eclipse.sprigogin@gmail.com,4.5,RESO,DUPL,07-05-2015,cri,5,08-05-2015
+509075,"IAE in ""Updating Java index"": Attempted to beginRule ...",JDT,Core,sxenos@gmail.com,,markus.kell.r@gmail.com,4.7,VERI,FIXE,12-12-2016,maj,6,24-01-2017
+507966,ArrayIndexOutOfBoundException from JDT index on too large workspace,JDT,Core,sxenos@gmail.com,,apupier@redhat.com,4.7,VERI,FIXE,22-11-2016,maj,19,25-01-2017
+465309,[GTK3] No icon showing in open type dialog,Platform,SWT,sravankumarl@in.ibm.com,arunkumar.thondapu@in.ibm.com,pascal@rapicorp.com,4.5,VERI,FIXE,23-04-2015,maj,18,10-08-2015
+510461,[newindex] Database.giveUpExclusiveLock is a severe bottleneck for large databases,JDT,Core,sxenos@gmail.com,,sxenos@gmail.com,4.6,VERI,FIXE,14-01-2017,maj,13,25-01-2017
+466927,Problems view content not updated after changing markers without changing selection while view is hidden,Platform,IDE,loskutov@gmx.de,,loskutov@gmx.de,4.5,RESO,FIXE,10-05-2015,maj,5,11-05-2015
+486665,"Resolve API breakage of IDE#getEditorDescription (OperationCanceledException, user interaction)",Platform,UI,mistria@redhat.com,,daniel_megert@ch.ibm.com,4.6,RESO,FIXE,27-01-2016,maj,7,02-03-2016
+466943,Bogus UI freeze logged on Mac when opening a view menu,Platform,SWT,eclipse.sprigogin@gmail.com,,eclipse.sprigogin@gmail.com,4.5,VERI,FIXE,10-05-2015,maj,9,19-05-2015
+457766,Mac 32 bit missing from DL page,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.4,RESO,FIXE,16-01-2015,maj,7,19-01-2015
+509922,Performance tests are giving invalid test results,Platform,Releng,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.7,RESO,FIXE,04-01-2017,maj,18,30-05-2018
+516472,Debug hover and Inspect pop-up are empty on Mac,Platform,SWT,register.eclipse@brychcy.de,lshanmug@in.ibm.com,lshanmug@in.ibm.com,4.7,VERI,FIXE,11-05-2017,maj,22,14-07-2017
+538154,irritating jump of tabs when closing a window,Platform,UI,loskutov@gmx.de,,michael.keppler@gmx.de,4.9,VERI,FIXE,22-08-2018,maj,15,25-08-2018
+469537,Eclipse throws LinkageError if an annotation processor uses a class that is also used by (or part of) Eclipse,JDT,Core,sxenos@gmail.com,jarthana@in.ibm.com,sxenos@gmail.com,4.5,VERI,FIXE,05-06-2015,maj,36,06-01-2016
+492832,The HIPP instance for E4 spies is out of date,e4,Tools,e4.tools-inbox@eclipse.org,,olivier.prouvost@opcoach.com,0.17,RESO,WORK,02-05-2016,maj,12,05-06-2019
+508079,[newindex] Allow Database.malloc to allocate blocks that are larger than the size of a Chunk,JDT,Core,sxenos@gmail.com,,sxenos@gmail.com,4.6,VERI,FIXE,23-11-2016,maj,18,07-12-2016
+506913,AssertationFailedException causes JDT UI to fail during startup,JDT,UI,sxenos@gmail.com,,sxenos@gmail.com,4.6,VERI,FIXE,02-11-2016,maj,20,07-12-2016
+534277,[FilteredTree] erroneous filtering with multiple words,Platform,UI,mistria@redhat.com,,John.J.Collier@ibm.com,4.8,VERI,FIXE,02-05-2018,maj,19,24-05-2018
+517012,String.chars() seems to be missing from JavaSE-1.8 execution environment,PDE,API Tool,Olivier_Thomann@ca.ibm.com,,malaperle@gmail.com,4.7,VERI,FIXE,19-05-2017,maj,33,29-05-2017
+467309,NPE in LaunchViewBreadcrumb.dispose,Platform,Debug,daniel_megert@ch.ibm.com,,daniel_megert@ch.ibm.com,4.5,VERI,FIXE,14-05-2015,maj,5,14-05-2015
+533710,[Wayland] Gnome-shell crashes when selecting an item from List,Platform,SWT,lufimtse@redhat.com,,ericwill@redhat.com,4.8,RESO,FIXE,17-04-2018,maj,7,29-05-2018
+462282,Prevent (automatic) update to new Mac layout,Equinox,p2,pascal@rapicorp.com,,pascal@rapicorp.com,4.5.0,RESO,WONT,16-03-2015,maj,40,04-10-2015
+492580,"deltapack can not be created by test, on Linux.",Platform,Releng,david_williams@acm.org,,markus.kell.r@gmail.com,4.6,RESO,FIXE,27-04-2016,maj,20,01-05-2016
+466112,[Gtk] SWT returns incorrect Monitor client area on GTK,Platform,SWT,sxenos@gmail.com,lufimtse@redhat.com,sxenos@gmail.com,4.5,VERI,FIXE,01-05-2015,maj,25,19-05-2015
+504502,Test failures in official build,JDT,Core,sxenos@gmail.com,,daniel_megert@ch.ibm.com,4.6,VERI,FIXE,06-10-2016,nor,30,26-10-2016
+485748,Progress bar stays even after completion,JDT,Core,sxenos@gmail.com,,noopur_gupta@in.ibm.com,4.6,VERI,FIXE,13-01-2016,nor,33,29-01-2016
+495634,"Reminder to update our ""streamless"" update URL",Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,07-06-2016,nor,2,27-06-2016
+466843,Invalid preference category path: org.eclipse.ui.trace.tracingPage,Platform,UI,eclipse.sprigogin@gmail.com,,tomasz.zarna@tasktop.com,4.5,RESO,FIXE,08-05-2015,nor,11,12-05-2015
+474423,React to switch to new shared instance of Huson,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,06-08-2015,nor,7,08-08-2015
+551348,[14] Create Java 14 version and supporting code in tests,JDT,Core,jarthana@in.ibm.com,jarthana@in.ibm.com,manpalat@in.ibm.com,4.13,RESO,FIXE,22-09-2019,nor,13,09-01-2020
+511454,[newindex] M5 Regression. AssertionError in org.eclipse.jdt.internal.core.nd.db.Database.close,JDT,Core,sxenos@gmail.com,,ed@willink.me.uk,4.7,VERI,FIXE,01-02-2017,nor,12,10-05-2017
+492203,Y-branch parent pom needs to be catch up to master,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,21-04-2016,nor,2,22-04-2016
+551482,[14] JEP 361: Switch Expressions (Standard),JDT,Core,manpalat@in.ibm.com,,manpalat@in.ibm.com,4.13,RESO,FIXE,25-09-2019,nor,3,16-03-2020
+553252,[14] Incorrect compile error for preview features in Java 13 project,JDT,Core,jarthana@in.ibm.com,jarthana@in.ibm.com,noopur_gupta@in.ibm.com,4.14,RESO,FIXE,20-11-2019,nor,3,16-03-2020
+465144,[e4 Tools] Extract into fragment wizard does not handle handlers without commands,Platform,UI,jhelming@eclipsesource.com,,jhelming@eclipsesource.com,4.4,RESO,FIXE,21-04-2015,nor,10,12-05-2015
+509540,Tag Neon.2 (4.6.2) release,Platform,Releng,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.6,RESO,FIXE,20-12-2016,nor,19,04-01-2017
+506430,[1.9] Formatter support for module-info.java,JDT,Core,mateusz.matela@gmail.com,manpalat@in.ibm.com,noopur_gupta@in.ibm.com,4.7,RESO,FIXE,24-10-2016,nor,53,14-08-2017
+552678,[14]JEP 368: Text Blocks (Second Preview),JDT,Core,jarthana@in.ibm.com,jarthana@in.ibm.com,manpalat@in.ibm.com,4.14,RESO,FIXE,04-11-2019,nor,6,13-03-2020
+553051,[14] Test failures,JDT,Core,manpalat@in.ibm.com,,manpalat@in.ibm.com,4.14,RESO,FIXE,14-11-2019,nor,10,15-03-2020
+488787,Do we need a 4.5.2a build? Or update site with patched feature?,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,01-03-2016,nor,16,01-05-2016
+531593,[Webkit2] Crash in webkit on hover,Platform,SWT,lufimtse@redhat.com,,loskutov@gmx.de,4.7.2,RESO,FIXE,23-02-2018,nor,5,26-02-2018
+468541,[GTK3.14] Overlays in Type Hierarchy overlap label text,Platform,SWT,sravankumarl@in.ibm.com,,wywrzal@gmail.com,4.5,RESO,FIXE,27-05-2015,nor,38,04-09-2015
+496882,"Update ""branding"" and build scripts for 4.7",Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.7,RESO,FIXE,27-06-2016,nor,3,11-07-2016
+512741,[newindex] Reduce writes during indexing using a new FieldList type,JDT,Core,sxenos@gmail.com,,sxenos@gmail.com,4.7,RESO,FIXE,27-02-2017,nor,11,27-04-2017
+496881,"Update ""branding"" and build scripts for 4.6.1",Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.7,RESO,FIXE,27-06-2016,nor,2,11-07-2016
+531715,[14] JEP 305: Pattern Matching for instanceof (Preview),JDT,Core,jarthana@in.ibm.com,,manpalat@in.ibm.com,4.8,RESO,FIXE,27-02-2018,nor,70,22-04-2020
+501523,"UI bugs in Problems view's ""Configure Contents"" / ""Filters"" dialog",Platform,UI,psuzzi@gmail.com,,markus.kell.r@gmail.com,4.6,RESO,FIXE,15-09-2016,nor,16,15-12-2016
+466604,[Templates] Eclipse 4 RCP product is missing dependencies,PDE,UI,jhelming@eclipsesource.com,,jhelming@eclipsesource.com,4.5,VERI,FIXE,06-05-2015,nor,24,15-05-2015
+491185,Change default in project explorer to hierarchical mode,Platform,UI,mistria@redhat.com,,Lars.Vogel@vogella.com,4.5,RESO,FIXE,06-04-2016,enh,35,21-01-2020
+516911,[Java 9] account for proposed command line argument --illegal-access=*,Equinox,Launcher,arunkumar.thondapu@in.ibm.com,,markus.kell.r@gmail.com,4.7.0,RESO,WONT,18-05-2017,enh,7,26-06-2017
+550470,[14] Infrastructure Support for Java 14,JDT,Core,jdt-core-inbox@eclipse.org,sarika.sinha@in.ibm.com,sarika.sinha@in.ibm.com,4.13,RESO,FIXE,27-08-2019,enh,7,14-04-2020
+550504,[14] JEP 359 : Records (Preview),JDT,Core,manpalat@in.ibm.com,,manpalat@in.ibm.com,4.13,RESO,FIXE,28-08-2019,enh,4,16-03-2020
+487044,Migrate some (most) cron jobs to Releng HIPP Instance,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,02-02-2016,enh,18,17-06-2016
+481796,[newindex] Proposal for a faster JDT index,JDT,Core,sxenos@gmail.com,,sxenos@gmail.com,4.5,RESO,FIXE,09-11-2015,enh,184,06-02-2018
+558344,[14] Records support in debug,JDT,Debug,sarika.sinha@in.ibm.com,,sarika.sinha@in.ibm.com,4.6,RESO,FIXE,16-12-2019,enh,1,15-03-2020
+457071,Inconsistencies in org.eclipes.rcp.configuration for Mac OS X platform,Platform,Releng,david_williams@acm.org,,polomm@mx1.ibm.com,4.4.1,VERI,FIXE,08-01-2015,blo,31,24-04-2017
+492807,Mac-cocoa Eclipse.app has invalid Info.plist and signing issues,Platform,Releng,david_williams@acm.org,,lshanmug@in.ibm.com,4.6,VERI,FIXE,02-05-2016,cri,8,04-06-2016
+497705,Unhandled event loop > StackOverflow in Perspective,Platform,SWT,lufimtse@redhat.com,,qnev89@gmail.com,4.6,VERI,FIXE,11-07-2016,cri,69,28-12-2019
+532587,[code mining] Inline Annotation can prevent editor from loading,Platform,Text,azerr@redhat.com,,mistria@redhat.com,4.7,RESO,FIXE,19-03-2018,cri,8,05-04-2018
+497043,"test results on windows and mac not being ""collected"" back to DL page",Platform,Releng,sravankumarl@in.ibm.com,,david_williams@acm.org,4.7,RESO,FIXE,29-06-2016,cri,11,05-07-2016
+516567,[GTK] Crash when setting disposed image in Label.setImage,Platform,SWT,lufimtse@redhat.com,lufimtse@redhat.com,pmatveev42@gmail.com,4.6,CLOS,FIXE,12-05-2017,cri,6,17-05-2017
+515243,Oxygen installation via Eclipse Installer currently broken due to org.eclipse.mylyn.git missing on all mirrors,Platform,IDE,Platform-UI-Inbox@eclipse.org,,mike@vorburger.ch,4.7,CLOS,DUPL,13-04-2017,cri,3,13-04-2017
+481824,Wrong application name propagated to at-spi2 registry,Platform,SWT,platform-swt-inbox@eclipse.org,,schneider_jann@yahoo.de,4.5.1,RESO,WORK,10-11-2015,maj,15,14-11-2017
+470031,[GTK3] Some viewparts became inaccessible in 4.5,Platform,SWT,ericwill@redhat.com,,schneider_jann@yahoo.de,4.5,VERI,FIXE,12-06-2015,maj,70,20-04-2018
+510803,[GTK3] regression in editing capabilities (seen in change method refactoring wizard),Platform,SWT,lufimtse@redhat.com,,stephan.herrmann@berlin.de,4.8,VERI,FIXE,21-01-2017,maj,23,07-03-2018
+510161,[cocoa][hidpi] AIOOBE in Image#getImageData(),Platform,SWT,lshanmug@in.ibm.com,,markus.kell.r@gmail.com,4.7,RESO,FIXE,10-01-2017,maj,3,10-01-2017
+510972,[Gtk3][Webkit2] Port webkit_window_object_cleared to webkit2.,Platform,SWT,lufimtse@redhat.com,,lufimtse@redhat.com,4.7,CLOS,FIXE,24-01-2017,maj,3,17-05-2017
+526288,AutoValue annotation processor causes java.lang.NoSuchFieldError: MODULE,JDT,APT,register.eclipse@brychcy.de,,rhonhart@gmail.com,4.7.1,VERI,FIXE,19-10-2017,maj,26,27-03-2018
+530678,"[webkit2] UI hangs after navigating through Javadoc hover, when clicking an icon or link to an image (Webkit deadlock during callback)",Platform,SWT,lufimtse@redhat.com,,aidan.yaklin@gmail.com,4.8,RESO,FIXE,02-02-2018,maj,22,29-06-2018
+461180,Views open in a wrong window after dragging editor between windows,Platform,UI,Platform-UI-Inbox@eclipse.org,,zakgof@gmail.com,4.4,CLOS,DUPL,02-03-2015,maj,12,12-05-2015
+527564,[Webkit2] Deadlock due to blocking javascript execution in a synchronous callback from webkit2,Platform,SWT,lufimtse@redhat.com,,lufimtse@redhat.com,4.8,VERI,FIXE,21-11-2017,maj,10,07-03-2018
+498217,[GTK3][DnD] Dragging parts does not show rectangle,Platform,SWT,lufimtse@redhat.com,,lufimtse@redhat.com,4.8,VERI,FIXE,20-07-2016,maj,31,15-06-2018
+528414,[Gtk3][Wayland] Launcher segfault under Wayland when openFile is used,Equinox,Launcher,lufimtse@redhat.com,,akurtakov@gmail.com,unspe,VERI,FIXE,11-12-2017,maj,26,11-05-2018
+514719,[Browser][Webkit2] port Browser.getText() to webkit2,Platform,SWT,lufimtse@redhat.com,lufimtse@redhat.com,simon.delisle@ericsson.com,4.7,VERI,FIXE,04-04-2017,maj,23,04-06-2018
+466578,Menu icon missing in Quick outline,JDT,UI,Lars.Vogel@vogella.com,,noopur_gupta@in.ibm.com,4.5,VERI,FIXE,06-05-2015,maj,9,08-05-2015
+468426,[Templates] plugin.xml contains wrong name - should match name in generated product file,PDE,UI,Lars.Vogel@vogella.com,,Lars.Vogel@vogella.com,4.5,VERI,FIXE,27-05-2015,maj,20,29-05-2015
+535104,Wrong version range for requirement on JDT,PDE,API Tool,Vikas.Chandra@in.ibm.com,,stepper@esc-net.de,4.8,VERI,FIXE,25-05-2018,maj,17,05-06-2018
+494183,"[GTK3.22] Small sizes in ControlExample and ""underallocate"" warnings in console",Platform,SWT,ipun@redhat.com,,ericwill@redhat.com,4.6,RESO,FIXE,20-05-2016,maj,7,29-07-2016
+529126,[Wayland][GTK3] Tree does not notify SWT.MouseDown listeners,Platform,SWT,ericwill@redhat.com,,eclipse@regnis.de,4.8,VERI,FIXE,22-12-2017,maj,19,29-05-2018
+493478,Detached views and editors are broken on GTK 2,Platform,UI,sxenos@gmail.com,,sxenos@gmail.com,4.6,CLOS,DUPL,11-05-2016,maj,9,18-05-2016
+487271,[GTK3] Program freezes on initial _gtk_combo_box_text_insert,Platform,SWT,platform-swt-inbox@eclipse.org,,beele@maxmomentum.de,4.5.1,CLOS,DUPL,04-02-2016,maj,8,29-05-2018
+535047,Text filter not working in Preferences,Platform,UI,mistria@redhat.com,,noopur_gupta@in.ibm.com,4.8,VERI,FIXE,24-05-2018,maj,9,24-05-2018
+493477,"On GTK2, the Tracker constructor that accepts a Shell traps the cursor",Platform,SWT,sxenos@gmail.com,,sxenos@gmail.com,4.6,RESO,FIXE,11-05-2016,maj,15,18-05-2016
+518414,[gtk] Package explorer double click opens currently selected (highlighted) resource,Platform,SWT,xixiyan@redhat.com,ericwill@redhat.com,tylercurtiscook@gmail.com,4.8,VERI,FIXE,16-06-2017,maj,17,27-08-2018
+481059,Cannot install Eclipse on Mac,Equinox,Launcher,equinox.launcher-inbox@ecli...,,eamonn@mcmanus.net,4.5.0,CLOS,WONT,29-10-2015,maj,7,25-12-2019
+489640,[GTK3] setting a lot of items to combobox is extremely slow (on gtk_combo_box_text_insert),Platform,SWT,lufimtse@redhat.com,,eclipse@regnis.de,4.8,VERI,FIXE,15-03-2016,maj,40,06-11-2018
+462411,"Minimizing list tabs break ""on project"" lookup",Platform,UI,platform-ui-triaged@eclipse...,,dgolberg@charter.net,4.4.2,CLOS,WONT,17-03-2015,nor,3,28-03-2020
+460929,Performance tests: Should keep multiple baselines with separate names,Platform,Releng,platform-releng-inbox@eclip...,,markus.kell.r@gmail.com,4.5,CLOS,WONT,26-02-2015,nor,11,17-02-2020
+494234,Change org.apache.derby to import-package in o.e.test.performance,Platform,Releng,malaperle@gmail.com,,malaperle@gmail.com,4.6,RESO,FIXE,21-05-2016,nor,15,13-02-2017
+505992,[Gtk] Replace deprecated gtk_menu_popup,Platform,SWT,ipun@redhat.com,lufimtse@redhat.com,lufimtse@redhat.com,4.6,VERI,FIXE,14-10-2016,nor,10,29-05-2018
+479191,"tychoeclipsebuilder branch is wrong, for post-build work",Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,07-10-2015,nor,8,08-10-2015
+534646,Do the annual Javadoc bash for 4.8,Platform,SWT,niraj.modi@in.ibm.com,,daniel_megert@ch.ibm.com,4.8,VERI,FIXE,14-05-2018,nor,7,28-11-2018
+530598,[Cocoa] VM Crash when closing parent Web Browser window,Platform,SWT,platform-swt-inbox@eclipse.org,,sewe@cqse.eu,4.8,RESO,WORK,01-02-2018,nor,5,22-11-2018
+517231,Several HandlerActivationTests fail on Mac,Platform,UI,lshanmug@in.ibm.com,,daniel_megert@ch.ibm.com,4.7,RESO,FIXE,25-05-2017,nor,33,15-08-2017
+483067,Adjust Baselines for API Tools and Deprecation Reports,Platform,Releng,david_williams@acm.org,,daniel_megert@ch.ibm.com,4.5.1,RESO,FIXE,26-11-2015,nor,5,02-12-2015
+531120,[GTK3] setvisible changes 0x0 widget sizes.,Platform,SWT,platform-swt-inbox@eclipse.org,,lufimtse@redhat.com,4.8,CLOS,DUPL,13-02-2018,nor,3,29-08-2018
+456714,Add version 54.1.1 ICU4J for Mars release,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.5,RESO,FIXE,05-01-2015,nor,12,02-02-2015
+529563,[GTK3][Tree][Drawing] Tree does not repaint upon request,Platform,SWT,platform-swt-inbox@eclipse.org,,eclipse@regnis.de,4.8,CLOS,DUPL,09-01-2018,nor,12,22-02-2018
+517808,"[9][compiler] Implement lookup (module, package, type) based on the 2017-05-25 version of JLS",JDT,Core,stephan.herrmann@berlin.de,,stephan.herrmann@berlin.de,4.7,RESO,FIXE,05-06-2017,nor,111,10-05-2019
+535339,All repositories need a NOTICE and LICENSE file,Platform,Releng,sravankumarl@in.ibm.com,,daniel_megert@ch.ibm.com,4.8,RESO,FIXE,30-05-2018,nor,79,14-11-2018
+493714,[Gtk3] Significant performance regression when running SWT in GTK3 mode,Platform,SWT,platform-swt-inbox@eclipse.org,,linuxhippy@gmail.com,4.8,CLOS,WORK,15-05-2016,nor,33,13-05-2019
+496926,"[Wayland] About box title bar initially within pop-up, corrected after Alt-Tab. Size is wrong.",Platform,SWT,platform-swt-inbox@eclipse.org,,mike@vorburger.ch,4.6,CLOS,DUPL,28-06-2016,nor,9,17-05-2017
+488036,Lots of failures and erros when running PDE UI tests on Hudson Gerrit,PDE,UI,Vikas.Chandra@in.ibm.com,,daniel_megert@ch.ibm.com,4.6,VERI,FIXE,18-02-2016,nor,35,17-07-2018
+503332,Generic Editor doesn't show pop-up for problems on text,Platform,Text,mistria@redhat.com,,mistria@redhat.com,4.6,RESO,FIXE,04-10-2016,nor,5,11-10-2016
+553386,[test] clean-up of converterJclMin after bug 544943,JDT,Core,jarthana@in.ibm.com,,stephan.herrmann@berlin.de,4.14,RESO,FIXE,23-11-2019,nor,9,29-02-2020
+465681,Make sure that 'org.eclipse.osgi.compatibility.plugins' is in our 4.5 updates repo,Platform,Releng,david_williams@acm.org,,daniel_megert@ch.ibm.com,4.5,RESO,FIXE,28-04-2015,nor,5,24-01-2017
+544145,Web Services Explorer fails to load correctly with 3.13.0 M2,Equinox,Compendi,tjwatson@us.ibm.com,,shane_clarke@hotmail.com,4.11,VERI,FIXE,05-02-2019,nor,23,11-03-2019
+493769,Add new configuration that runs tests with Java 9,Platform,Releng,sravankumarl@in.ibm.com,,daniel_megert@ch.ibm.com,4.6,RESO,FIXE,17-05-2016,nor,28,18-01-2018
+508819,Define proper API for hover/info color constants,Platform,UI,lufimtse@redhat.com,,markus.kell.r@gmail.com,4.8,RESO,FIXE,07-12-2016,nor,31,08-02-2018
+475154,NullPointerException in PartServiceImpl.switchPerspective() when switching perspective while active view placed inside editors area,Platform,UI,bsd@acm.org,,yury.polek@gmail.com,4.6,VERI,FIXE,17-08-2015,nor,12,25-08-2017
+537729,Show release name in About dialog,Platform,Releng,sravankumarl@in.ibm.com,,daniel_megert@ch.ibm.com,4.9,RESO,FIXE,06-08-2018,nor,3,21-08-2018
+477632,Performance builds have not been running on 4.6 I-builds,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,16-09-2015,nor,5,02-10-2015
+462613,[EditorMgmt] [regression] Pinned Editor icons in tab disappear after opening editor list,Platform,UI,narayana.nekkanti@genuitec.com,,loskutov@gmx.de,4.5,RESO,FIXE,19-03-2015,nor,6,27-11-2019
+467463,[BiDi] Implement contextual base text direction for StyledText,Platform,SWT,Lina.Kemmel@mobileye.com,niraj.modi@in.ibm.com,Lina.Kemmel@mobileye.com,4.5,VERI,FIXE,17-05-2015,nor,38,10-12-2015
+457685,[console] A lot of CPU wasted when console fills horizontally,JDT,Text,daniel_megert@ch.ibm.com,,lukas.eder@gmail.com,4.5,RESO,WORK,16-01-2015,nor,7,24-04-2015
+459241,SDK Examples from welcome screen is unsigned,PDE,UI,Vikas.Chandra@in.ibm.com,,david_williams@acm.org,4.4,VERI,FIXE,05-02-2015,nor,22,19-02-2015
+521387,[Gtk3] Alt+Enter performs two actions in Package Explorer,Platform,SWT,lufimtse@redhat.com,lufimtse@redhat.com,stephan.herrmann@berlin.de,4.8,VERI,FIXE,24-08-2017,nor,8,07-03-2018
+472126,Unusual comparator error in I-build and M-build,Platform,UI,Lars.Vogel@vogella.com,,david_williams@acm.org,4.5,VERI,FIXE,08-07-2015,nor,17,05-08-2015
+511781,Clarify the JavaDoc on Control.redraw to indicate that it schedules a repaint,Platform,SWT,sxenos@gmail.com,,sxenos@gmail.com,4.6,RESO,FIXE,06-02-2017,tri,10,08-02-2017
+496300,[hovering][ltk] Support contribution of multiple Hovers to Code Editor,Platform,Text,mistria@redhat.com,,mistria@redhat.com,4.6,RESO,FIXE,17-06-2016,enh,10,11-10-2016
+462807,Adopt Maven 3.3.1,Platform,Releng,david_williams@acm.org,,pascal@rapicorp.com,4.5,RESO,DUPL,22-03-2015,enh,6,26-10-2015
+512914,[newindex] Remove the MethodId structure,JDT,Core,sxenos@gmail.com,,sxenos@gmail.com,4.7,RESO,FIXE,01-03-2017,enh,8,09-05-2017
+458572,"Consider versioning rcp.config feature ""just like products",Platform,Releng,platform-releng-inbox@eclip...,,david_williams@acm.org,4.4,RESO,DUPL,27-01-2015,enh,2,31-03-2015
+490507,Hudson scripts should be used from Git,Platform,Releng,platform-releng-inbox@eclip...,,david_williams@acm.org,4.6,RESO,FIXE,28-03-2016,enh,2,25-05-2017
+528752,need a way to configure java home when using batch compiler Main in-process,JDT,Core,jarthana@in.ibm.com,,jan.sievers@sap.com,4.8,VERI,FIXE,14-12-2017,enh,10,09-05-2018
+527675,[code mining] Provide inline annotations support,Platform,Text,azerr@redhat.com,,azerr@redhat.com,4.8,RESO,FIXE,23-11-2017,enh,31,05-04-2018
+468855,"Make plan version of ""target environments"" a variable, in link on DL page",Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.5,RESO,FIXE,29-05-2015,enh,2,30-08-2015
+527720,[code mining] Provide CodeMining support with CodeMiningManager,Platform,Text,azerr@redhat.com,,azerr@redhat.com,4.8,RESO,FIXE,24-11-2017,enh,20,05-04-2018
+489789,"automate switch of ""gerrit build reference"" in settings file.",Platform,Releng,sravankumarl@in.ibm.com,,david_williams@acm.org,4.6,RESO,INVA,16-03-2016,enh,40,14-12-2016
+549418,ProcessingEnvironment returns wrong SourceVersion,JDT,APT,jarthana@in.ibm.com,,niks@gmx.li,4.12,CLOS,DUPL,19-07-2019,blo,3,19-07-2019
+472681,Pre_TVT_IES45: Plug Project can not be create successfully in language DAN,PDE,UI,pde-ui-inbox@eclipse.org,,xbpan@cn.ibm.com,4.5,RESO,NOT_,15-07-2015,blo,7,16-07-2015
+551142,38867,Platform,UI,Platform-UI-Inbox@eclipse.org,,daniel.grilli9419@my.riohon...,4.14,RESO,INVA,16-09-2019,blo,4,02-10-2019
+553200,I build (I20191118-2230) failed,Platform,Releng,Vikas.Chandra@in.ibm.com,,Vikas.Chandra@in.ibm.com,4.14,RESO,FIXE,19-11-2019,blo,11,19-11-2019
+498948,Test jobs failed for I20160731-2000,Platform,Releng,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.7,RESO,FIXE,01-08-2016,blo,11,14-12-2016
+488596,Getting error when trying to install TestNG,PDE,API Tool,pde-apitools-inbox@eclipse.org,,vtandon@hotmail.com,4.5,RESO,NOT_,26-02-2016,blo,2,01-07-2016
+491850,Launcher dialog: workspace selection broken,Platform,UI,loskutov@gmx.de,,loskutov@gmx.de,4.6,RESO,FIXE,16-04-2016,blo,6,28-03-2017
+498391,GTK+2-2.24.30 for HPUX Itanium Issue,Platform,SWT,platform-swt-inbox@eclipse.org,,dabron@hotmail.com,4.5.2,CLOS,WONT,23-07-2016,blo,2,06-12-2017
+491385,Crash on OpenSuse Tumbleweed opening marketplace,Platform,IDE,Platform-UI-Inbox@eclipse.org,,alessio.pollero@gmail.com,4.5.2,CLOS,DUPL,10-04-2016,blo,2,11-04-2016
+479233,All Team and CVS default preferences set to default default,Platform,Runtime,daniel_megert@ch.ibm.com,,daniel_megert@ch.ibm.com,4.6,VERI,FIXE,07-10-2015,blo,5,08-10-2015
+505996,Can't apply patch: AFE,Platform,Compare,eclipse.sprigogin@gmail.com,,daniel_megert@ch.ibm.com,4.7,VERI,FIXE,14-10-2016,blo,8,07-02-2017
+521171,Can't get Tycho 0.26 from R4_7_maintenance,Platform,Releng,platform-releng-inbox@eclip...,,mistria@redhat.com,4.7,VERI,FIXE,21-08-2017,blo,4,22-08-2017
+483980,Eclipse not starting having hierarchial nested project view.,Platform,IDE,Platform-UI-Inbox@eclipse.org,,p.rader@gmx.net,4.5.1,CLOS,DUPL,09-12-2015,blo,6,11-12-2015
+552906,Editor has no focus/cursor after tab switch,Platform,UI,loskutov@gmx.de,,jonas.hungershausen@vogella...,4.14,RESO,FIXE,11-11-2019,blo,22,23-11-2019
+522355,CTabFolderRenderer.drawChevron ArithmeticException: / by zero,Platform,SWT,platform-swt-inbox@eclipse.org,,cobexer@gmail.com,4.7,RESO,FIXE,15-09-2017,blo,5,17-05-2019
+489158,All keybindings lost,Platform,IDE,Platform-UI-Inbox@eclipse.org,,ehucka@gmail.com,4.4.2,CLOS,WORK,07-03-2016,blo,5,31-03-2016
+532107,"[code mining] Bug with ""visibles"" inlined annotations in non UI Thread",Platform,Text,azerr@redhat.com,,azerr@redhat.com,4.8,RESO,FIXE,07-03-2018,blo,4,05-04-2018
+550524,Using EE 11 or 12 with JRE 13 and no module-info.java results in compile error (Object not found),JDT,Core,jarthana@in.ibm.com,,daniel_megert@ch.ibm.com,4.13,VERI,FIXE,28-08-2019,blo,35,05-09-2019
+488687,Eclipse IDE doesn't open after update,Platform,IDE,psuzzi@gmail.com,,clekili@gmail.com,4.5.1,CLOS,WORK,29-02-2016,blo,10,03-04-2016
+533817,Eclipse UI freeze after idle (eclipse in background or pc sleep),Platform,UI,Platform-UI-Inbox@eclipse.org,,max.atak@hotmail.fr,4.8,CLOS,WONT,19-04-2018,blo,5,12-04-2020
+540175,download.eclipse.org not reachable,Platform,Website,platform-doc-inbox@eclipse.org,,marcus@hirt.se,4.8,CLOS,DUPL,16-10-2018,blo,2,16-10-2018
+504737,Individual builds on branch (& Hudson/Gerrit build for branch) are failing,Platform,Releng,mistria@redhat.com,,mistria@redhat.com,4.6,RESO,FIXE,06-10-2016,blo,3,06-10-2016
+508507,e4.ui.tests.css.swt tests terminate with code 137 (kill -9) on CentOS,Platform,UI,Platform-UI-Inbox@eclipse.org,,Lars.Vogel@vogella.com,4.7,CLOS,FIXE,01-12-2016,blo,38,11-04-2017
+548171,[win32] 4.13 I build failure due to SWT native build failure,Platform,SWT,niraj.modi@in.ibm.com,,sarika.sinha@in.ibm.com,4.13,VERI,FIXE,12-06-2019,blo,6,09-07-2019
+533448,SWT build input failure with mismatch in lib count,Platform,SWT,platform-swt-inbox@eclipse.org,,sravankumarl@in.ibm.com,4.8,RESO,FIXE,10-04-2018,blo,10,12-04-2018
+511537,"To open ""My App"" you need to install the legacy JAVA SE6 runtime",Equinox,Launcher,pde-build-inbox@eclipse.org,,yenugutala.kirankumar@gmail...,3.10.,CLOS,WONT,02-02-2017,blo,8,15-10-2019
+519297,User Interface won't load any internal elements,Platform,UI,Platform-UI-Inbox@eclipse.org,,rreagan3@gmail.com,4.7,CLOS,DUPL,06-07-2017,blo,3,26-07-2017
+478491,froze up my computer. wouldent load. I needed to hard reboot.,Platform,IDE,Platform-UI-Inbox@eclipse.org,,nathan-moore1@outlook.com,4.6,CLOS,NOT_,27-09-2015,blo,2,27-09-2015
+537874,"Unable to launch Eclipse without validation errors: ""Missing Constraint"" for almost every plugin",PDE,UI,loskutov@gmx.de,,loskutov@gmx.de,4.9,VERI,FIXE,11-08-2018,blo,8,16-08-2018
+466207,Eclipse Luna IDE No Main Menu,Platform,IDE,psuzzi@gmail.com,,fries.gerhard@t-online.de,4.4.2,CLOS,WORK,02-05-2015,blo,4,30-05-2016
+462265,Comparator errors in I20150316-0800,Platform,SWT,platform-swt-inbox@eclipse.org,,david_williams@acm.org,4.5,RESO,FIXE,16-03-2015,blo,5,17-03-2015
+493669,Eclipse Mars crashes on Mac OS 10.11.4 while compiling with Oracle jdk1.8.0_92 JDK,JDT,Core,stephan.herrmann@berlin.de,,xabrielc@gmail.com,4.5.2,VERI,NOT_,13-05-2016,blo,11,26-07-2016
+519866,Please update version number in binaries repo,Platform,SWT,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.7,VERI,FIXE,19-07-2017,blo,9,01-08-2017
+526055,NPE when rebuilding projects or launching junit,JDT,Debug,frank.rene.benoit@gmail.com,,frank.rene.benoit@gmail.com,4.7.1,RESO,FIXE,15-10-2017,blo,34,22-01-2018
+489618,jdt features needs to adjust ranges for jdt.annotation 2.x,JDT,Core,daniel_megert@ch.ibm.com,,david_williams@acm.org,4.6,VERI,FIXE,15-03-2016,blo,5,16-03-2016
+493248,[BETA_JAVA9] Broken 4.6-P-build repository,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,09-05-2016,blo,2,09-05-2016
+500786,Unable to find method reference having an enum parameter which is defined within a class in Mars,JDT,Core,jdt-core-inbox@eclipse.org,,dsouza.natasha303@gmail.com,4.5.1,CLOS,WONT,03-09-2016,blo,2,17-04-2019
+530238,This error block my eclipse,JDT,Core,jdt-core-inbox@eclipse.org,,cellazelf12@outlook.com,4.8,CLOS,WONT,24-01-2018,blo,3,Sat 19:35
+456937,"[platform] com.google.guava 15.0.0 is not loaded after installing features into ""~/.eclipse/...""",Platform,Runtime,platform-runtime-inbox@ecli...,,christian.schneider@typefox.io,4.4.1,CLOS,WONT,07-01-2015,blo,3,21-02-2020
+518710,Segmentation fault launching on Debian 9/Gnome 3,Platform,Runtime,platform-runtime-inbox@ecli...,,eclipse@regnis.de,4.7,CLOS,WONT,23-06-2017,blo,3,09-04-2020
+528946,Eclipse crashes all of a sudden when trying to cut code or delete code or remove code. Its happening all the time. Please fix.,Platform,IDE,Platform-UI-Inbox@eclipse.org,,vtherli@gmail.com,4.4,CLOS,DUPL,19-12-2017,blo,4,26-01-2018
+551580,Build I20190927-1800 failed - The method initializeContext(JavaContext) of type E4ContextType must override or implement a supertype method,Platform,UI,akurtakov@gmail.com,,sarika.sinha@in.ibm.com,4.14,RESO,FIXE,27-09-2019,blo,6,01-10-2019
+528777,Unable to launch existing Eclipse application launch configuration,Equinox,Framewor,equinox.framework-inbox@ecl...,,noopur_gupta@in.ibm.com,4.8.0,RESO,FIXE,14-12-2017,blo,9,15-12-2017
+550672,Enhanced for each loop conversion creates wrong compilable code since 4.13M3,JDT,UI,jjohnstn@redhat.com,jjohnstn@redhat.com,michael.keppler@gmx.de,4.13,VERI,FIXE,03-09-2019,blo,10,04-09-2019
+471858,Eclipse IDE C++ Crashing - java.lang.RuntimeException: Could not find framework,Platform,IDE,Platform-UI-Inbox@eclipse.org,,jesus92gz@gmail.com,4.5,CLOS,DUPL,04-07-2015,blo,3,04-07-2015
+485104,"Many (18 or so) bundles and features in rt.equinox.p2 had version change, with no pom.xml change",Equinox,p2,pascal@rapicorp.com,,david_williams@acm.org,unspe,VERI,FIXE,03-01-2016,blo,5,04-01-2016
+558497,"ecj-I20191219-1800.jar is broken, compilation with ecj is not possible due wrong signer data",JDT,Core,loskutov@gmx.de,,loskutov@gmx.de,4.15,VERI,FIXE,20-12-2019,blo,15,09-01-2020
+529822,Can't debug a 1.4 app,JDT,Debug,sarika.sinha@in.ibm.com,,daniel_megert@ch.ibm.com,4.8,VERI,FIXE,15-01-2018,blo,14,22-01-2018
+490294,Timeout occurred! Thread was blocked on processing [QueuedJob] WorkPerformer: org.eclipse.equinox.internal.ds.SCRManager@7aa22ebf; actionType 1,Platform,IDE,Platform-UI-Inbox@eclipse.org,,jglezcrespo@gmail.com,4.5.2,CLOS,DUPL,23-03-2016,blo,2,31-03-2016
+536671,Workspace unusable after update to Eclipse Photon,Platform,IDE,Platform-UI-Inbox@eclipse.org,,Alexander.Veit@unitedplanet.de,4.8,CLOS,DUPL,04-07-2018,blo,3,04-07-2018
+539167,where is Eclipse 2018-09 RC2?,Platform,IDE,Platform-UI-Inbox@eclipse.org,,garret@globalmentor.com,4.9,CLOS,FIXE,17-09-2018,blo,2,02-10-2018
+465508,[GTK] XULRunner support crashes all UI tests on eclipse.org (xulrunner-1.9.0.19),Platform,SWT,lshanmug@in.ibm.com,,markus.kell.r@gmail.com,4.5,RESO,FIXE,26-04-2015,blo,5,10-08-2015
+494717,[HiDPI][GTK] Path cubic curves are not auto-scaled correctly with HiDPI settings,Platform,SWT,sravankumarl@in.ibm.com,,peter@wireframesketcher.com,4.6,VERI,FIXE,27-05-2016,blo,14,01-06-2016
+514741,Build failure on I20170404-2000,Platform,Releng,platform-releng-inbox@eclip...,,sravankumarl@in.ibm.com,4.7,RESO,FIXE,04-04-2017,blo,4,05-04-2017
+500134,[Progress] CCE and error dialog on each Progress view update,Platform,SWT,platform-swt-inbox@eclipse.org,,loskutov@gmx.de,4.7,RESO,DUPL,23-08-2016,blo,4,23-08-2016
+470324,Crash / Wont Launch,Platform,IDE,Platform-UI-Inbox@eclipse.org,,peter@howudodat.com,4.5,RESO,WORK,17-06-2015,blo,10,12-08-2015
+528737,various bugs and deficiencies noted in CFEclipse,Platform,IDE,Platform-UI-Inbox@eclipse.org,,pstrohm@customcable.com,4.7.1,RESO,NOT_,13-12-2017,blo,5,14-03-2018
+544742,[12] --release 11 with Java 12 gives compile errors,JDT,Core,jdt-core-inbox@eclipse.org,,daniel_megert@ch.ibm.com,4.11,VERI,FIXE,24-02-2019,blo,14,14-03-2019
+489502,Issue in eclipse: Says internal error occured. ' org.eclipse.core.runtime.ListenerList.iterator()Ljava/util/Iterator ' .,Platform,IDE,Platform-UI-Inbox@eclipse.org,,yathish.kbg@gmail.com,4.6,CLOS,WORK,13-03-2016,blo,4,07-04-2016
+547501,Dialog remains on top and cannot be closed,Platform,UI,lshanmug@in.ibm.com,,sarika.sinha@in.ibm.com,4.12,VERI,FIXE,21-05-2019,blo,5,21-05-2019
+459504,[1.8][compiler] Bad type inference for stream's 'filter' method,JDT,Core,stephan.herrmann@berlin.de,,an.delbene@gmail.com,4.4.1,VERI,DUPL,09-02-2015,blo,6,19-05-2015
+475261,"The following steps have no effect within the ""Tags"" group in the ""Supplementary"" tab of the e4xmi editor.",e4,UI,e4.ui-inbox@eclipse.org,,paul@roubekas.org,unspe,CLOS,INVA,18-08-2015,blo,1,18-08-2015
+461781,Nullpointerexception at startup,Equinox,Framewor,equinox.framework-inbox@ecl...,,thomaselskens@hotmail.com,4.5.0,RESO,WORK,10-03-2015,blo,4,10-03-2015
+470958,[1.8] Unable to convert lambda,JDT,Core,stephan.herrmann@berlin.de,,thierryler@gmail.com,4.5,VERI,FIXE,25-06-2015,blo,23,26-02-2016
+518433,Tons of exceptions on Exit: java.lang.IllegalArgumentException: The service parameter was not provided by this object,Equinox,Framewor,tjwatson@us.ibm.com,,daniel_megert@ch.ibm.com,unspe,VERI,FIXE,19-06-2017,blo,5,20-06-2017
+519367,Error in JDT Core during AST creation,JDT,Core,jdt-core-inbox@eclipse.org,,eclipse@yagee.de,4.7,RESO,DUPL,07-07-2017,blo,2,07-07-2017
+539399,Java heap issue -eclipse crashes,Platform,IDE,Platform-UI-Inbox@eclipse.org,,vanig1982@gmail.com,4.6,RESO,NOT_,25-09-2018,blo,4,26-09-2018
+525688,[OSX] SWT menus completely inactive,Platform,SWT,platform-swt-inbox@eclipse.org,,mdemore@jpl.nasa.gov,4.4.1,CLOS,DUPL,06-10-2017,blo,3,05-01-2018
+539687,Jetty web socket client Issue,JDT,UI,jdt-ui-inbox@eclipse.org,,vaseem.ahmed01@gmail.com,4.9,RESO,NOT_,01-10-2018,blo,3,01-10-2018
+468852,a5549343865@gmail.com,Platform,Website,platform-doc-inbox@eclipse.org,,a5549343865@gmail.com,4.5,RESO,INVA,29-05-2015,blo,2,29-05-2015
+506034,"An internal error occurred during: ""Cache refresh"" and ""Initializing Java Tooling"".",JDT,Core,jdt-core-inbox@eclipse.org,,alexx.af@gmail.com,4.6,VERI,NOT_,16-10-2016,blo,5,26-10-2016
+457656,32-bit Eclipse crash on RHEL7,Platform,SWT,platform-swt-inbox@eclipse.org,,sumeet.kohli@in.ibm.com,4.2.2,CLOS,NOT_,16-01-2015,blo,13,11-05-2017
+538135,Cannot open launch configuration,Platform,UI,Platform-UI-Inbox@eclipse.org,,joaopaulo.ps93@gmail.com,4.8,CLOS,NOT_,21-08-2018,blo,1,22-08-2018
+540749,CTRL + Mouse Click Causes hang up,Platform,IDE,Platform-UI-Inbox@eclipse.org,,frederik.martin1976@gmail.com,4.1,CLOS,NOT_,04-11-2018,blo,3,04-11-2018
+526860,IDE fails to load,Platform,IDE,Platform-UI-Inbox@eclipse.org,,manny.systemsengineer@gmail...,4.8,RESO,WORK,06-11-2017,blo,3,10-11-2017
+471717,[Cocoa][10.10] Some link objects don't work on Mac,Platform,SWT,platform-swt-inbox@eclipse.org,,mmalina@redhat.com,4.4.1,RESO,WORK,02-07-2015,blo,14,19-06-2017
+533123,"An internal error occurred during: ""http://www.soapui.org/eclipse/update/site.xml/p2.index"". sun.security.internal.spec.TlsMasterSecretParameterSpec.getExtendedMasterSecretSessionHash()[B",PDE,Build,pde-build-inbox@eclipse.org,,dharmendra.pyare@gmail.com,4.8,RESO,NOT_,01-04-2018,blo,2,02-04-2018
+534797,Eclipse freezes on CTRL while hovering comment,JDT,UI,jdt-ui-inbox@eclipse.org,,mail@wouter.io,4.7.3,RESO,WORK,17-05-2018,blo,2,17-05-2018
+533881,Eclipse Freeze indefinitely,Platform,SWT,platform-swt-inbox@eclipse.org,,vincent.delemos@maincare.fr,4,CLOS,NOT_,20-04-2018,blo,2,22-08-2019
+525863,"when traversing through a project directory, sub directories take forever to open, sometimes forced to quit",JDT,Core,jdt-core-inbox@eclipse.org,,kevin.nassiri@intelerad.com,4.6,CLOS,WONT,11-10-2017,blo,5,07-04-2020
+474112,Eclipse crashes in WebKitGTK._soup_session_feature_detach,Platform,SWT,platform-swt-inbox@eclipse.org,,ramachari.rn@gmail.com,4.2,CLOS,DUPL,03-08-2015,blo,5,03-08-2015
+518895,Freezing problem on STS 3.8.4,JDT,UI,jdt-ui-inbox@eclipse.org,,alessandro985.ale@gmail.com,4.6,CLOS,DUPL,28-06-2017,blo,3,30-06-2017
+465633,Eclipse Luna get crashed on launch.,Platform,Runtime,platform-runtime-inbox@ecli...,,kchokshi@regalinfoservice.com,4.4.2,RESO,WORK,27-04-2015,blo,4,02-09-2019
+547333,[32 bit][GTK2] Eclipse assembly code broke the alignment of the stack pointer,Platform,SWT,platform-swt-inbox@eclipse.org,,manqingl@ca.ibm.com,4.7.3,CLOS,WONT,15-05-2019,blo,10,06-06-2019
+471695,while installing ecplise repository,PDE,Incubato,PDE-Incubator-Inbox@eclipse...,,srinisatya66@gmail.com,4.5,RESO,INVA,02-07-2015,blo,2,06-07-2015
+552705,Incomplete build path reported for JDK classes,JDT,Core,stephan.herrmann@berlin.de,,martin_ginkel@web.de,4.13,RESO,NOT_,05-11-2019,blo,7,13-11-2019
+492760,4.6M7 fails on startup,Platform,UI,Platform-UI-Inbox@eclipse.org,,eclipse.sprigogin@gmail.com,4.6,RESO,WORK,29-04-2016,blo,10,09-05-2016
+465333,CLI arguments not taken into account,Equinox,Launcher,pascal@rapicorp.com,,pascal@rapicorp.com,4.5.0,VERI,FIXE,23-04-2015,blo,18,28-04-2015
+461227,"changes to releng test.xml files contained extra '"">'",Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.5,RESO,FIXE,02-03-2015,blo,2,02-03-2015
+527294,java classes are not showed,Platform,IDE,Platform-UI-Inbox@eclipse.org,,icarusdb@gmail.com,4.7.1,RESO,WORK,15-11-2017,blo,4,15-11-2017
+553628,TestNG plugin is not getting installed in Eclipse Oxygen Apr-2018 version,PDE,Build,pde-build-inbox@eclipse.org,,mdziyaurmca@gmail.com,4.14,CLOS,DUPL,30-11-2019,blo,2,31-03-2020
+510223,Error when trying to save using Java editor,JDT,UI,jdt-ui-inbox@eclipse.org,,robert.boctor@canada.ca,4.5.2,CLOS,DUPL,10-01-2017,blo,4,10-01-2017
+530212,java.lang.IncompatibleClassChangeError with method reference.,JDT,Core,stephan.herrmann@berlin.de,,snotmare@gmail.com,4.7.1,CLOS,DUPL,23-01-2018,blo,3,23-01-2018
+496860,[JFace] Unit test failure prevents Hudson from voting +1 on incoming Gerrit review,Platform,UI,Platform-UI-Inbox@eclipse.org,,mistria@redhat.com,4.6,CLOS,DUPL,27-06-2016,blo,2,28-06-2016
+499079,Major drawing problems in text editors,Platform,Text,platform-text-inbox@eclipse...,,eclipse.sprigogin@gmail.com,4.7,CLOS,DUPL,03-08-2016,blo,4,03-08-2016
+473327,Not Java 8 Compatible,JDT,Core,stephan.herrmann@berlin.de,,bookmunch@hotmail.com,4.6,VERI,WORK,22-07-2015,blo,4,04-08-2015
+483957,javaFX application launcher error - java.lang.UnsatisfiedLinkError: com.sun.glass.ui.win.WinApplication.initIDs,Platform,Runtime,platform-runtime-inbox@ecli...,,mateofacu@gmail.com,4.5.1,CLOS,NOT_,08-12-2015,blo,2,13-12-2015
+466690,Eclipse no longer starts with Java 9 b61+: NoClassDefFoundError: org/w3c/dom/stylesheets/StyleSheetList,Equinox,Framewor,equinox.framework-inbox@ecl...,,andreas.kohn@gmail.com,unspe,CLOS,DUPL,07-05-2015,blo,8,07-10-2017
+486875,[Cocoa] Eclipse Eventually crashes in El Capitan OSX,Platform,SWT,platform-swt-inbox@eclipse.org,,douglas.ortega@fusionpartne...,3.7.2,RESO,WORK,29-01-2016,blo,6,24-08-2017
+527409,Eclipse will not install on my PC I have attached the output,Platform,IDE,Platform-UI-Inbox@eclipse.org,,bonnie.sterling.analytics@g...,4.8,RESO,INVA,17-11-2017,blo,2,17-11-2017
+537552,Code Editor window is flickering,JDT,UI,jdt-ui-inbox@eclipse.org,,goyalneeraj18@gmail.com,4.9,RESO,WORK,01-08-2018,blo,2,02-08-2018
+458037,Error markers shown in java file on close of eclipse and relaunch if java file open,PDE,UI,daniel_megert@ch.ibm.com,,Vikas.Chandra@in.ibm.com,4.5,VERI,FIXE,21-01-2015,blo,10,23-01-2015
+478695,"EGit 4.1 is incompatible to Eclipse Mars Release (4.5.0), multiple com.jcraft.jsch versions",Equinox,p2,equinox.p2-inbox@eclipse.org,,niks@gmx.li,4.5.0,RESO,FIXE,30-09-2015,blo,15,19-05-2016
+530924,exception on try to run command after abnormal shutdown,Platform,Runtime,platform-runtime-inbox@ecli...,,inna.schaermann@nasdaq.com,4.4,CLOS,WONT,09-02-2018,blo,2,10-04-2020
+465463,Keybinding get lost,Platform,UI,Platform-UI-Inbox@eclipse.org,,pascal@rapicorp.com,4.5,RESO,DUPL,24-04-2015,blo,2,25-04-2015
+544932,Eclipse.app fails to launch on Mac,Platform,Releng,platform-releng-inbox@eclip...,,lshanmug@in.ibm.com,4.11,RESO,FIXE,28-02-2019,blo,15,07-03-2019
+463531,Compile failure stopped N20150330-2000 build,Platform,SWT,sravankumarl@in.ibm.com,,david_williams@acm.org,4.5,RESO,FIXE,30-03-2015,blo,4,07-07-2015
+514277,Performance of closing parts/windows (with many visibleWhen/enabledWhen) is very slow,Platform,UI,tom.schindl@bestsolution.at,,tom.schindl@bestsolution.at,4.7,CLOS,FIXE,27-03-2017,blo,39,08-05-2017
+490425,"Hang on ""Installed JREs"" > Add…",Platform,UI,Platform-UI-Inbox@eclipse.org,,brecht.verhoeve@telenet.be,4.5.2,CLOS,WORK,25-03-2016,blo,6,01-09-2016
+495598,incorrect package vs class resolution,JDT,Core,manpalat@in.ibm.com,stephan.herrmann@berlin.de,jnord@cloudbees.com,4.6,VERI,FIXE,07-06-2016,blo,61,17-11-2016
+551400,[Eclipse Jee Oxygen]: I am getting an error while launching the Eclipse work-space.,Platform,IDE,Platform-UI-Inbox@eclipse.org,,ayushcertain1995@gmail.com,4.7,CLOS,INVA,24-09-2019,blo,3,31-03-2020
+519413,Error creating a Javascript project,Platform,SWT,platform-swt-inbox@eclipse.org,,dqjunk@gmail.com,4.7,CLOS,INVA,07-07-2017,blo,3,18-07-2017
+521520,Cannot start IDE due to infinite when painting toolbar,Platform,IDE,Platform-UI-Inbox@eclipse.org,,john.bester@softco.co.za,4.6,CLOS,DUPL,29-08-2017,blo,2,29-08-2017
+489613,VNC client launching giving errors,JDT,Core,jarthana@in.ibm.com,,rajani.kanth.vankadari@sap.com,4.6,VERI,INVA,15-03-2016,blo,6,26-04-2016
+548353,"When I include org.eclipse.jdt feature from I-build p2 repo, product builds fail",Platform,Releng,sravankumarl@in.ibm.com,,mat.booth@redhat.com,4.13,CLOS,FIXE,17-06-2019,blo,6,18-06-2019
+497193,"incorrect compile error ""Cannot infer type arguments""",JDT,Core,stephan.herrmann@berlin.de,,eclipse.org@familie-wilhelm...,4.6,CLOS,DUPL,03-07-2016,blo,3,03-07-2016
+493197,[HiDPI] 4.6 M7 does not show any icons in toolbar and perspective changer and strange lines in editors,Platform,SWT,platform-swt-inbox@eclipse.org,,kesselhaus@gmx.net,4.6,CLOS,DUPL,08-05-2016,blo,4,09-05-2016
+501328,installer for neon fails to complete error log included,Platform,Runtime,platform-runtime-inbox@ecli...,,iaingmacg@me.com,4.6,CLOS,WONT,13-09-2016,blo,2,18-02-2020
+541097,Impossible to download Eclipse.,Platform,IDE,Platform-UI-Inbox@eclipse.org,,timothee.nouel@telecom-pari...,4.1,CLOS,INVA,13-11-2018,blo,3,31-03-2020
+472300,Mac OS X El Capitan Beta 3 and Eclipse Mars,Platform,IDE,Platform-UI-Inbox@eclipse.org,,psitethea@gmail.com,4.5,CLOS,DUPL,09-07-2015,blo,2,09-07-2015
+488967,"[BETA_JAVA9] Patch builds using M5, instead of latest I-build and no ""code"" produced.",Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,03-03-2016,blo,6,04-03-2016
+482546,Failed with error,Platform,IDE,Platform-UI-Inbox@eclipse.org,,nathanmerrill72@gmail.com,4.6,CLOS,INVA,18-11-2015,blo,3,31-03-2016
+492321,[GTK3] Not able to create new tomcat server in eclipse Mars.2 on Ubuntu 16.04 LTS,Platform,SWT,platform-swt-inbox@eclipse.org,,saini.jitender@gmail.com,4.5.2,CLOS,DUPL,24-04-2016,blo,6,28-04-2016
+465635,update to launchers forgot to change eclipse.inf for hpux.ia64,Equinox,Launcher,arunkumar.thondapu@in.ibm.com,,david_williams@acm.org,4.5.0,VERI,FIXE,27-04-2015,blo,3,28-04-2015
+526911,"Generated class file causes exception, works with javac 9.0.1 and 1.8.*",JDT,Core,sasikanth.bharadwaj@in.ibm.com,,thmsvglr@gmail.com,4.8,VERI,FIXE,06-11-2017,blo,17,17-07-2018
+532009,Global bindings don't work - Eclipse 4.7 Oxygen,Platform,UI,Platform-UI-Inbox@eclipse.org,,marianocamarzana@gmail.com,4.7,CLOS,DUPL,05-03-2018,blo,2,13-03-2018
+550405,Login is not working,JDT,APT,jdt-apt-inbox@eclipse.org,,kkr808284@gmail.com,4.13,CLOS,FIXE,24-08-2019,blo,3,24-08-2019
+510330,I20170111-2000 build failed with compilation errors,Platform,UI,Lars.Vogel@vogella.com,,sravankumarl@in.ibm.com,4.7,RESO,FIXE,12-01-2017,blo,10,12-01-2017
+536523,Unable to switch to other perspectives in Eclipse Photon,Platform,IDE,Platform-UI-Inbox@eclipse.org,,cranticumar.sub@gmail.com,4.9,RESO,WORK,29-06-2018,blo,2,21-07-2018
+530014,Build input failure for I20180118-2000,Platform,SWT,platform-swt-inbox@eclipse.org,,sravankumarl@in.ibm.com,4.8,RESO,FIXE,18-01-2018,blo,3,31-01-2018
+470976,"Graphical errors when typing ""new line""-character",Platform,SWT,platform-swt-inbox@eclipse.org,,lukas.glowania@rub.de,4.5,RESO,WORK,25-06-2015,blo,3,15-01-2018
+540951,NPE during compile (Java 11) in org.eclipse.jdt.internal.compiler.lookup.ParameterizedTypeBinding.getMemberType,JDT,Core,register.eclipse@brychcy.de,,stephan.bircher@icloud.com,4.1,CLOS,DUPL,09-11-2018,blo,16,17-04-2019
+531077,Build failure in I20180212-2000,PDE,UI,akurtakov@gmail.com,,sravankumarl@in.ibm.com,4.8,VERI,FIXE,12-02-2018,blo,6,05-03-2018
+493222,Help is broken: HTTP 500 internal server error,JDT,Core,manpalat@in.ibm.com,,daniel_megert@ch.ibm.com,4.5,VERI,FIXE,09-05-2016,blo,12,10-05-2016
+530093,Unable to install: xyz requires 'osgi.ee; (&(osgi.ee=JavaSE)(version=1.8))' but it could not be found,Platform,Releng,mistria@redhat.com,,loskutov@gmx.de,4.8,VERI,FIXE,21-01-2018,blo,31,19-04-2018
+529072,NPE in LeakExtendsProblemDetector.isAPIType(LeakExtendsProblemDetector.java:243),PDE,API Tool,Vikas.Chandra@in.ibm.com,,daniel_megert@ch.ibm.com,4.8,VERI,FIXE,21-12-2017,blo,14,25-01-2018
+501386,Build failure for I20160914-0030 and I20160913-2000,Equinox,Framewor,equinox.framework-inbox@ecl...,,sravankumarl@in.ibm.com,4.7.0,RESO,DUPL,14-09-2016,blo,4,14-09-2016
+540347,Unable to Save changes to Pass in Eclipse Neon 4.6.3,Platform,IDE,Platform-UI-Inbox@eclipse.org,,aundine.kapp@britehouse.co.za,4.6,CLOS,NOT_,21-10-2018,blo,5,21-10-2018
+479758,PDE fails to read resource property files,PDE,UI,daniel_megert@ch.ibm.com,,daniel_megert@ch.ibm.com,4.5,VERI,FIXE,14-10-2015,blo,3,14-01-2020
+457118,OutOfMemoryError (Java Heap Space) when resolving bundles,Equinox,Framewor,tjwatson@us.ibm.com,,matthieu.helleboid@thalesgr...,3.10.,RESO,FIXE,09-01-2015,blo,29,07-04-2015
+462573,"I use java on Eclipse, but does not running eclipse, and cmd mode too.",JDT,APT,jdt-apt-inbox@eclipse.org,,ee32320@hotmail.com,4.5,VERI,INVA,19-03-2015,blo,4,23-03-2015
+543114,Eclipse V4.6.3 (Latest for Solaris) Crashes on Start w/JSE 8u92 and JSE 11.0.1,Platform,IDE,Platform-UI-Inbox@eclipse.org,,bugzilla-text-only-no-html@...,4.6,CLOS,WONT,01-01-2019,blo,2,04-11-2019
+470322,Failure to Print to HP Officejet Pro 8600,Platform,SWT,platform-swt-inbox@eclipse.org,,quant@streamingalpha.com,4.5,CLOS,WONT,17-06-2015,blo,4,14-12-2017
+490704,recent I build failed due to 64 bit solaris launcher added too soon,Equinox,Launcher,equinox.launcher-inbox@ecli...,,david_williams@acm.org,unspe,RESO,FIXE,30-03-2016,blo,5,03-06-2016
+522685,Unable to open eclipse ide,Platform,IDE,Platform-UI-Inbox@eclipse.org,,diprls1981@gmail.com,4.8,CLOS,WORK,23-09-2017,blo,3,29-10-2017
+552792,[metatype] Persistence StackOverflowError when reading Double,Equinox,Componen,tjwatson@us.ibm.com,,andreaslmmr@gmail.com,4.12,RESO,FIXE,07-11-2019,blo,5,07-11-2019
+498755,"Can't build java project due to null pointer exception - Building workspace has encountered a problem, errors running builder 'Java builder'",JDT,Core,stephan.herrmann@berlin.de,,svaens@gmail.com,4.6,CLOS,DUPL,28-07-2016,blo,7,02-08-2016
+530267,Plugin App fails to receive mouse/keyboard input with Java 8u152 or higher,Platform,SWT,platform-swt-inbox@eclipse.org,,keith@bitjar.com,4.5.2,CLOS,DUPL,24-01-2018,blo,21,27-02-2018
+521643,Mac build for M20170830-1700 is missing link to Applications folder,Platform,Releng,sravankumarl@in.ibm.com,,lshanmug@in.ibm.com,4.7,RESO,FIXE,31-08-2017,blo,18,11-09-2017
+458346,"Unusual, hard to decipher error in I-build",Equinox,Server-S,tjwatson@us.ibm.com,,david_williams@acm.org,4.5.0,VERI,FIXE,24-01-2015,blo,11,30-01-2015
+546166,build does nothing,Platform,IDE,Platform-UI-Inbox@eclipse.org,,catpoopjb7@gmail.com,4.12,RESO,WORK,05-04-2019,blo,4,06-04-2019
+497176,"Gerrit doesn't add ""Hudson CI"" to cherry picked commits on Platform UI",Platform,Releng,david_williams@acm.org,,loskutov@gmx.de,4.7,RESO,FIXE,02-07-2016,blo,13,12-07-2016
+473256,Pre_TVT_IES45: Plug Project can not be create success in language Czech,PDE,Build,pde-build-inbox@eclipse.org,,xbpan@cn.ibm.com,4.5,RESO,NOT_,22-07-2015,blo,4,23-07-2015
+514881,Eclipse not able to open,Equinox,Launcher,equinox.launcher-inbox@ecli...,,vaibhavkolte001@gmail.com,unspe,CLOS,WONT,06-04-2017,blo,4,19-09-2019
+466525,Eclipse crashes on new plugin project wizard,PDE,UI,pde-ui-inbox@eclipse.org,,bugdayci@gmail.com,4.4.2,CLOS,DUPL,06-05-2015,blo,8,06-05-2015
+521874,No esta guardando correctamente los cambios y es necesario hasta reiniciar el equipo,Platform,Runtime,platform-runtime-inbox@ecli...,,vanetache@gmail.com,4.7,CLOS,WONT,05-09-2017,blo,2,15-03-2020
+534697,Latest source was not picked up for some commits,Platform,Releng,platform-releng-inbox@eclip...,,sravankumarl@in.ibm.com,4.8,RESO,INVA,15-05-2018,blo,5,15-05-2018
+479838,Outline view not available for Java file,JDT,Text,markus.kell.r@gmail.com,,sarika.sinha@in.ibm.com,4.6,CLOS,FIXE,15-10-2015,blo,5,19-10-2015
+529570,Performance problem with StyledText and line spacing,Platform,SWT,azerr@redhat.com,,azerr@redhat.com,4.8,RESO,FIXE,09-01-2018,blo,25,09-02-2018
+526392,JSP source is shown if extension is not matching exactly (case-sensitive),Platform,User Ass,kalyan_prasad@in.ibm.com,,kishorekum@in.ibm.com,3.3.1,RESO,FIXE,24-10-2017,blo,34,30-03-2020
+545425,Unhandled event loop exception - no more handles,Platform,SWT,platform-swt-inbox@eclipse.org,,vit.rozkovec@gmail.com,4.1,CLOS,NOT_,14-03-2019,blo,12,20-03-2019
+476415,"Hello, I cannot start IDE on Linux - elementary OS 0.3 Freya",Platform,IDE,Platform-UI-Inbox@eclipse.org,,haoyuewen812@sina.com,4.5,CLOS,DUPL,02-09-2015,blo,2,02-09-2015
+498729,Failed to create the part's controls,Platform,IDE,Platform-UI-Inbox@eclipse.org,,tcarthew@telligence.com.au,4.5.2,CLOS,WORK,28-07-2016,blo,2,20-09-2016
+465182,Plugins not imported in ECLIPSE LUNA version but workings same in ECLIPSE INDIGO,PDE,Build,pde-build-inbox@eclipse.org,,mastan412@gmail.com,4.4,RESO,WONT,22-04-2015,blo,6,03-12-2018
+494151,Eclipse crashes after displaying splash screen with java.lang.NoClassDefFoundError,Platform,SWT,arunkumar.thondapu@in.ibm.com,,arunkumar.thondapu@in.ibm.com,4.6,RESO,FIXE,20-05-2016,blo,13,24-05-2016
+539285,Some plug-ins have lower qualifiers than in R4.9!Some plug-ins have lower qualifiers than in R4.9,Platform,Releng,platform-releng-inbox@eclip...,,daniel_megert@ch.ibm.com,4.9,VERI,FIXE,20-09-2018,blo,14,22-09-2018
+535472,Oxygen 3a IllegalArgumentException in ASTParser.<init>,JDT,Core,stephan.herrmann@berlin.de,,nniesen.mn@gmail.com,4.7.3,RESO,NOT_,01-06-2018,blo,8,04-06-2018
+539727,Eclipse-inst and Eclipse v 4.9.0 SEGV's upon launch under MacOS Mojave,Equinox,Launcher,equinox.launcher-inbox@ecli...,,rdpoor@gmail.com,4.9,RESO,WORK,02-10-2018,blo,6,01-07-2019
+553620,Cannot Start Eclipse after software update,Platform,IDE,Platform-UI-Inbox@eclipse.org,,vickychan_cmc@yahoo.com.hk,4.9,CLOS,DUPL,29-11-2019,blo,2,29-11-2019
+520333,Provisioning Exception: No repository Found,Platform,IDE,Platform-UI-Inbox@eclipse.org,,cscuisia@gmail.com,4.3.2,RESO,NOT_,30-07-2017,blo,3,31-07-2017
+521423,Cannot compile my project anymore due to java.lang.StackOverflowError at org.eclipse.jdt.internal.compiler.lookup.ParameterizedTypeBinding.collectInferenceVariables(ParameterizedTypeBinding.java:958),JDT,Core,jdt-core-inbox@eclipse.org,,ta@kessler.ch,4.7,CLOS,DUPL,25-08-2017,blo,4,29-08-2017
+544317,IBuild I20190210-1800 failed due to unresolved project dependencies.,Platform,Releng,niraj.modi@in.ibm.com,,niraj.modi@in.ibm.com,4.11,RESO,FIXE,10-02-2019,blo,6,11-02-2019
+490973,"Broken download pages due to missing ""processing""",Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,03-04-2016,blo,16,08-04-2016
+490026,Can’t launch Eclipse on Ubuntu Mate 16.04,Platform,SWT,sravankumarl@in.ibm.com,,med.medin.2014@gmail.com,4.5.2,RESO,WORK,20-03-2016,blo,9,10-12-2017
+515286,Initialization of org.eclipse.osgi.storage.FrameworkExtensionInstaller fails with JDK9,Equinox,Launcher,tjwatson@us.ibm.com,,pollentierk@yahoo.com,4.7.0,RESO,FIXE,14-04-2017,blo,9,18-04-2017
+547833,"[content assist] Chain Completion enabled automatically, too slow, causes freezes",JDT,Text,loskutov@gmx.de,,ed@willink.me.uk,4.12,VERI,FIXE,01-06-2019,blo,23,18-12-2019
+465342,a.jre.javase appears to be at wrong version (1.7.0),Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.5,RESO,FIXE,23-04-2015,blo,15,02-06-2015
+519138,[GTK3] White or invisible text all over the place with non-Adwaita themes,Platform,SWT,ericwill@redhat.com,,Lars.Vogel@vogella.com,4.8,VERI,FIXE,04-07-2017,blo,26,01-08-2017
+500162,Eclipse Market place is down,PDE,API Tool,pde-apitools-inbox@eclipse.org,,lakshayghai@gmail.com,4.7,RESO,INVA,23-08-2016,blo,3,26-08-2016
+516050,Eclipse does not start with java.lang.NoClassDefFoundError: javax/annotation/PostConstruct,Equinox,Launcher,equinox.launcher-inbox@ecli...,,Lars.Vogel@vogella.com,unspe,CLOS,DUPL,02-05-2017,blo,5,02-05-2017
+520178,Eclipse is not startingup after selecting workspace,Platform,IDE,Platform-UI-Inbox@eclipse.org,,myidrajkumar@gmail.com,4.8,CLOS,WONT,25-07-2017,blo,5,09-04-2020
+465462,Eclipse Luna can't connect to marketplace,Platform,IDE,Platform-UI-Inbox@eclipse.org,,polichlorek@gmail.com,4.4.2,CLOS,NOT_,24-04-2015,blo,10,27-04-2015
+489291,java.lang.OutOfMemoryError: Java heap space,Platform,IDE,Platform-UI-Inbox@eclipse.org,,uday.dharmaiahgari@gmail.com,4.6,CLOS,WORK,09-03-2016,blo,5,16-03-2016
+507598,Comparator errors in M20161116-0400,Equinox,Framewor,equinox.framework-inbox@ecl...,,sravankumarl@in.ibm.com,4.7.0,RESO,FIXE,16-11-2016,blo,6,16-11-2016
+543533,[DataBinding] java.lang.IllegalArgumentException,Platform,UI,akurtako@redhat.com,,Aleksandr.Dudayev@xored.com,4.1,RESO,FIXE,17-01-2019,blo,9,19-01-2019
+549237,4.13.0 I-Build: I20190712-1800 - BUILD FAILED due to Compilation failure,PDE,Build,Vikas.Chandra@in.ibm.com,,sarika.sinha@in.ibm.com,4.13,VERI,FIXE,12-07-2019,blo,8,20-08-2019
+536709,Gerrit build fails because tries to access 4.8 I-Builds,Platform,SWT,platform-swt-inbox@eclipse.org,,loskutov@gmx.de,4.9,CLOS,INVA,05-07-2018,blo,2,05-07-2018
+490473,Unable to download Angular JS plugin,PDE,UI,pde-ui-inbox@eclipse.org,,sriramv78@gmail.com,4.5,RESO,NOT_,25-03-2016,blo,2,27-03-2016
+519864,Build failure from I20170718-2000 due to incorrect encoding of urls,Platform,Releng,platform-releng-inbox@eclip...,,sravankumarl@in.ibm.com,4.8,CLOS,WONT,19-07-2017,blo,4,21-04-2020
+490854,hii,JDT,Core,jdt-core-inbox@eclipse.org,,madhawesh70@gmail.com,4.4.2,RESO,INVA,01-04-2016,blo,2,04-04-2016
+526606,Eclipse works with JDK 8u152 but does not work with JDK 9.0.1,Platform,IDE,Platform-UI-Inbox@eclipse.org,,ryan_zoerner@hotmail.com,4.7,RESO,WORK,28-10-2017,blo,8,12-11-2017
+464229,The type * cannot be resolved. It is indirectly referenced from required .class files,JDT,Core,sasikanth.bharadwaj@in.ibm.com,,markus.duft@ssi-schaefer.com,4.5,VERI,FIXE,09-04-2015,blo,18,26-05-2015
+526065,[9] Updating to Oxygen.1a (4.7.1a) does not uninstall/overwrite Java 9 BETA,JDT,Core,jdt-core-inbox@eclipse.org,,eclipse@voormann.de,4.7.1,RESO,WONT,16-10-2017,blo,54,23-12-2018
+518600,[Cocoa] EXC_BAD_ACCESS (SIGABRT) Exception Codes: KERN_INVALID_ADDRESS at 0x0000000000000008 on new MacBook Pro with Touch Bar,Platform,SWT,platform-swt-inbox@eclipse.org,,don.vale@usa.net,3.6.2,RESO,WORK,21-06-2017,blo,10,08-04-2020
+539947,Update Mockito to version 2.23 or newer for Java 11 compatibility,Platform,Releng,akurtakov@gmail.com,,akurtakov@gmail.com,4.8,RESO,FIXE,09-10-2018,blo,13,15-11-2018
+540129,Cannot complete the install because of a conflicting dependency.,Equinox,p2,equinox.p2-inbox@eclipse.org,,dinaa.mca@gmail.com,unspe,RESO,WONT,15-10-2018,blo,2,21-02-2020
+499603,New java project does not get created correctly on network share,Platform,Resource,platform-resources-inbox@ec...,,sebastian.jubula@gmail.com,4.5.2,CLOS,WONT,12-08-2016,blo,4,14-02-2020
+539345,Windows test results not published,Platform,Releng,kalyan_prasad@in.ibm.com,,loskutov@gmx.de,4.9,RESO,FIXE,22-09-2018,blo,5,25-09-2018
+492318,Eclipse CDT Mars.2 can't create project on Ubuntu 16.04,Platform,SWT,platform-swt-inbox@eclipse.org,,sp_eclipse@syzzer.nl,4.5.2,CLOS,DUPL,24-04-2016,blo,6,28-04-2016
+532829,[code mining] Eclipse IDE freezes when refactor is done for method parameter name,Platform,Text,azerr@redhat.com,,azerr@redhat.com,4.8,RESO,FIXE,23-03-2018,blo,6,05-04-2018
+499004,"Context menu entries are missing in minimized views, e.g. in Git Repositories view",Platform,UI,daniel_megert@ch.ibm.com,,daniel_megert@ch.ibm.com,4.7,VERI,FIXE,01-08-2016,blo,6,21-10-2018
+491858,"Some bundles (o.e.e4.tools.emf.ui*) have decreased version in 4.6, compared to 4.5",Platform,UI,Platform-UI-Inbox@eclipse.org,,david_williams@acm.org,4.6,VERI,FIXE,17-04-2016,blo,9,26-05-2016
+538095,Fresh installed Eclipse freezes,Platform,IDE,Platform-UI-Inbox@eclipse.org,,mortensen.frederik@gmail.com,4.9,RESO,NOT_,20-08-2018,blo,5,21-08-2018
+521789,Mac installer yields non-functional version,Platform,IDE,Platform-UI-Inbox@eclipse.org,,groblewis@mac.com,4.7,RESO,WORK,03-09-2017,blo,12,07-09-2017
+478851,Unable to Type in the Editor,Platform,IDE,Platform-UI-Inbox@eclipse.org,,jitin688@live.com,4.6,CLOS,WORK,01-10-2015,blo,5,31-03-2016
+525706,After installation starting Eclipse end in an error,JDT,Core,jdt-core-inbox@eclipse.org,,rhoad@jumbosoft.eu,4.7,CLOS,WONT,06-10-2017,blo,6,23-10-2019
+507869,Build fails because of erroneous <eclipserun-repo>,Platform,Releng,sravankumarl@in.ibm.com,,mistria@redhat.com,4.7,VERI,FIXE,21-11-2016,blo,9,14-12-2016
+518449,"Project cannot be build, due to compiler exception",JDT,Core,jdt-core-inbox@eclipse.org,,frank.benoit.ext@valeo.com,4.7,RESO,DUPL,19-06-2017,blo,2,19-06-2017
+473431,Eclipse doesn't start up,Platform,IDE,psuzzi@gmail.com,,madhunaga17@gmail.com,4.3.2,CLOS,WORK,23-07-2015,blo,6,30-05-2016
+549103,Ctrl + A and Ctrl + S not working with Build id: I20190708-1800,Platform,UI,Platform-UI-Inbox@eclipse.org,,niraj.modi@in.ibm.com,4.13,CLOS,DUPL,09-07-2019,blo,7,25-07-2019
+493454,Null pointer exceptions when accessing certain parts of Eclipse,Platform,IDE,Platform-UI-Inbox@eclipse.org,,maritumaa@gmail.com,4.5.2,CLOS,DUPL,11-05-2016,blo,6,02-06-2016
+470954,Eclipse crash on startup,Platform,IDE,Platform-UI-Inbox@eclipse.org,,zhyhang1978@gmail.com,4.5,RESO,WORK,25-06-2015,blo,4,14-03-2016
+529010,Error launching an Ant,Platform,Ant,platform-ant-inbox@eclipse.org,,dcarretas@gmail.com,4.7.1,RESO,WORK,20-12-2017,blo,8,06-12-2018
+520195,Install Eclipse IDE PHP : Connection timed out : Connect,Platform,IDE,Platform-UI-Inbox@eclipse.org,,angalexia@gmail.com,4.8,CLOS,WONT,26-07-2017,blo,2,27-03-2020
+466700,Model spy is not available via e4 tools build,e4,Tools,e4.tools-inbox@eclipse.org,,olivier.prouvost@opcoach.com,0.17,RESO,FIXE,07-05-2015,blo,9,07-05-2015
+491959,It is not possible to download elcips marcs,JDT,APT,jdt-apt-inbox@eclipse.org,,sanjyot.kadu@gmail.com,4.6,VERI,INVA,19-04-2016,blo,3,26-04-2016
+522069,beans.xml null pointer exception,Platform,IDE,Platform-UI-Inbox@eclipse.org,,bogdan.stroescu@outlook.com,4.7,RESO,NOT_,08-09-2017,blo,2,16-11-2017
+526545,Update JDT core compiler and apt compiler to use Photon M3 to produce M4,JDT,Core,jarthana@in.ibm.com,,sravankumarl@in.ibm.com,4.8,RESO,FIXE,27-10-2017,blo,32,18-12-2017
+520282,Get NullPointerException (Only Error) in Product Launch with Validated Plugins with 4.7,PDE,UI,pde-ui-inbox@eclipse.org,,ken@kenevans.net,4.7,CLOS,WONT,27-07-2017,blo,6,07-09-2019
+495484,Remove unique user tracking id in Neon,Equinox,p2,pascal@rapicorp.com,,mknauer@eclipsesource.com,4.6.0,RESO,FIXE,05-06-2016,blo,40,14-06-2016
+500503,ASTParser.createASTs() throws NullPointerException in ReferenceExpression.copy(ReferenceExpression.java:141) and CompilationUnitResolver.resolve(CompilationUnitResolver.java:978),JDT,Core,stephan.herrmann@berlin.de,sasikanth.bharadwaj@in.ibm.com,stoshins@gmail.com,4.6,VERI,FIXE,30-08-2016,blo,22,Thu 17:06
+536756,"Eclipse Photon: Editor refreshing (or reloading) repeatedly, regularly for no apparent reason ...",Platform,UI,Platform-UI-Inbox@eclipse.org,,bwechner@yahoo.com,4.8,CLOS,DUPL,06-07-2018,blo,10,10-10-2019
+465121,Eclipse crash: java.lang.UnsatisfiedLinkError: org.eclipse.swt.internal.cocoa.OS.CALLBACK_focusRingMaskBoundsForFrame_inView_(J)J,Platform,SWT,arunkumar.thondapu@in.ibm.com,,bsd@acm.org,4.5,RESO,FIXE,21-04-2015,blo,4,22-04-2015
+533349,Java9 within Eclipe 4.7.3 does not recognize the Java libraries (jar),JDT,Core,stephan.herrmann@berlin.de,,colbert.philippe@YAHOO.com,4.7.3,VERI,INVA,08-04-2018,blo,4,09-05-2018
+461103,build failure in N20150227-2000 related to x.x.000 version numbers that break Tycho,Platform,Debug,sarika.sinha@in.ibm.com,,david_williams@acm.org,4.5,VERI,FIXE,27-02-2015,blo,6,28-05-2015
+531920,[code mining] CodeMining annotation doesn't appear when text are added,Platform,Text,platform-text-inbox@eclipse...,,azerr@redhat.com,4.8,RESO,FIXE,02-03-2018,blo,8,05-04-2018
+541653,Selecting 'Link Handlers' preference page results in exceptions - does not work,Platform,UI,ma.becker@sap.com,,daniel_megert@ch.ibm.com,4.1,RESO,FIXE,28-11-2018,blo,34,05-01-2020
+483239,Unusual errors in N20151129-2200 build,JDT,Core,manpalat@in.ibm.com,,david_williams@acm.org,4.6,VERI,FIXE,29-11-2015,blo,25,09-12-2015
+542650,Over 6000 test failures in 4.11 I-builds,Platform,SWT,platform-swt-inbox@eclipse.org,,sravankumarl@in.ibm.com,4.1,CLOS,FIXE,11-12-2018,blo,3,19-12-2018
+471813,Error cloning (import) projects from GitHub,Equinox,Security,equinox.security-inbox@ecli...,,luis.de.sousa@protonmail.ch,4.5.0,CLOS,WONT,03-07-2015,blo,10,17-10-2019
+526834,IDE fails to load,Platform,IDE,Platform-UI-Inbox@eclipse.org,,acgetchell@ucdavis.edu,4.8,RESO,WORK,04-11-2017,blo,2,14-02-2018
+483927,Eclipse 4.5 failed to install plugin on s390x,Equinox,p2,equinox.p2-inbox@eclipse.org,,lzhang@ca.ibm.com,4.5.0,CLOS,WONT,08-12-2015,blo,4,08-03-2018
+496338,Eclipse enters deadlock when running a project or making a new project,JDT,Core,stephan.herrmann@berlin.de,,schrammlb2@gmail.com,4.5,CLOS,WORK,17-06-2016,blo,4,31-01-2019
+533326,Eclipse freeze after the first splash screen when running in with GTK 3,Platform,SWT,platform-swt-inbox@eclipse.org,,gayanper@gmail.com,4.8,CLOS,WORK,06-04-2018,blo,20,16-08-2018
+481157,Java 1.9 patch apparently deleted from build.eclipse.org,JDT,Core,david_williams@acm.org,,vissar2g@gmail.com,4.6,RESO,FIXE,30-10-2015,blo,5,30-10-2015
+489642,"32 bit launcher on linux is ""ELF 64-bit LSB""",Equinox,Launcher,arunkumar.thondapu@in.ibm.com,,stephan.herrmann@berlin.de,4.5.0,VERI,FIXE,15-03-2016,blo,15,17-03-2016
+515878,[regression] Validation error: org.eclipse.jetty.http missing constraint,Equinox,Framewor,tjwatson@us.ibm.com,,loskutov@gmx.de,4.7.0,VERI,FIXE,27-04-2017,blo,14,30-04-2017
+480852,[Cocoa] GC.copyArea() crashes application on OSX 10.11,Platform,SWT,lshanmug@in.ibm.com,,pavel.sakun@gmail.com,4.5.1,VERI,FIXE,28-10-2015,blo,7,27-01-2017
+514690,Build failure on I20170403-2000 and I20170404-0245,Platform,Releng,platform-releng-inbox@eclip...,,sravankumarl@in.ibm.com,4.7,RESO,FIXE,04-04-2017,blo,8,29-04-2017
+533863,Unable to build a project from cruise control,Platform,Ant,platform-ant-inbox@eclipse.org,,lakshminarayananece@gmail.com,4,RESO,NOT_,20-04-2018,blo,6,23-04-2018
+496624,Error in JDT Core during AST creation / java.lang.NullPointerException,JDT,Core,jdt-core-inbox@eclipse.org,,awathne@gmail.com,4.6,CLOS,DUPL,23-06-2016,blo,3,03-07-2016
+518423,Can't install???,Platform,IDE,Platform-UI-Inbox@eclipse.org,,john.ledger@gmail.com,4.7,RESO,WORK,17-06-2017,blo,2,19-06-2017
+525903,Eclipse installer Oomph shows code=1000 No repository found,Platform,IDE,Platform-UI-Inbox@eclipse.org,,tianxuans@hotmail.com,4.7.1,CLOS,WONT,12-10-2017,blo,3,12-03-2020
+513850,"Eclipse error: An internal error occurred during: ""Pulling Branch master",PDE,API Tool,pde-apitools-inbox@eclipse.org,,sunil100r@gmail.com,4.7,RESO,INVA,18-03-2017,blo,2,20-03-2017
+520415,TestNG plugin not lauching,PDE,Build,pde-build-inbox@eclipse.org,,liviasilvasantos@gmail.com,3.1,RESO,INVA,01-08-2017,blo,2,18-09-2018
+517255,Failed Installation & Log Generation - 'An error has occurred. See the log file null.',Equinox,Launcher,oomph-inbox@eclipse.org,,matthew@paliltd.com,4.6.0,CLOS,DUPL,25-05-2017,blo,2,29-05-2017
+465714,Bogus cycle detected,Platform,UI,Platform-UI-Inbox@eclipse.org,,stephan.herrmann@berlin.de,4.5,VERI,DUPL,28-04-2015,blo,9,29-04-2015
+499545,"[win32] Remove UN-necessary native changes from c.c, which is causing linking error during native compilation.",Platform,SWT,sravankumarl@in.ibm.com,,niraj.modi@in.ibm.com,4.6,VERI,FIXE,11-08-2016,blo,30,25-08-2016
+538344,Remote debuging loses thread while standing on a breakpoint,JDT,Debug,jdt-debug-inbox@eclipse.org,,bruell@symmedia.de,4.8,CLOS,DUPL,28-08-2018,blo,4,29-08-2018
+530470,"Failure in RequiredCapability.assertValid upon ""negative dependency""",Equinox,p2,rinsvind@gmail.com,,stephan.herrmann@berlin.de,4.8.0,RESO,FIXE,29-01-2018,blo,24,25-02-2018
+527284,The program 'Eclipse' received an X Window System error.,Platform,SWT,platform-swt-inbox@eclipse.org,,aploese@gmx.de,4.8,RESO,FIXE,15-11-2017,blo,15,25-03-2020
+521155,Getting errors on Ant builds after upgrade from Neon to Oxygen,Platform,Ant,sarika.sinha@in.ibm.com,,joelehirsh@gmail.com,4.7,CLOS,DUPL,19-08-2017,blo,11,17-12-2017
+551199,Release repo https://download.eclipse.org/eclipse/updates/4.13/ is erroneous,Platform,Releng,platform-releng-inbox@eclip...,,mistria@redhat.com,4.13,CLOS,INVA,18-09-2019,blo,10,19-09-2019
+536445,Error injecting: org.eclipse.xtend.maven.XtendCompile - signer information does not match signer information of other classes in the same package,Platform,Runtime,daniel_megert@ch.ibm.com,,robert.hilbrich@dlr.de,4.8,RESO,FIXE,29-06-2018,blo,28,24-07-2018
+533031,Build failure in M20180328-1700 due to missing </td>,Platform,Doc,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.7.3,RESO,FIXE,28-03-2018,blo,5,28-03-2018
+489675,ContextFinder.getResources() searches resources in different order with getResource,Equinox,Framewor,tjwatson@us.ibm.com,,wyan@actuate.com,4.5.0,RESO,FIXE,15-03-2016,blo,5,21-03-2016
+520176,[10.13] Menu Bar Disabled From Use Completely,Platform,SWT,lshanmug@in.ibm.com,,rjedwards95@icloud.com,4.7,RESO,FIXE,25-07-2017,blo,166,08-11-2017
+493072,False compilation error,JDT,Core,stephan.herrmann@berlin.de,,lukas.hajek@email.cz,4.5.2,VERI,INVA,05-05-2016,blo,3,12-05-2016
+468329,Java Error and windows 8,Platform,IDE,Platform-UI-Inbox@eclipse.org,,lord.a51.uk@gmail.com,4.5,CLOS,DUPL,26-05-2015,blo,6,26-05-2015
+497823,NTLM login does not work for SWT Browser,Platform,SWT,platform-swt-inbox@eclipse.org,,abhinav_dba@hotmail.com,4.7,CLOS,WONT,13-07-2016,blo,8,12-10-2019
+526438,Eclipse Oxygen.1a (4.7.1a) is not working with Java 9.0.1 update,Platform,IDE,Platform-UI-Inbox@eclipse.org,,rameshcharykotha@gmail.com,4.7.1,RESO,INVA,24-10-2017,blo,2,25-10-2017
+545995,Gerrit builds fail: An unexpected error occurred while launching the test runtime,Platform,Releng,sebastian.ratz@sap.com,,ma.becker@sap.com,4.12,RESO,FIXE,01-04-2019,blo,11,02-04-2019
+537756,API tools no longer works with JRE < 10,PDE,API Tool,mat.booth@redhat.com,,Vikas.Chandra@in.ibm.com,4.9,VERI,FIXE,07-08-2018,blo,20,08-08-2018
+533545,[GTK3.22][Webkit2][regression] Crash on opening html file,Platform,SWT,lufimtse@redhat.com,,loskutov@gmx.de,4.8,VERI,FIXE,13-04-2018,blo,52,08-05-2018
+537294,Context menu is not shown,Platform,SWT,platform-swt-inbox@eclipse.org,,nikita.shvinagir@teamdev.com,4.8,CLOS,WORK,23-07-2018,blo,31,14-12-2018
+535384,Repository reports not generated,Platform,Releng,platform-releng-inbox@eclip...,,sravankumarl@in.ibm.com,4.8,RESO,FIXE,31-05-2018,blo,2,02-06-2018
+478642,KDE with SWT_GTK3=1: hard crash,Platform,SWT,platform-swt-inbox@eclipse.org,,eclipse@regnis.de,4.5,CLOS,WORK,29-09-2015,blo,9,14-12-2017
+539867,SIGSEGV with Mac OS X Mojave when running a launch configuration,Platform,SWT,platform-swt-inbox@eclipse.org,,olivier.prouvost@opcoach.com,4.8,CLOS,DUPL,05-10-2018,blo,7,06-10-2018
+525572,UI Freeze when refactoring using new Java index,JDT,Core,jdt-core-inbox@eclipse.org,manpalat@in.ibm.com,philippe.cade@gmail.com,4.7.1,CLOS,WONT,04-10-2017,blo,9,06-03-2020
+497150,UI menus don't open and some features are disabled,Platform,SWT,platform-swt-inbox@eclipse.org,,nicola.buso@gmail.com,4.5.2,RESO,DUPL,01-07-2016,blo,6,03-07-2016
+465775,Unable to add org.eclipse.jface plugins in eclipse luna,Platform,IDE,Platform-UI-Inbox@eclipse.org,,mastan412@gmail.com,4.4,RESO,WORK,29-04-2015,blo,4,16-02-2016
+551147,Unable to use I20190916-1800 build due cycle errors,Platform,Resource,loskutov@gmx.de,,loskutov@gmx.de,4.14,VERI,FIXE,17-09-2019,blo,53,23-09-2019
+505859,p2 still not multi-user capable,Equinox,p2,equinox.p2-inbox@eclipse.org,,eclipse-bugs@ginguppin.de,4.6.0,CLOS,WONT,13-10-2016,blo,10,25-09-2019
+471048,[1.8][null] False positive for 'Null type safety' depends on package name order then using lambdas,JDT,Core,register.eclipse@brychcy.de,stephan.herrmann@berlin.de,tsichevski@gmail.com,4.5,VERI,DUPL,25-06-2015,blo,8,26-04-2016
+500930,32 annd 64 bit download will not unzip,Platform,IDE,Platform-UI-Inbox@eclipse.org,,ian.chopperaddict@gmail.com,4.7,CLOS,WORK,06-09-2016,blo,2,06-09-2016
+526270,Source that works with JavaSE-1.8 does not compile with JavaSE-9,JDT,Core,stephan.herrmann@berlin.de,,daniel_megert@ch.ibm.com,4.7.1,RESO,INVA,19-10-2017,blo,9,16-11-2017
+502114,Error Log should not depend on JDT,PDE,UI,malaperle@gmail.com,,malaperle@gmail.com,4.7,VERI,FIXE,25-09-2016,blo,17,31-05-2018
+530231,Compilation failure in M20180123-0400 in jdt.compiler.tool,JDT,Core,jdt-core-inbox@eclipse.org,,sravankumarl@in.ibm.com,4.7.2,RESO,FIXE,24-01-2018,blo,16,25-01-2018
+498046,"Service crash because of exception: ""The use count for the service overflowed""",Equinox,Framewor,equinox.framework-inbox@ecl...,,vincentzhang@ea.com,3.10.,RESO,NOT_,18-07-2016,blo,16,20-07-2016
+522745,bug about eclipse launching,Equinox,Launcher,equinox.launcher-inbox@ecli...,,nomi.cool420@gmail.com,3.3,CLOS,WONT,25-09-2017,blo,2,14-10-2019
+535072,[Tips] Tips plug-ins are missing legal info (about.html),Platform,UI,wim.jongman@remainsoftware.com,,daniel_megert@ch.ibm.com,4.8,VERI,FIXE,24-05-2018,blo,22,29-05-2018
+525760,no one menu item is available,Platform,IDE,Platform-UI-Inbox@eclipse.org,,andrew.nesen@gmail.com,4.7.1,CLOS,DUPL,09-10-2017,blo,3,20-10-2017
+520108,[tests] Gerrit builds are failing on R47_Maintenance branch,Platform,Team,mistria@redhat.com,,loskutov@gmx.de,4.7,CLOS,FIXE,24-07-2017,blo,5,24-07-2017
+466901,Eclipse Launch Error,Equinox,Launcher,equinox.launcher-inbox@ecli...,,coolcoolvideos@gmail.com,unspe,RESO,WORK,09-05-2015,blo,3,04-09-2019
+547066,IBuild I20190507-1800 failed due to unresolved project dependencies.,Platform,Releng,niraj.modi@in.ibm.com,,niraj.modi@in.ibm.com,4.12,RESO,FIXE,08-05-2019,blo,11,08-05-2019
+459398,HTTP Authentication is working on Mac OS X10.10,e4,Tools,e4.tools-inbox@eclipse.org,,gmalli2000@yahoo.com,unspe,CLOS,INVA,08-02-2015,blo,4,10-02-2015
+482842,Updating decorators on OS X cause null pointer,Platform,SWT,platform-swt-inbox@eclipse.org,,peter.onofrej@posam.sk,4.2,CLOS,DUPL,23-11-2015,blo,8,24-11-2015
+525731,Resolving Target Definition error - Profile not locked due to exception,PDE,UI,pde-ui-inbox@eclipse.org,,w.comnisky@gmail.com,4.6,CLOS,WONT,08-10-2017,blo,6,17-10-2019
+536868,<type>test-jar</type> no longer resolves to proper dependent classpath,JDT,Core,register.eclipse@brychcy.de,,malte.brunnlieb@agilereview...,4.9,VERI,FIXE,10-07-2018,blo,53,01-08-2018
+545485,Plugin Oracle weblogic server tools is not getting installed,Equinox,p2,equinox.p2-inbox@eclipse.org,,shubham0402@live.com,4.11,RESO,WORK,18-03-2019,blo,8,16-02-2020
+535178,SWT build Input is failing after move to R4_8_maintenance,Platform,SWT,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.8,RESO,FIXE,28-05-2018,blo,4,29-05-2018
+526322,[10.13.1 Beta 17B42a] Menu Bar Disabled From Use Completely,Platform,SWT,platform-swt-inbox@eclipse.org,,rory.carr@neogility.com,4.7.1,CLOS,WONT,20-10-2017,blo,5,02-11-2017
+499229,problems with renameAndPromote script from Hudson for Oxygen M1,Platform,Releng,sravankumarl@in.ibm.com,,david_williams@acm.org,4.7,RESO,FIXE,05-08-2016,blo,11,05-08-2016
+522529,Create updatesite for jdt feature for java 9 release,Platform,Releng,platform-releng-inbox@eclip...,,sravankumarl@in.ibm.com,4.7,RESO,INVA,20-09-2017,blo,3,21-11-2017
+475833,Delete TableTree and related items,Platform,SWT,Lars.Vogel@vogella.com,,Lars.Vogel@vogella.com,4.5,RESO,FIXE,25-08-2015,blo,77,28-05-2019
+493109,Build failed due to qualifier heuristics on core.runtime.feature (based on CommitDate rather than reflog),Platform,UI,Platform-UI-Inbox@eclipse.org,,david_williams@acm.org,4.6,RESO,FIXE,05-05-2016,blo,10,10-05-2016
+531107,[RCP] Simple RCP App does not work using latest JDK8,Platform,SWT,platform-swt-inbox@eclipse.org,,sbouchet@redhat.com,4.7.2,CLOS,DUPL,13-02-2018,blo,5,27-02-2018
+497047,Tags are not getting generated,Platform,Releng,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.7,RESO,FIXE,30-06-2016,blo,13,08-07-2016
+462269,All unit tests failed to run from I20150316-0800 build,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.5,RESO,FIXE,16-03-2015,blo,7,16-03-2015
+528128,Build failure in I20171205-0030,JDT,Core,jarthana@in.ibm.com,,sravankumarl@in.ibm.com,4.8,VERI,FIXE,05-12-2017,blo,6,07-12-2017
+457791,Eclipse Java Compiler fails on Java 8 multilevel grouping,JDT,Core,stephan.herrmann@berlin.de,,pbielicki@gmail.com,4.4.1,VERI,FIXE,18-01-2015,blo,9,19-05-2015
+461100,Trying to open eclipse and receive an error message,Platform,IDE,Platform-UI-Inbox@eclipse.org,,johnbednarczykjr@gmail.com,4.5,CLOS,DUPL,27-02-2015,blo,3,08-02-2016
+483930,Eclipse 4.5 failed to install plugin on s390x,PDE,Build,pde-build-inbox@eclipse.org,,lzhang@ca.ibm.com,4.5,CLOS,DUPL,08-12-2015,blo,2,08-12-2015
+472259,[Cocoa] El Capitan beta 3 10.11 hangs/freezes Eclipse,Platform,SWT,platform-swt-inbox@eclipse.org,,gerd.naschenweng@me.com,4.5,RESO,NOT_,09-07-2015,blo,20,19-08-2016
+532393,Linux: TableViewer scroll causes wrong editing support selection,Platform,SWT,platform-swt-inbox@eclipse.org,,shital.devalkar@globant.com,4.7,CLOS,WORK,13-03-2018,blo,7,14-12-2018
+549420,Unable to connect SAP system,Platform,IDE,Platform-UI-Inbox@eclipse.org,,sahasupratim@gmail.com,4.12,CLOS,NOT_,19-07-2019,blo,2,19-07-2019
+457396,"Build of ""webapp"" fails due to changes in org.apache.jasper.glassfish",Platform,User Ass,david_williams@acm.org,,david_williams@acm.org,4.4.2,RESO,FIXE,13-01-2015,blo,20,15-01-2015
+476610,Eclipse doesn't operate with java 1.9,JDT,Core,jarthana@in.ibm.com,,mfomin@email.sc.edu,4.6,VERI,INVA,03-09-2015,blo,10,15-09-2015
+497601,"Search window and others ""Show View"" does not appear",Platform,Search,platform-search-inbox@eclip...,,regis.houssin@gmail.com,4.6,CLOS,WONT,09-07-2016,blo,3,04-03-2020
+521093,Cannot Delete Projects from Navigator or Project Explorer,Platform,IDE,Platform-UI-Inbox@eclipse.org,,koustav@zepo.biz,4.7,RESO,WORK,18-08-2017,blo,3,25-08-2017
+468141,Can not debug a java service class !,JDT,Debug,sarika.sinha@in.ibm.com,,hadarszostak@gmail.com,3.8.1,RESO,NOT_,24-05-2015,blo,3,25-05-2015
+484528,Failure to load shared library,Platform,IDE,Platform-UI-Inbox@eclipse.org,,public.offerings@yahoo.com,4.6,RESO,INVA,16-12-2015,blo,2,17-12-2015
+527955,With Java 1.8.0_152 the splash screen on macOS prevents the resulting main client shell from being activated and swallows any user-events (key & mouse events) from being handled correctly.,Equinox,Launcher,lshanmug@in.ibm.com,,david.troyer@dynatrace.com,3.7.2,RESO,FIXE,30-11-2017,blo,6,15-03-2018
+519076,internal error,Platform,IDE,Platform-UI-Inbox@eclipse.org,,nkumar.chourey@gmail.com,4.7,RESO,NOT_,02-07-2017,blo,3,19-09-2017
+548090,Program crashes upon making a correction to a line that won't go away,Platform,Text,platform-text-inbox@eclipse...,,ian.rosales@usmc.mil,4.9,RESO,WORK,09-06-2019,blo,4,11-06-2019
+535926,Build 4.9.0 I-Build: I20180615-0300 failed due to compilation errors,JDT,Core,jarthana@in.ibm.com,,lshanmug@in.ibm.com,4.8,VERI,FIXE,15-06-2018,blo,22,01-08-2018
+484728,Bug in a Java project with android access,Platform,IDE,Platform-UI-Inbox@eclipse.org,,cohenran@gmail.com,4.5,CLOS,FIXE,19-12-2015,blo,1,23-12-2015
+536542,[HiDPI][GTK] Eclipse Photon is unusable on Plasma with a display scale factor of 2,Platform,SWT,sravankumarl@in.ibm.com,,cobexer@gmail.com,4.8,VERI,FIXE,30-06-2018,blo,35,22-09-2018
+549737,UI blocks for 10 minutes when adding a new bundle in a workspace that already has over 1000 bundles,Platform,UI,Platform-UI-Inbox@eclipse.org,,liedrig@gmx.net,4.13,CLOS,DUPL,01-08-2019,blo,5,02-08-2019
+515552,Table is not getting updated for row,Platform,UI,Platform-UI-Inbox@eclipse.org,,heena.39@wipro.com,3.5.2,CLOS,WONT,21-04-2017,blo,8,26-02-2020
+527536,[GTK3] [32-bit] NoSuchMethodError: gObjectClass_finalize,Platform,SWT,platform-swt-inbox@eclipse.org,,eclipse@regnis.de,4.8,CLOS,WONT,21-11-2017,blo,34,10-09-2018
+514677,Eclipse fails to start after intrerupted previous start,Platform,Runtime,platform-runtime-inbox@ecli...,,costean_adrian@yahoo.com,4.6,CLOS,DUPL,04-04-2017,blo,2,04-04-2017
+529026,[GTK3.20+] Test failures in org.eclipse.ui.tests.forms,Platform,SWT,ericwill@redhat.com,,ericwill@redhat.com,4.8,VERI,FIXE,20-12-2017,blo,13,23-01-2018
+551688,Crashes when double clicking JButton on JFrame,Platform,SWT,platform-swt-inbox@eclipse.org,,38729@alunos.upt.pt,4.13,RESO,FIXE,01-10-2019,blo,6,15-03-2020
+490117,Eclipse Installer keeps insisting that I need Java 6 installed before it will run,Equinox,Launcher,equinox.launcher-inbox@ecli...,,bhaglind@Hotmail.com,unspe,CLOS,DUPL,21-03-2016,blo,10,17-12-2018
+507345,Build failure on I20161110-0510,Platform,Ant,markus.kell.r@gmail.com,,sravankumarl@in.ibm.com,4.6,VERI,FIXE,10-11-2016,blo,3,05-12-2016
+498362,Compile error on Optional.map(byte[]::clone),JDT,Core,stephan.herrmann@berlin.de,,maxxyme@free.fr,4.6,VERI,FIXE,22-07-2016,blo,13,03-08-2016
+532294,Update platform to Jetty 9.4.10,Platform,Releng,akurtakov@gmail.com,,daniel_megert@ch.ibm.com,4.8,RESO,FIXE,11-03-2018,blo,58,28-11-2018
+483093,Dynamic submenus not working in Mars IDE,Platform,UI,Platform-UI-Inbox@eclipse.org,,rajeshkayarat@gmail.com,4.5.1,CLOS,INVA,26-11-2015,blo,4,31-03-2016
+457271,cannot start eclipse,Platform,IDE,Platform-UI-Inbox@eclipse.org,,hauser@acm.org,4.4,CLOS,DUPL,12-01-2015,blo,2,12-01-2015
+493141,8:30 build failed creating index due to missing </code>,Platform,Releng,daniel_megert@ch.ibm.com,,david_williams@acm.org,4.6,RESO,FIXE,06-05-2016,blo,4,07-05-2016
+481675,Eclipse runs at 100% CPU in main #1 thread when not minimized,Platform,SWT,platform-swt-inbox@eclipse.org,,bill_chatfield@yahoo.com,4.5.1,CLOS,DUPL,08-11-2015,blo,16,28-04-2016
+531990,Build failure in I20180304-2000,JDT,Core,jdt-core-inbox@eclipse.org,,sravankumarl@in.ibm.com,4.8,VERI,FIXE,05-03-2018,blo,5,09-03-2018
+538770,Build failure in I20180907-0400,Platform,Releng,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.9,RESO,FIXE,07-09-2018,blo,12,12-09-2018
+551937,I cant run any program,JDT,Core,jdt-core-inbox@eclipse.org,,shuffledudee@gmail.com,2,RESO,INVA,08-10-2019,blo,2,10-10-2019
+534412,CTRL + Click stopped working after null pointer exception,JDT,UI,stephan.herrmann@berlin.de,,pasu_pathi@outlook.com,4.7.3,RESO,NOT_,06-05-2018,blo,2,07-05-2018
+540640,Eclipse fails to open non Java (and sometimes Java) files,Platform,UI,Platform-UI-Inbox@eclipse.org,,subhayan.dutta@gmail.com,4.9,CLOS,NOT_,30-10-2018,blo,8,31-03-2020
+545762,EmptyWorkspaceHelper assumes all wizards have an icon,Platform,UI,ma.becker@sap.com,,stephan.herrmann@berlin.de,4.11,RESO,FIXE,25-03-2019,blo,13,26-03-2019
+502402,Hotspot 1.8.0_101 crashes with EXCEPTION_ACCESS_VIOLATION on Eclipse 4.2.1 code,Platform,IDE,Platform-UI-Inbox@eclipse.org,,reshmi.sajith@gmail.com,4.2.1,CLOS,WONT,28-09-2016,blo,8,28-09-2016
+488915,Unable to connect MAT through VNC from a linux machine,PDE,API Tool,pde-apitools-inbox@eclipse.org,,rajani.kanth.vankadari@sap.com,4.6,RESO,NOT_,03-03-2016,blo,2,01-07-2016
+547055,Maven jar compiler plugin doesn't work!,JDT,Core,stephan.herrmann@berlin.de,,dorusblanken@gmail.com,4.12,CLOS,NOT_,07-05-2019,blo,2,07-05-2019
+540762,Eclipse Photon (June 2018) crashes on start with NPE,Platform,SWT,niraj.modi@in.ibm.com,,rcoe.javadev@gmail.com,4.8,VERI,FIXE,04-11-2018,blo,16,02-12-2018
+531435,JFace TableViewer: Mouse click happens on wrong column cell because of table scrolled horizantally.,Platform,UI,Platform-UI-Inbox@eclipse.org,,shital.devalkar@globant.com,4.7,CLOS,WONT,21-02-2018,blo,2,22-03-2020
+473588,Can not start,JDT,APT,jdt-apt-inbox@eclipse.org,,tito418mc@gmail.com,4.6,VERI,INVA,26-07-2015,blo,5,05-08-2015
+522333,"[9] ""Error: Could not find or load main class o.c.p.c.l.Launcher"" when running Eclipse Java 9 Beta",JDT,Debug,sarika.sinha@in.ibm.com,,fbricon@gmail.com,4.8,RESO,FIXE,14-09-2017,blo,39,22-07-2018
+480126,Eclipse fails to start using existing workspace,Platform,IDE,Platform-UI-Inbox@eclipse.org,,breezyarian@gmail.com,4.3,CLOS,WORK,19-10-2015,blo,3,12-02-2016
+528744,Compilation failure in I20171213-2000,PDE,UI,loskutov@gmx.de,,sravankumarl@in.ibm.com,4.8,VERI,FIXE,14-12-2017,blo,7,22-01-2018
+512188,Enable Mac signing again,Platform,Releng,sravankumarl@in.ibm.com,,daniel_megert@ch.ibm.com,4.7,VERI,FIXE,14-02-2017,blo,4,16-02-2017
+537828,Incorrect report : The field is defined in an inherited type and an enclosing scope,JDT,Core,register.eclipse@brychcy.de,,temp325@live.fr,4.8,VERI,FIXE,09-08-2018,blo,16,06-09-2018
+457856,Inconsistencies in org.eclipes.rcp.configuration for Mac OS X platform - missing ppc64le,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.4.1,RESO,FIXE,19-01-2015,blo,4,19-01-2015
+552604,Versioning problem in SWT.,Platform,SWT,niraj.modi@in.ibm.com,,niraj.modi@in.ibm.com,4.14,CLOS,DUPL,31-10-2019,blo,4,31-10-2019
+540114,Issue while migrating java 11,JDT,Core,jdt-core-inbox@eclipse.org,,binu5313@gmail.com,4.9,RESO,WORK,14-10-2018,blo,2,14-10-2018
+480318,SWT Menu does not fire Selection Event when touch display is enabled,Platform,SWT,info@conrad-groth.de,Andreas.Muelder@itemis.de,Andreas.Muelder@itemis.de,4.6,RESO,FIXE,21-10-2015,blo,9,19-05-2016
+522624,IES 4.6.1 fails to launch GUI panel on SLES 11 and 12 for z systems,Platform,SWT,platform-swt-inbox@eclipse.org,,wmccdl@cn.ibm.com,4.6,CLOS,FIXE,22-09-2017,blo,7,15-11-2017
+515303,Aptana can't be executed/opened.,Platform,Ant,sarika.sinha@in.ibm.com,,craya@opiniones-verificadas...,4,RESO,NOT_,14-04-2017,blo,1,16-04-2017
+535831,org.eclipse.e4.xwt.XWTException: Type UiBinder is not found using gwt 2.8.1,Platform,UI,Platform-UI-Inbox@eclipse.org,,pmranz01@gmail.com,4.8,CLOS,DUPL,12-06-2018,blo,2,18-06-2018
+551810,Eclipse IBuild I20191004-1800 failed.,Platform,Releng,Vikas.Chandra@in.ibm.com,,niraj.modi@in.ibm.com,4.14,RESO,FIXE,05-10-2019,blo,31,07-10-2019
+457718,OutOfMemoryError (Java Heap Space) when resolving bundles,Equinox,Framewor,tjwatson@us.ibm.com,,tjwatson@us.ibm.com,3.10.,RESO,FIXE,16-01-2015,blo,8,08-04-2015
+495585,"TLSv1.2 not functional tested on Indigo, Neon",Platform,Resource,platform-resources-inbox@ec...,,runo.barrdahl@tieto.com,3.7,CLOS,NOT_,07-06-2016,blo,1,07-06-2016
+474075,JDT formatter CHANGE the java code,JDT,Core,mateusz.matela@gmail.com,,sunjava5@qq.com,4.5,CLOS,DUPL,31-07-2015,blo,2,17-08-2015
+527860,[GTK3] Clicking a view toolbar button does not activate the view,Platform,SWT,loskutov@gmx.de,,simeon.danailov.andreev@gma...,4.7,VERI,FIXE,28-11-2017,blo,17,01-12-2017
+491202,t,JDT,Debug,sarika.sinha@in.ibm.com,,sachinipavi@gmail.com,4.6,RESO,INVA,07-04-2016,blo,2,07-04-2016
+491386,Crash on OpenSuse Tumbleweed opening marketplace,Platform,IDE,Platform-UI-Inbox@eclipse.org,,alessio.pollero@gmail.com,4.5.2,CLOS,DUPL,10-04-2016,blo,3,11-04-2016
+500943,Eclipse not installing on Mac OSX,JDT,Core,stephan.herrmann@berlin.de,,AJChocksaway2@gmail.com,4.7,VERI,WORK,06-09-2016,blo,3,13-09-2016
+490637,I20160329-0800 is no good on Linux - tests fail with OutOfMemoryError: Java heap space,Platform,SWT,sravankumarl@in.ibm.com,,david_williams@acm.org,4.6,RESO,FIXE,29-03-2016,blo,18,14-12-2016
+536698,Not able to install Activiti Plugin for Eclipse Photon,PDE,Build,pde-build-inbox@eclipse.org,,prathameskulkarni@gmail.com,4.9,RESO,INVA,04-07-2018,blo,2,18-09-2018
+510673,By default component instances are deactivated when use count goes to zero,Equinox,Compendi,tjwatson@us.ibm.com,,markus.kell.r@gmail.com,4.7.0,RESO,FIXE,19-01-2017,blo,8,30-10-2018
+478744,Very strange build trouble while using constructor references,JDT,Core,stephan.herrmann@berlin.de,,joel.drigo@wedia-group.com,4.5,VERI,DUPL,30-09-2015,blo,8,12-01-2016
+506597,Build failure on I20161026-2000,Equinox,Framewor,equinox.framework-inbox@ecl...,,sravankumarl@in.ibm.com,4.7.0,RESO,FIXE,27-10-2016,blo,11,31-10-2016
+552535,I20191029-1800 build failure,Platform,Releng,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.14,RESO,FIXE,29-10-2019,blo,4,30-10-2019
+506134,Do not load page,Platform,SWT,platform-swt-inbox@eclipse.org,,arek.czarnowski@goodsoft.pl,4.6,CLOS,DUPL,18-10-2016,blo,2,11-05-2017
+509030,[Mac] [TouchBar] RCP Applications crashes on new MacBook Pro with TouchBar,Platform,SWT,platform-swt-inbox@eclipse.org,,peina@cn.ibm.com,4.6,CLOS,NOT_,11-12-2016,blo,3,22-04-2017
+525730,Resolving Target Definition error - Profile not locked due to exception,PDE,UI,pde-ui-inbox@eclipse.org,,w.comnisky@gmail.com,4.6,CLOS,DUPL,08-10-2017,blo,3,09-10-2017
+510447,"Eclipse freezes with ""Registering Listeners"" on startup",Platform,IDE,Platform-UI-Inbox@eclipse.org,,g.fouet@gmail.com,4.6,CLOS,NOT_,13-01-2017,blo,5,19-01-2017
+495238,Unable to build the workspace,Platform,IDE,Platform-UI-Inbox@eclipse.org,,megha.kesharwani2507@gmail.com,1,CLOS,NOT_,02-06-2016,blo,2,02-06-2016
+541529,I am not able to add the TestNG through Install new software and Eclipse New Software which comes under Help tab.,Platform,Runtime,platform-runtime-inbox@ecli...,,neeraj.s@mavencluster.com,4.7.3,CLOS,NOT_,24-11-2018,blo,2,22-08-2019
+476470,Fail to run Eclipse after updating to Mars 4.5.0,Platform,IDE,Platform-UI-Inbox@eclipse.org,,ali.shahrivarian@gmail.com,4.5,RESO,NOT_,02-09-2015,blo,3,03-09-2015
+535882,WARNING: Illegal reflective access by org.eclipse.emf.ecore.xmi.impl.XMLHandler,Platform,User Ass,Platform-UI-Inbox@eclipse.org,,pareshkhade19972511@gmail.com,4.8,RESO,INVA,14-06-2018,blo,2,18-06-2018
+516649,Build failed in I20170515-0800,JDT,Core,daniel_megert@ch.ibm.com,,sravankumarl@in.ibm.com,4.7,VERI,FIXE,15-05-2017,blo,2,22-05-2017
+464320,Errors get marked wrongly and explained errors aren't errors,Platform,IDE,Platform-UI-Inbox@eclipse.org,,moritzleni@gmail.com,4.4.2,CLOS,WORK,09-04-2015,blo,4,09-04-2015
+545911,Build Failure I20190328-1800 JDT Feature doesn't point to the correct version of jdt.annotation bundle,JDT,APT,jarthana@in.ibm.com,,manpalat@in.ibm.com,4.11,VERI,FIXE,28-03-2019,blo,6,29-03-2019
+544890,'Initializing Java Tooling' fails with an exception,JDT,Core,jdt-core-inbox@eclipse.org,,daniel_megert@ch.ibm.com,4.11,VERI,FIXE,27-02-2019,blo,9,28-02-2019
+479459,Generics and Lambda Expression Flagged as Syntax Error Incorrectly,JDT,Core,jdt-core-inbox@eclipse.org,,scott.k.mitch1@gmail.com,4.5.1,RESO,INVA,09-10-2015,blo,6,12-10-2015
+543416,[launch config wizard] Plugin selection is totally broken,PDE,UI,julian.honnen@vector.com,,loskutov@gmx.de,4.11,CLOS,DUPL,14-01-2019,blo,2,14-01-2019
+497824,NTLM login does not work for SWT Browser,JDT,UI,jdt-ui-inbox@eclipse.org,,abhinav_dba@hotmail.com,4.7,CLOS,DUPL,13-07-2016,blo,2,13-07-2016
+540788,[9] Module doesn't compile,JDT,Core,stephan.herrmann@berlin.de,,ealrann@gmail.com,4.1,VERI,FIXE,05-11-2018,blo,15,21-11-2018
+462007,Single editor tab stops responding to shortcuts and then to key-presses,Platform,SWT,platform-swt-inbox@eclipse.org,,nicolas@niconomicon.net,4.5,CLOS,DUPL,12-03-2015,blo,8,20-03-2015
+538564,"platform ui, debug and jdt debug tests fail on gerrit with e4 errors since 03.09.",Platform,Releng,platform-releng-inbox@eclip...,,loskutov@gmx.de,4.9,VERI,FIXE,03-09-2018,blo,57,14-09-2018
+463365,"N build (3/27, 3/38) fails due to wrong ""build number"" in p2.inf",Equinox,Launcher,arunkumar.thondapu@in.ibm.com,,david_williams@acm.org,4.5.0,VERI,FIXE,28-03-2015,blo,5,29-03-2015
+500225,Endless loop in Install/Update dialog,Equinox,p2,markus.kell.r@gmail.com,,markus.kell.r@gmail.com,4.7.0,VERI,FIXE,24-08-2016,blo,3,29-08-2016
+526357,"[GTK] Cursor lookup failure causes ""No more handles""",Platform,SWT,nikita@nemkin.ru,,eclipse.org@erewhon0.net,4.8,VERI,FIXE,23-10-2017,blo,18,18-02-2020
+484870,"UI hangs after breakpoint hit (mouse clicks do nothing, Alt-Tab does not switch tasks)",Platform,Debug,platform-debug-inbox@eclips...,,drn@nadler.com,4.5,CLOS,WONT,23-12-2015,blo,12,25-12-2019
+489806,Compile failures in I20160316-2000,Platform,SWT,niraj.modi@in.ibm.com,,david_williams@acm.org,4.6,VERI,FIXE,16-03-2016,blo,4,18-03-2016
+498283,"After Java upgrade to 1.8.0_101-b13, Eclipse crashes all the time",JDT,Core,stephan.herrmann@berlin.de,,frank.van.werven@quintiq.com,4.4.2,CLOS,DUPL,21-07-2016,blo,2,21-07-2016
+536181,Bad org.eclipse.debug.ui_3.13.200 in I-builds causes compile errors in Gerrit,Platform,Releng,daniel_megert@ch.ibm.com,,loskutov@gmx.de,4.9,RESO,FIXE,22-06-2018,blo,8,22-06-2018
+489345,"Eclipse SIGSEGV (gtk_tree_view_get_background_area) when debugging and hovering an item in the ""Variables"" view.",Platform,SWT,platform-swt-inbox@eclipse.org,,matthias.wienand@itemis.de,4.5,CLOS,WONT,10-03-2016,blo,9,08-01-2019
+537934,Build never comes to an end and working is not possible,JDT,Core,stephan.herrmann@berlin.de,,juergen.luers@atos.net,4.8,RESO,FIXE,14-08-2018,blo,41,20-10-2018
+507193,Build failure on N20161107-2000,PDE,Build,Vikas.Chandra@in.ibm.com,,sravankumarl@in.ibm.com,4.7,VERI,FIXE,08-11-2016,blo,5,18-12-2016
+548658,Stackoverflow in SWT on Mac OS 10.14.5,Platform,SWT,platform-swt-inbox@eclipse.org,,olivier.prouvost@opcoach.com,4.12,RESO,WORK,26-06-2019,blo,9,14-01-2020
+463606,Randomly closes when opening an existing project.,Platform,SWT,platform-swt-inbox@eclipse.org,,anthony.guertin@gmail.com,4.5,CLOS,DUPL,31-03-2015,blo,5,31-03-2015
+490744,org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity;,Equinox,Framewor,equinox.framework-inbox@ecl...,,bjztj@cn.ibm.com,unspe,CLOS,DUPL,30-03-2016,blo,30,27-06-2019
+514186,Types not found,PDE,UI,Vikas.Chandra@in.ibm.com,,daniel_megert@ch.ibm.com,4.7,VERI,FIXE,24-03-2017,blo,8,12-04-2017
+494950,Eclipse hangs when i create a java class,Platform,IDE,Platform-UI-Inbox@eclipse.org,,Jprz037@gmail.com,4.5,CLOS,FIXE,30-05-2016,blo,4,30-05-2016
+518095,ejc failing to build with StackOverflowError,JDT,Core,stephan.herrmann@berlin.de,,rsteiger@ensemblesoft.net,4.7,CLOS,DUPL,10-06-2017,blo,15,31-10-2017
+514224,Unable to satisfy dependency from .... to org.slf4j.api,Equinox,p2,equinox.p2-inbox@eclipse.org,,rakeshkanchalwar@gmail.com,4.6.0,CLOS,WONT,27-03-2017,blo,14,09-10-2019
+496769,"4.6 crashed without saving anything: ""app damaged""",Platform,SWT,platform-swt-inbox@eclipse.org,,J.F.Lanting@inter.NL.net,4.6,CLOS,WONT,25-06-2016,blo,5,24-01-2020
+497427,[Regression] Archived P2 repository is not recognized,Equinox,p2,equinox.p2-inbox@eclipse.org,,eclipse.sprigogin@gmail.com,unspe,RESO,INVA,06-07-2016,blo,4,15-07-2016
+504002,My classpath is invalid and it won't let me run anything.,Platform,Runtime,platform-runtime-inbox@ecli...,,tgoldstein4309@bths.edu,4.7,CLOS,WONT,04-10-2016,blo,2,20-12-2019
+498791,No repository found at http://svn.codespot.com/a/eclipselabs.org/javadocasumlview/update/.,PDE,API Tool,pde-apitools-inbox@eclipse.org,,dolatshahi@leidos.com,4.7,RESO,NOT_,28-07-2016,blo,2,28-07-2016
+481342,Performance tests: Can not create data base,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,03-11-2015,blo,3,03-11-2015
+492337,"Deprecation report fails with NumberFormatException: For input string: ""DEPRECATION""",PDE,API Tool,Olivier_Thomann@ca.ibm.com,,daniel_megert@ch.ibm.com,4.6,VERI,FIXE,25-04-2016,blo,8,12-05-2016
+473232,Using while() statement inside lambda causes compiler exception,JDT,Core,stephan.herrmann@berlin.de,,bugs.eclipse.org@partner.sh...,4.5,VERI,DUPL,21-07-2015,blo,4,20-08-2015
+479980,StyledText freezes in TextLayout.computeRuns,Platform,SWT,niraj.modi@in.ibm.com,,markus.kell.r@gmail.com,4.6,VERI,FIXE,16-10-2015,blo,5,03-12-2015
+462475,packet loss,Equinox,p2,equinox.p2-inbox@eclipse.org,,elatllat@gmail.com,unspe,RESO,DUPL,18-03-2015,blo,8,23-03-2015
+486958,cannot start eclipse after updating file,Platform,IDE,Platform-UI-Inbox@eclipse.org,,GIlles.maria-sube@themarket...,4.5.1,RESO,WORK,01-02-2016,blo,4,02-02-2016
+507328,Eclipse forgets about global settings and installed features,Equinox,Launcher,equinox.launcher-inbox@ecli...,,mlippert@gmail.com,unspe,CLOS,DUPL,10-11-2016,blo,20,31-05-2018
+498129,I'm tired,Platform,IDE,Platform-UI-Inbox@eclipse.org,,aa6764847@gmail.com,4.5,CLOS,WORK,19-07-2016,blo,2,19-07-2016
+533071,Eclipse IDE Building Stay In a Infinite Loop,Platform,IDE,Platform-UI-Inbox@eclipse.org,,contacto.jairopolo@gmail.com,4.8,RESO,WORK,29-03-2018,blo,5,05-04-2018
+527171,[10.13] Selecting more than a few lines and deleting them causes a hard crash in Mac OS High Sierra,Platform,SWT,platform-swt-inbox@eclipse.org,,jaywettlaufer@gmail.com,4.6,CLOS,DUPL,12-11-2017,blo,5,02-06-2018
+511732,[GTK3] Severe memory leak in Oxygen,Platform,SWT,platform-swt-inbox@eclipse.org,,markus.duft@ssi-schaefer.com,4.7,RESO,WORK,06-02-2017,blo,33,27-07-2017
+497145,NullPointerException in the Eclipse Error reporting,JDT,Core,stephan.herrmann@berlin.de,,timothyjward@apache.org,4.7,VERI,DUPL,01-07-2016,blo,6,03-08-2016
+511334,Nvidia driver conflict - swing program terminates,Platform,IDE,Platform-UI-Inbox@eclipse.org,,adm.glaser@gmail.com,4.6,CLOS,NOT_,30-01-2017,cri,3,10-02-2017
+469454,The compiler generates wrong code during inheritance,JDT,Core,sasikanth.bharadwaj@in.ibm.com,,felix+eclipse@dogcraft.de,4.5,VERI,FIXE,05-06-2015,cri,16,27-10-2015
+539917,Class cast exception inside View while update toolbar manager,Platform,UI,Platform-UI-Inbox@eclipse.org,,vijay.shelar@globant.com,4.9,CLOS,INVA,08-10-2018,cri,3,08-10-2018
+497874,maven shows frameworkevent error after spring install,PDE,Build,pde-build-inbox@eclipse.org,,sash_rib@yahoo.com,4.7,RESO,NOT_,13-07-2016,cri,3,21-07-2016
+470403,[GTK] Table content not visible if EditingSupport is used,Platform,UI,Platform-UI-Inbox@eclipse.org,,Lars.Vogel@vogella.com,4.5,CLOS,WONT,17-06-2015,cri,11,26-10-2019
+476069,[http servlet] named dispatching doesn't follow servlet spec,Equinox,Compendi,raymond.auge@liferay.com,,raymond.auge@liferay.com,4.5.0,RESO,FIXE,27-08-2015,cri,5,13-04-2016
+492763,testing fails to run on cent64 machine,Platform,Releng,david_williams@acm.org,,david_williams@acm.org,4.6,RESO,FIXE,30-04-2016,cri,3,30-04-2016
+507813,Autocomplete inserts wrong text for generics,JDT,Text,jdt-text-inbox@eclipse.org,,roland.illig@gmx.de,4.7,CLOS,DUPL,19-11-2016,cri,2,21-11-2016
+553624,Can't build platform locally,Platform,Releng,akurtakov@gmail.com,,loskutov@gmx.de,4.14,RESO,FIXE,29-11-2019,cri,18,20-12-2019
+483848,[GTK3] Shell background shown when a new shell is created,Platform,SWT,arunkumar.thondapu@in.ibm.com,,pascal@rapicorp.com,4.6,RESO,FIXE,07-12-2015,cri,12,11-12-2015
+505828,"[null] The ""Inherit null annotations"" feature should be stronger than @NonNullByDefault",JDT,Core,jdt-core-inbox@eclipse.org,,mike@vorburger.ch,4.6,CLOS,WONT,12-10-2016,cri,3,04-07-2019
+540081,[Cocoa][10.14]NPE for skinned shell-toolbar in dark mode,Platform,SWT,platform-swt-inbox@eclipse.org,,eclipse@regnis.de,4.9,VERI,FIXE,12-10-2018,cri,15,20-08-2019
+492394,An error has occurred. See the log file. C:\Users\7jhis\workspace\.metadata\.log.,Platform,UI,Platform-UI-Inbox@eclipse.org,,israelhj7@gmail.com,4.5.2,CLOS,DUPL,25-04-2016,cri,2,25-04-2016
+499258,Internal compiler error: java.lang.NullPointerException at org.eclipse.jdt.internal.compiler.ast.FieldReference.analyseCode(FieldReference.java:154),JDT,Core,register.eclipse@brychcy.de,,xyuu@xyuu.net,4.6,VERI,FIXE,05-08-2016,cri,30,13-02-2017
+458868,Open Implementation and Open Declaration broken in M5,Platform,SWT,sravankumarl@in.ibm.com,,loskutov@gmx.de,4.5,VERI,FIXE,31-01-2015,cri,17,05-02-2015
+536474,FillLayout.flushCache throws java.lang.ClassCastException,Platform,SWT,platform-swt-inbox@eclipse.org,,nikitin.alexander@gmail.com,4.8,CLOS,INVA,29-06-2018,cri,27,19-03-2019
+530226,ProjectClasspathPreferenceChangeListener spawns massive load of Jobs during startup,PDE,UI,loskutov@gmx.de,,moritz.aleithe@yahoo.de,4.7,VERI,FIXE,24-01-2018,cri,22,09-10-2018
+461427,SWT fragment missing on classpath in build of SWT tests and tools when moving to tycho 0.23.0-SNAPSHOT,Platform,SWT,akurtakov@gmail.com,,david_williams@acm.org,4.5,VERI,FIXE,04-03-2015,cri,47,16-11-2016
+527428,"while opening eclipse, getting an error as ""Error has occured. See the log file. check configuration file '1510950520886.log'",Platform,IDE,Platform-UI-Inbox@eclipse.org,,eniyaete@gmail.com,4.8,RESO,INVA,17-11-2017,cri,2,20-11-2017
+530994,unable to compile infered generic type,JDT,Core,stephan.herrmann@berlin.de,,peter@peterhuang.org,4.7.2,VERI,INVA,10-02-2018,cri,4,09-03-2018
+512052,Unable to startup Eclipse from debugger every second time,Platform,UI,dirk.fauth@googlemail.com,,loskutov@gmx.de,4.7,RESO,FIXE,10-02-2017,cri,98,10-05-2018
+548550,"constructor does not work , there is no output",Platform,IDE,Platform-UI-Inbox@eclipse.org,,harthika@hotmail.com,4.13,CLOS,INVA,22-06-2019,cri,2,23-06-2019
+537776,SWT display broken with dpi != 90 on Linux,Platform,UI,platform-swt-inbox@eclipse.org,,luke.hutch@gmail.com,4.8,RESO,FIXE,07-08-2018,cri,5,17-09-2018
+558434,Content Assist agonizingly slow in Eclipse 2019-12 (4.14),JDT,UI,rgrunber@redhat.com,rgrunber@redhat.com,garret@globalmentor.com,4.14,VERI,FIXE,18-12-2019,cri,48,19-02-2020
+526309,Marketplace-Repo for JUnit 5 Support not found: No repository found at http://download.eclipse.org/eclipse/updates/none.,Platform,IDE,Platform-UI-Inbox@eclipse.org,,florian.windstetter@studios...,4.7.1,RESO,INVA,20-10-2017,cri,6,20-10-2017
+500210,python Library file of third party software not found while using jython interpreter in juno eclipse,PDE,API Tool,pde-apitools-inbox@eclipse.org,,pratap@rasalsi.com,4.7,RESO,INVA,24-08-2016,cri,3,27-08-2016
+525879,Crash in NSCopyBits,Platform,SWT,platform-swt-inbox@eclipse.org,,cdtdoug@gmail.com,4.6,CLOS,DUPL,11-10-2017,cri,6,11-10-2017
+520183,Local Storage Events do Not Fire in SWT Browser using any version of IE,Platform,SWT,platform-swt-inbox@eclipse.org,,david.pinho@optum.com,4.7,CLOS,WONT,26-07-2017,cri,2,09-10-2019
+487033,Eclipse 4.5.1 freezes Ubuntu 15.10 when debugging mouse listeners,Platform,SWT,platform-swt-inbox@eclipse.org,,royeepperson@gmail.com,4.5.1,CLOS,WORK,02-02-2016,cri,3,04-10-2016
+483545,[GTK3][Elementary OS] Dialogs unusable under ElementaryOS 0.3.1 (Freya),Platform,SWT,platform-swt-inbox@eclipse.org,,sewe@cqse.eu,4.5.1,CLOS,DUPL,03-12-2015,cri,16,20-03-2019
+532258,Memory leaks,Platform,Text,zulus@w3des.net,,mauri.merli@gmail.com,4.7.2,VERI,FIXE,09-03-2018,cri,12,25-05-2018
+494025,eclipse saving workspace hangs on closing,Platform,IDE,Platform-UI-Inbox@eclipse.org,,mamidoju@gmail.com,4.5,CLOS,WORK,19-05-2016,cri,4,01-09-2016
+541307,Eclipse fails to resolve RCP/plug-ins created with Java 10+ BREE,PDE,UI,Vikas.Chandra@in.ibm.com,,Lars.Vogel@vogella.com,4.1,VERI,FIXE,19-11-2018,cri,26,22-11-2018
+460458,Compile warnings in org.eclipse.ant.ui are not reported by Eclipse SDK build,Platform,Releng,david_williams@acm.org,,markus.kell.r@gmail.com,4.5,RESO,DUPL,20-02-2015,cri,11,07-03-2015
+494852,Require explicit user's consent to use non-anonymous User-Agent,Equinox,p2,equinox.p2-inbox@eclipse.org,,mn@mn.com.ua,unspe,RESO,WONT,29-05-2016,cri,5,02-06-2016
+536733,latest org.eclipse.equinox.console was not published at maven central,Platform,Releng,stephan.herrmann@berlin.de,,cvgaviao@gmail.com,4.8,RESO,FIXE,05-07-2018,cri,5,12-07-2018
+525329,Hard crash with SEGV under org.eclipse.swt.internal.cairo.Cairo._cairo_scale,Platform,SWT,platform-swt-inbox@eclipse.org,,mober.at+eclipse@gmail.com,4.8,CLOS,FIXE,28-09-2017,cri,17,28-11-2017
+490593,Target Platform: add directory -> avoid StackOverflow -> don't break all of eclipse,PDE,UI,pde-ui-inbox@eclipse.org,,eclipse-bugs@ginguppin.de,4.5,RESO,DUPL,29-03-2016,cri,2,16-06-2016
+492209,"[""Smart Importer""] Open Projects... leaks file handles",Platform,IDE,markus.kell.r@gmail.com,,markus.kell.r@gmail.com,4.6,RESO,FIXE,21-04-2016,cri,2,24-04-2016
+538752,"Build error ""There should be no remaining edge at this point"" after migration from Neon to Photon",Platform,Resource,mistria@redhat.com,,caclark@trueblue.com,4.8,RESO,FIXE,06-09-2018,cri,18,18-11-2018
+552202,"i can not open eclipse , i",Equinox,Launcher,equinox.launcher-inbox@ecli...,,shueb.chowdhury100@gmail.com,4.9,RESO,WONT,17-10-2019,cri,3,22-10-2019
+531905,[code mining] Fix bug which doesn't draw line content annotation in fixed line height mode,Platform,Text,azerr@redhat.com,,azerr@redhat.com,4.8,CLOS,WONT,02-03-2018,cri,8,05-04-2018
+537978,when ever i run the code after compiling it shows choose the applicaton and then i choose a application still it doesnt run and shows binary not found i tried run congifurations still the same issue plz plz fix it,Platform,IDE,Platform-UI-Inbox@eclipse.org,,ankit90499@gmail.com,4.8,RESO,INVA,16-08-2018,cri,2,16-08-2018
+543703,Eclipse crash when setting python3 interpreter,Platform,IDE,Platform-UI-Inbox@eclipse.org,,yltang52@gmail.com,4.8,RESO,NOT_,22-01-2019,cri,2,22-01-2019
+535873,Oxygen 4.7.3a Intallation problem,Platform,IDE,Platform-UI-Inbox@eclipse.org,,sanjaybhatt1000@gmail.com,4.7.3,CLOS,INVA,13-06-2018,cri,2,17-06-2018
+461132,"Could not locate google-play-services_lib.jar, but is there",Platform,IDE,Platform-UI-Inbox@eclipse.org,,teritriano@gmail.com,4.4.2,CLOS,WORK,28-02-2015,cri,3,14-04-2016
+546675,right clicking inside a scala class file causes class not found error,JDT,Core,register.eclipse@brychcy.de,,normana400@yahoo.com,4.12,VERI,FIXE,23-04-2019,cri,18,23-05-2019
+505926,URI Error,Platform,IDE,Platform-UI-Inbox@eclipse.org,,myron.bradford@asd20.org,4.6,RESO,INVA,13-10-2016,cri,4,28-10-2016
+531686,[code mining] Fix bug with line content annotation which is empty,Platform,Text,azerr@redhat.com,,azerr@redhat.com,4.8,CLOS,FIXE,26-02-2018,cri,11,05-04-2018
+470453,Plateform stops responding when debugging,Platform,Debug,platform-debug-inbox@eclips...,,bertrand.guyonnet@ens-lyon.fr,4.5,CLOS,NOT_,18-06-2015,cri,2,24-06-2015
+539356,Text Editor Flickers when the Mouse Pointer is moving inside its Area,Platform,SWT,platform-swt-inbox@eclipse.org,,sandrohnakaguma@gmail.com,4.9,RESO,WORK,23-09-2018,cri,3,30-09-2018
+476633,NPE in org.eclipse.e4.ui.internal.workbench.SelectionServiceImpl.getSelection(),Platform,UI,kalyan_prasad@in.ibm.com,,qu.aksu@suremail.info,4.4.1,VERI,FIXE,04-09-2015,cri,12,16-03-2016
+489551,File Search silently drops results on StackOverflowError,Platform,Search,eclipse.sprigogin@gmail.com,,markus.kell.r@gmail.com,4.6,VERI,FIXE,14-03-2016,cri,13,19-05-2016
+525839,breakpoints not working,Incubato,e4,eclipse.e4-inbox@eclipse.org,,coldchillin_aa@yahoo.com,unspe,RESO,WORK,10-10-2017,cri,6,23-01-2018
+522250,Mac menu bar greyed out,Platform,UI,Platform-UI-Inbox@eclipse.org,,tobias.internet@mbtj.de,4.8,CLOS,DUPL,13-09-2017,cri,5,14-09-2017
+541300,SorterTests.testSorterContentAddOverride are unstable,Platform,UI,Platform-UI-Inbox@eclipse.org,,mistria@redhat.com,4.8,CLOS,DUPL,19-11-2018,cri,2,19-11-2018
+478383,Eclipse Luna SR1 4.4.2 hangs when creating index sometimes,JDT,UI,jdt-ui-inbox@eclipse.org,,admin@en-circle.com,4.4.2,RESO,WORK,25-09-2015,cri,3,11-12-2015
+546633,Eclipse crashes with Unhandled event loop exception after Quick Switch Editor action,Platform,SWT,platform-swt-inbox@eclipse.org,,dominik.leszyk@gmail.com,4.11,CLOS,DUPL,22-04-2019,cri,4,23-04-2019
+548949,Cannot successfully deploy infocenter as WAR file on Tomcat 8; updated instructions required,Platform,User Ass,Platform-UI-Inbox@eclipse.org,,pdisabito@salesforce.com,4.13,CLOS,DUPL,03-07-2019,cri,5,16-04-2020
+493758,M7 selection after scrolling with touchpad causes MAJOR display problems,Platform,SWT,platform-swt-inbox@eclipse.org,,rhdyas@gmail.com,4.6,CLOS,DUPL,16-05-2016,cri,2,17-05-2016
+504118,Save bundle causes Eclipse Eierlegende Wollmilchsau to behave abnormally,Platform,Debug,platform-debug-inbox@eclips...,,erkinalp9035@gmail.com,4.6,RESO,WONT,05-10-2016,cri,18,08-10-2019
+458886,Eclipse displays strange characters while using the spacebar,Platform,IDE,Platform-UI-Inbox@eclipse.org,,nandoblabla@gmail.com,4.4.1,CLOS,DUPL,31-01-2015,cri,2,02-02-2015
+544432,"[9] Eclipse compiler error ""The type com.a.A is not accessible"" while javac works",JDT,Core,stephan.herrmann@berlin.de,,eclipse-devel@gmx.de,4.11,VERI,FIXE,14-02-2019,cri,11,17-02-2019
+462002,"Eclipse crash when focus ""Build Working Set..."" menu",Platform,SWT,platform-swt-inbox@eclipse.org,,desenvolvimento@eeco.com.br,4.4.2,CLOS,DUPL,12-03-2015,cri,7,05-04-2016
+484005,Eclipse 4.6 not responding,Platform,SWT,platform-swt-inbox@eclipse.org,,Lars.Vogel@vogella.com,4.5,RESO,WORK,09-12-2015,cri,70,21-01-2016
+512687,4.6.3 RC3 fails with UnsatisfiedLinkError on Linux/ppc64le,Platform,SWT,arunkumar.thondapu@in.ibm.com,,arunkumar.thondapu@in.ibm.com,4.6,VERI,FIXE,24-02-2017,cri,6,28-02-2017
+515544,Windows 10 Creator Update crashes with eclipse 3.4.2,Platform,Runtime,platform-runtime-inbox@ecli...,,ram_krishnamurthy@us.ibm.com,3.4.2,RESO,WONT,20-04-2017,cri,3,11-05-2017
+531606,RequiredCapability introduced binary-incompatible changes,Equinox,p2,mn@mn.com.ua,,mn@mn.com.ua,4.8.0,RESO,FIXE,23-02-2018,cri,6,05-03-2018
+543442,Workbench window will not prompt to save non CompatibilityParts if compatibility parts are also being closed from the stack.,Platform,UI,kalyan_prasad@in.ibm.com,,ghaith.hachem@bachmann.info,4.11,VERI,FIXE,15-01-2019,cri,31,26-08-2019
+548643,generate javax.inject import in PDE templates,PDE,UI,julian.honnen@vector.com,,julian.honnen@vector.com,4.13,VERI,FIXE,25-06-2019,cri,9,09-07-2019
+468618,"After WAS 8.5 plugin installation when trying to stop the server and start it again getting error ""Exception in thread ""main"" java.lang.NoClassDefFoundError: Files""",PDE,API Tool,pde-apitools-inbox@eclipse.org,,deepikamadhuri.v@gmail.com,4.2,RESO,NOT_,28-05-2015,cri,7,29-05-2015
+545443,PDE Quick fix contributions hang the UI,PDE,UI,julian.honnen@vector.com,,andrew.niefer@ca.ibm.com,4.11,VERI,FIXE,15-03-2019,cri,16,07-08-2019
+498196,[Win32][GTK] SWT Toolbar does not display custom widgets properly,Platform,SWT,niraj.modi@in.ibm.com,,ralf.grossklaus@vector.com,4.6,RESO,FIXE,20-07-2016,cri,16,30-08-2016
+506326,[HiDPI][GTK][DnD] Mouse-enter is slightly misplaced by few pixels for CTabFolder tab header.,Platform,SWT,sravankumarl@in.ibm.com,,niraj.modi@in.ibm.com,4.6,CLOS,DUPL,21-10-2016,cri,4,15-02-2018
+507098,No source found for classes without projects in the workspace if workspace contains a feature project,PDE,UI,loskutov@gmx.de,,loskutov@gmx.de,4.6,VERI,FIXE,05-11-2016,cri,29,10-11-2016
+505787,The Download page did not get generated for M20161012-0600,Platform,Releng,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.7,RESO,FIXE,12-10-2016,cri,2,14-12-2016
+471165,Eclipse download,Platform,User Ass,Platform-UI-Inbox@eclipse.org,,ryanmgreen0@gmail.com,4.5,CLOS,DUPL,26-06-2015,cri,2,29-06-2015
+480907,Deadlock in configuration admin when using MangedService(Factory),Equinox,Compendi,tjwatson@us.ibm.com,,rinsvind@gmail.com,4.5.0,RESO,FIXE,28-10-2015,cri,5,06-11-2015
+496942,Eclipse Neon stop compiling Java code and make me to do an unnecessary explicit casting,JDT,Core,stephan.herrmann@berlin.de,,martingon4eo@gmail.com,4.6,VERI,FIXE,28-06-2016,cri,16,03-08-2016
+499392,SWT.Mozilla Browser with XULRunner 24 terminates the application when browser size is set above a certain limit,Platform,SWT,platform-swt-inbox@eclipse.org,,AjayKumar.Jha@in.bosch.com,4.5.2,CLOS,WONT,09-08-2016,cri,2,04-07-2017
+520283,Cannot run debugger in Junit Test,Platform,Debug,platform-debug-inbox@eclips...,,matthias.schaefer.93@web.de,4.7,CLOS,DUPL,27-07-2017,cri,2,27-07-2017
+525383,[10.13] StyleRange doesn't reset GlyphMetrics on macOS High Sierra,Platform,SWT,platform-swt-inbox@eclipse.org,,mlippert@gmail.com,4.7.1,RESO,FIXE,29-09-2017,cri,9,23-01-2018
+539458,[9]Random compilation error: The package does not exist or is empty,JDT,Core,jdt-core-inbox@eclipse.org,,ealrann@gmail.com,4.9,CLOS,WORK,26-09-2018,cri,4,26-09-2018
+533657,Installation is taking too much time,Equinox,p2,equinox.p2-inbox@eclipse.org,,20.anjali@gmail.com,4.7.0,RESO,WONT,17-04-2018,cri,3,17-02-2020
+547662,[call hierarchy] Call Hierarchy is not working,JDT,UI,jdt-ui-inbox@eclipse.org,,arnold.robert.turdean@gmail...,4.2.1,RESO,INVA,26-05-2019,cri,3,29-05-2019
+549450,Editor UI distorts upon horizontal scroll,Platform,IDE,Platform-UI-Inbox@eclipse.org,,patelprites@gmail.com,4.12,RESO,DUPL,22-07-2019,cri,4,22-07-2019
+526761,"Eclipse 4.7.1a : creating jars via jadesc results in ""empty jars""",JDT,Core,jarthana@in.ibm.com,,clemensdev@mysign.ch,4.7.1,VERI,FIXE,02-11-2017,cri,17,05-12-2017
+491136,[organize import][save action] slow answer for organize import save action,JDT,Core,jdt-core-inbox@eclipse.org,,djanoiup@yahoo.fr,4.5.2,CLOS,DUPL,06-04-2016,cri,7,06-04-2016
+534080,[StyledText] java.lang.IllegalArgumentException: Index out of bounds when setCaretLocation,Platform,SWT,azerr@redhat.com,,azerr@redhat.com,4.8,RESO,FIXE,26-04-2018,cri,4,26-04-2018
+503495,[ds] Disposed SericeComponentProp instances are kept in ServiceRegistry,Equinox,Compendi,equinox.compendium-inbox@ec...,,tganchev@vmware.com,3.6.1,CLOS,WONT,04-10-2016,cri,3,24-06-2019
+505965,GTK 3.22 Partially Breaking UI,Platform,SWT,platform-swt-inbox@eclipse.org,,m.walther97@gmail.com,4.6,RESO,DUPL,14-10-2016,cri,5,19-10-2016
+531319,Eclipse Oxygen become slower and slower and consume more RAM as it used,Platform,SWT,platform-swt-inbox@eclipse.org,,alef75@gmail.com,4.7.2,CLOS,DUPL,18-02-2018,cri,26,13-07-2018
+461487,"Save Action ""Remove Unecessary casts"" also remove some casts necessary for overload resolution",JDT,UI,jdt-ui-inbox@eclipse.org,,sebastien.arod@gmail.com,4.5,CLOS,INVA,05-03-2015,cri,3,05-03-2015
+548803,"While editing the js/java file, it seems the characters loads in gibberish",JDT,UI,jdt-ui-inbox@eclipse.org,,udhaya.venu@anywhere.co,4.13,CLOS,DUPL,30-06-2019,cri,9,30-06-2019
+462431,New certificate conflict,Equinox,Componen,tjwatson@us.ibm.com,,ed@willink.me.uk,4.5.0,VERI,FIXE,18-03-2015,cri,6,19-03-2015
+552460,SHA512 Checksum does not match for SDK download 4.13,Platform,Releng,sravankumarl@in.ibm.com,,gunnar@wagenknecht.org,4.13,CLOS,FIXE,27-10-2019,cri,3,28-10-2019
+459226,Team Foundation Server plugin - Pending Changes View - locks up,PDE,API Tool,pde-apitools-inbox@eclipse.org,,rnippoldt@hotmail.com,4.3.2,RESO,NOT_,05-02-2015,cri,5,09-09-2015
+478447,[GTK3] hyperlink highlighting is rendered incorrectly in FormText,Platform,SWT,platform-swt-inbox@eclipse.org,,aburdukov@gmail.com,4.5,CLOS,WORK,25-09-2015,cri,7,23-08-2018
+493491,[HiDPI][win32] Garbled editors if autoscaling is enabled,Platform,SWT,platform-swt-inbox@eclipse.org,,tarvo.hirs@profitsoftware.com,4.6,CLOS,DUPL,12-05-2016,cri,8,12-05-2016
+526395,SWT is performing synchronous paints inside nextEventMatchingMask on OSX,Platform,SWT,sxenos@gmail.com,,sxenos@gmail.com,4.6,RESO,INVA,24-10-2017,cri,40,20-11-2018
+537629,OSGi DS Annotations don't work when exporting plugins,PDE,Build,pnehrer@eclipticalsoftware.com,,bruce.jackson@myriadgroup.com,4.9,RESO,WORK,02-08-2018,cri,5,31-03-2020
+481539,[OLE] Opening Microsoft Word Document with Macros wrongly pop up a security notice dialog,Platform,SWT,platform-swt-inbox@eclipse.org,,victormh.sms@gmail.com,3.8,CLOS,WONT,05-11-2015,cri,13,11-10-2019
+544972,Eclipse-Fatal crash trying to edit JSP files - Eclipse closes itself,Platform,UI,Platform-UI-Inbox@eclipse.org,,sandrohnakaguma@gmail.com,4.11,RESO,INVA,01-03-2019,cri,4,03-03-2019
+517849,Eclipse removes commented out class with organize import,JDT,Core,jdt-core-inbox@eclipse.org,manpalat@in.ibm.com,sipkab@gmail.com,4.6,CLOS,WONT,06-06-2017,cri,4,12-02-2020
+498219,Can't open CVS Repositories view in my Debug perspective,Platform,IDE,Platform-UI-Inbox@eclipse.org,,markus.kell.r@gmail.com,4.6,CLOS,WONT,20-07-2016,cri,5,02-11-2019
+488870,Server Error in '/MLS.NET' Application.,Platform,Website,platform-doc-inbox@eclipse.org,,albzip@yahoo.com,4.6,CLOS,DUPL,02-03-2016,cri,2,02-03-2016
+500694,[HiDPI][GTK] Drag and Drop not working properly on high resolution displays with scaling factor,Platform,SWT,niraj.modi@in.ibm.com,,lorenzo.bettini@gmail.com,4.6,VERI,FIXE,01-09-2016,cri,20,11-12-2017
+478634,Infinite Autobuild loop with a job never removed from waitingThreadJobs,Platform,Runtime,loskutov@gmx.de,,rawagner@redhat.com,4.5,RESO,FIXE,29-09-2015,cri,38,16-01-2018
+490490,[HighDPI] Eclipse fails to start with error at 199% custom zoom,Platform,SWT,platform-swt-inbox@eclipse.org,,lneumeier@irotation.de,4.6,RESO,FIXE,26-03-2016,cri,13,31-03-2016
+513514,Eclipse Neon.2 Java Formatter Wrapping ignores Settings,JDT,Core,jdt-core-inbox@eclipse.org,,evser11@yandex.ru,4.6,CLOS,INVA,11-03-2017,cri,3,13-03-2017
+481122,[GTK3.18+] some set/get Background/Foreground color methods have no effect,Platform,SWT,platform-swt-inbox@eclipse.org,,ericwill@redhat.com,4.6,RESO,FIXE,30-10-2015,cri,16,10-12-2015
+462783,New certificate conflict for org.eclipse.jdt.internal.compiler.lookup.AptSourceLocalVariableBinding,JDT,Core,david_williams@acm.org,,loskutov@gmx.de,4.5,VERI,FIXE,22-03-2015,cri,18,28-04-2015
+545366,NumberFormatException in ClasspathJrtWithReleaseOption,JDT,Core,jarthana@in.ibm.com,,mlippert@gmail.com,4.11,RESO,DUPL,13-03-2019,cri,3,14-03-2019
+539911,[Win32] cell colors not rendered in case of table background color explicitly set,Platform,SWT,platform-swt-inbox@eclipse.org,,reto.urfer@pop.agri.ch,4.8,CLOS,DUPL,08-10-2018,cri,4,06-05-2019
+547965,"Message: ""the method toarray() is undefined for the type collection__"". in debug",Platform,Debug,platform-debug-inbox@eclips...,,matheus.paulo93@gmail.com,4.11,CLOS,DUPL,05-06-2019,cri,6,18-06-2019
+513842,"In full screen mode, clicking on menus causes eclipse to flicker",Platform,UI,Platform-UI-Inbox@eclipse.org,,med.medin.2014@gmail.com,4.7,CLOS,NOT_,17-03-2017,cri,2,18-03-2017
+532812,JDT UI Gerrit failing with compare-version-with-baselines error,Platform,Releng,noopur_gupta@in.ibm.com,,noopur_gupta@in.ibm.com,4.8,VERI,FIXE,23-03-2018,cri,8,26-03-2018
+491384,Crash on Linux when using --launcher.GTK_version 2,Platform,IDE,Platform-UI-Inbox@eclipse.org,,alessio.pollero@gmail.com,4.5.2,CLOS,FIXE,10-04-2016,cri,16,10-05-2016
+474449,"Shortcut keys not working: next editor (CTLR+F6) , quick outline (CTRL + O)",Platform,SWT,platform-swt-inbox@eclipse.org,,nobeh5@gmail.com,4.5,CLOS,WORK,06-08-2015,cri,6,30-09-2016
+550417,Error launching the IDE,Platform,IDE,Platform-UI-Inbox@eclipse.org,,pvvsn.varma@gmail.com,4.13,RESO,WONT,25-08-2019,cri,2,26-08-2019
+520097,Projects Disappear,Platform,IDE,Platform-UI-Inbox@eclipse.org,,big.coffee.lover@gmail.com,4.7,CLOS,WORK,24-07-2017,cri,7,25-07-2017
+531354,Restore binary compatibility of publisher.eclipse bundle,Equinox,p2,mn@mn.com.ua,,mn@mn.com.ua,4.8.0,RESO,FIXE,19-02-2018,cri,6,23-02-2018
+543911,An error occurred while collecting items to be installed,Platform,IDE,Platform-UI-Inbox@eclipse.org,,nandu.porla@gmail.com,4.11,CLOS,NOT_,28-01-2019,cri,2,28-01-2019
+484206,Missing file cause NullPointerException on org.eclipse.equinox.ip_1.1.300.v20130327-1442.jar,Equinox,Compendi,equinox.compendium-inbox@ec...,,cvgaviao@gmail.com,4.5.0,CLOS,WONT,11-12-2015,cri,2,08-09-2019
+504734,SonarQube Hudson jobs reference wrong SonarQube URL,Platform,Releng,platform-releng-inbox@eclip...,,mistria@redhat.com,4.6,RESO,WORK,06-10-2016,cri,2,06-10-2016
+545116,NPE Call hiearchy - ParameterizedTypeBinding.getMemberType(ParameterizedTypeBinding.java:797),JDT,Core,jdt-core-inbox@eclipse.org,,steve.hruda@gmail.com,4.11,CLOS,DUPL,06-03-2019,cri,5,06-03-2019
+537062,Exception loop: net.certiv.fluentmark.model.PageRoot cannot be cast to net.certiv.fluentmark.model.PagePart,Platform,IDE,Platform-UI-Inbox@eclipse.org,,luis.de.sousa@protonmail.ch,4.8,CLOS,NOT_,16-07-2018,cri,9,20-07-2018
+499962,On fragment.e4xmi creation extension-points are deleted,Platform,IDE,psuzzi@gmail.com,,mikekilo@gmx.de,4.5.1,CLOS,WONT,19-08-2016,cri,3,08-10-2019
+474135,Syntax error in JUnitLaunchConfigurationDelegate,PDE,UI,Lars.Vogel@vogella.com,,Lars.Vogel@vogella.com,4.5,RESO,INVA,03-08-2015,cri,3,04-08-2015
+528390,Eclipse running slow for every operation in eclipse in RHEL 7.4,Platform,IDE,Platform-UI-Inbox@eclipse.org,,kowsalyait.ceg@gmail.com,4.6,CLOS,WONT,11-12-2017,cri,2,22-08-2019
+495370,ConcurrentModification Exception & Null Pointer exception at workspace building when using wildcards in generics,JDT,Core,stephan.herrmann@berlin.de,,rowtricker@gmail.com,4.5.2,CLOS,DUPL,03-06-2016,cri,4,06-06-2016
+550555,org.eclipse.swt.SWTError: No more handles error when 10K Hyperlinks are created,Platform,SWT,platform-swt-inbox@eclipse.org,,manojbb1991@gmail.com,4.1,CLOS,WONT,29-08-2019,cri,7,27-09-2019
+550797,Tons of JavaBuilder handling CoreExceptions - File not found,JDT,Core,jdt-core-inbox@eclipse.org,,Lars.Vogel@vogella.com,4.13,RESO,WORK,05-09-2019,cri,5,05-09-2019
+532586,[testsources] incremental builds are not working in projects with just test sources,JDT,Core,register.eclipse@brychcy.de,,robert.munteanu@gmail.com,4.8,VERI,FIXE,19-03-2018,cri,8,09-05-2018
+479988,BundleListener not called for System Bundle events (esp. stopping/stopped),Equinox,Framewor,tjwatson@us.ibm.com,,pollentierk@yahoo.com,3.10.,RESO,FIXE,16-10-2015,cri,6,20-10-2015
+541151,[9] Random compilation problem (import cannot be resolved),JDT,Core,stephan.herrmann@berlin.de,,ealrann@gmail.com,4.1,VERI,FIXE,14-11-2018,cri,14,29-11-2018
+549278,[code mining] cannot change text after the parameter mining information for certain code patterns,JDT,Text,jdt-text-inbox@eclipse.org,,gayanper@gmail.com,4.13,CLOS,DUPL,15-07-2019,cri,7,15-07-2019
+528679,Eclipse Photon M3a crashes on CentOS 6,Platform,SWT,akurtakov@gmail.com,,dwille@gmail.com,4.8,VERI,FIXE,12-12-2017,cri,8,06-03-2018
+510614,CVE in Batik 1.7.0 shipped,Platform,UI,akurtakov@gmail.com,,akurtakov@gmail.com,4.6,RESO,FIXE,18-01-2017,cri,7,21-02-2017
+503324,Update of eclipse does not work,e4,Runtime,e4.runtime-inbox@eclipse.org,,burgs.eclipse@burger-it.de,unspe,RESO,WORK,04-10-2016,cri,6,05-06-2019
+492205,Eclipse GUI Scaling surface book,Platform,IDE,Platform-UI-Inbox@eclipse.org,,rtarson@hotmail.com,4.6,CLOS,DUPL,21-04-2016,cri,2,21-04-2016
+515663,Import projects : top level folder imported as a Java project referencing src folder to child project,Platform,UI,mistria@redhat.com,,apupier@redhat.com,4.7,RESO,FIXE,24-04-2017,cri,12,26-04-2017
+501544,Plug-in tools menu contributed to undesirable places,PDE,UI,pde-ui-inbox@eclipse.org,,pascal@rapicorp.com,4.7,CLOS,DUPL,15-09-2016,cri,6,16-09-2016
+493245,[GTK3] Unhandled event loop exception on project and class creation,Platform,SWT,platform-swt-inbox@eclipse.org,,kwpolska@gmail.com,4.5.2,CLOS,DUPL,09-05-2016,cri,3,09-05-2016
+463102,AllBrowserTests killed by timeout - hangs at OS.GTK_TYPE_FIXED at Display.createDisplay,Platform,SWT,malaperle@gmail.com,,markus.kell.r@gmail.com,4.5,RESO,FIXE,25-03-2015,cri,20,08-04-2015
+466364,"Cannot run unit-tests anymore because classes from org.eclipse.jface.text cannot be loaded because of ""signer information does not match signer information of other classes in the same package""",Platform,Text,daniel_megert@ch.ibm.com,,fabiofz@gmail.com,4.5,VERI,FIXE,04-05-2015,cri,9,24-05-2015
+459388,IllegalArgumentException: Argument not valid,Platform,UI,Platform-UI-Inbox@eclipse.org,,stephan.herrmann@berlin.de,4.5,CLOS,WORK,08-02-2015,cri,20,26-05-2015
+536850,Webkit2 and Java processes take up extreme Virtual size upon instantiating browser,Platform,SWT,platform-swt-inbox@eclipse.org,,twelve.eighty@gmail.com,4.8,CLOS,NOT_,09-07-2018,cri,4,10-07-2018
+484506,Form widgets trying to use disposed colors when switching themes,Platform,UI,ralf.petter@gmail.com,,elaskavaia.cdt@gmail.com,4.6,RESO,FIXE,16-12-2015,cri,22,05-04-2017
+483879,[Cocoa] Toolbar icons are not displaying correctly,Platform,SWT,platform-swt-inbox@eclipse.org,,clementpeyrabere@gmail.com,4.5.1,RESO,WORK,08-12-2015,cri,4,27-01-2016
+512575,Themeing broken on macOS: View titles unreadable,Platform,UI,psuzzi@gmail.com,,markus.kell.r@gmail.com,4.7,RESO,FIXE,22-02-2017,cri,4,28-02-2017
+494369,Eclipse crashes out of nowhere,Platform,IDE,Platform-UI-Inbox@eclipse.org,,roderik.dernison@northpool.nl,4.5.1,CLOS,WORK,24-05-2016,cri,4,05-07-2016
+485755,Unable to connect repository,PDE,API Tool,pde-apitools-inbox@eclipse.org,,acharyanamitha.92@gmail.com,4.6,RESO,NOT_,13-01-2016,cri,2,01-07-2016
+457512,"Crash before ""Build Working Set"" sub-menu shows up",Platform,SWT,platform-swt-inbox@eclipse.org,,kane.shih@meeya.cc,4.2.2,CLOS,DUPL,14-01-2015,cri,4,04-04-2016
+475064,NullPointerException on attempt tp show in History any resource under VCS with EGit,Platform,SWT,epp.packager-inbox@eclipse.org,,kiraukr@ukr.net,4,CLOS,DUPL,16-08-2015,cri,4,18-07-2016
+537683,"After close IDE,Reopen IDE and open project. can not use ""Alt + /"" command.",Platform,IDE,Platform-UI-Inbox@eclipse.org,,zenjoyer@163.com,4.8,RESO,WORK,03-08-2018,cri,2,06-08-2018
+528941,org.eclipse.swt.internal.gtk.OS.Call freezes whole debian UI,Platform,UI,Platform-UI-Inbox@eclipse.org,,klemen.zivkovic@gmail.com,4.6,CLOS,DUPL,19-12-2017,cri,7,23-04-2018
+532413,java.lang.String is ambiguous,JDT,Core,jdt-core-inbox@eclipse.org,,paulanthonyorl@gmail.com,4.7.2,CLOS,WONT,13-03-2018,cri,3,15-03-2020
+494841,Arrays Breaks Error Check,JDT,Core,stephan.herrmann@berlin.de,,RLS0812@GMAIL.COM,2,VERI,INVA,29-05-2016,cri,3,30-05-2016
+522251,Mac menu bar greyed out,JDT,UI,stephan.herrmann@berlin.de,,tobias.internet@mbtj.de,4.8,CLOS,DUPL,13-09-2017,cri,2,13-09-2017
+492947,Code assist does not work in certain forms of lambdas,JDT,Core,jarthana@in.ibm.com,,artist@3dfolio.com,4.6,VERI,FIXE,04-05-2016,cri,24,28-05-2017
+531474,JRE not detected by macOS launchers (require JDK or explicit -vm),Equinox,Launcher,equinox.launcher-inbox@ecli...,,mistria@redhat.com,4.7.0,RESO,WORK,21-02-2018,cri,23,04-12-2018
+486312,is there any way to highlight all selected word in eclipse for jsp css and js,PDE,UI,pde-ui-inbox@eclipse.org,,janakzariya@gmail.com,4.5,RESO,WORK,22-01-2016,cri,4,02-09-2019
+528213,Eclipse Juno 4.2.2 has Plug in errors in UI for ATE & dependency views,PDE,UI,pde-ui-inbox@eclipse.org,,haj_leo@yahoo.com,4.2.2,CLOS,WONT,06-12-2017,cri,2,27-11-2019
+519185,"Problem with ""File Search"" when Progress View is open",Platform,Search,Vikas.Chandra@in.ibm.com,,andrzej.galus0@gmail.com,4.7,RESO,DUPL,04-07-2017,cri,43,18-04-2018
+471857,Eclipse IDE C++ Crashing - java.lang.RuntimeException: Could not find framework,Platform,IDE,Platform-UI-Inbox@eclipse.org,,jesus92gz@gmail.com,4.5,RESO,FIXE,04-07-2015,cri,3,04-07-2015
+485018,NullPointerException in SiteListener.getFeatures(),Equinox,p2,equinox.p2-inbox@eclipse.org,,stepper@esc-net.de,4.5.0,RESO,FIXE,30-12-2015,cri,9,28-01-2016
+477970,interactive product export sometimes contains out of date class files,PDE,UI,pde-ui-inbox@eclipse.org,,lists@joerg-buchberger.de,4.5,CLOS,WONT,21-09-2015,cri,3,15-08-2019
+525831,Access rules not working when running with Java 9 JRE,JDT,Debug,sarika.sinha@in.ibm.com,,eric.milles@thomsonreuters.com,4.7.1,RESO,WORK,10-10-2017,cri,28,24-04-2018
+520724,Timout by downloading Eclipse,Platform,IDE,Platform-UI-Inbox@eclipse.org,,messer@getrelution.de,4.8,CLOS,WONT,09-08-2017,cri,2,02-02-2020
+534297,[code mining] click on inlined annotation must take care of visibility of annotation,Platform,Text,platform-text-inbox@eclipse...,,azerr@redhat.com,4.8,RESO,FIXE,03-05-2018,cri,6,03-05-2018
+476079,[dom]JVM terminated (exit code -1073740777) on analysing source code with an invalid String format,JDT,Core,manpalat@in.ibm.com,,novanic@gmx.de,4.5,VERI,INVA,27-08-2015,cri,6,29-10-2015
+471164,Eclipse download,Platform,IDE,Platform-UI-Inbox@eclipse.org,,ryanmgreen0@gmail.com,4.5,RESO,WORK,26-06-2015,cri,4,12-07-2015
+558022,[regression] Dot resources are shown by default in Project Explorer / Common Navigator,Platform,IDE,loskutov@gmx.de,,loskutov@gmx.de,4.14,RESO,FIXE,09-12-2019,cri,23,10-12-2019
+525408,"ERROR WHEN OPENING ECLIPSE NEON, on MacBook pro",JDT,Core,stephan.herrmann@berlin.de,,gaerlanrobert@gmail.com,4.8,RESO,WORK,29-09-2017,cri,4,26-11-2019
+537779,Cannot open Eclipse Marketplace(,Equinox,p2,equinox.p2-inbox@eclipse.org,,mallik.wgl@gmail.com,3.9.0,CLOS,WONT,08-08-2018,cri,4,08-08-2018
+519079,Java heap space,JDT,Core,jdt-core-inbox@eclipse.org,,bhanu.cse509@gmail.com,4.6,CLOS,WONT,02-07-2017,cri,3,26-03-2020
+531804,Content assist on parsing-based proposals time-out and blocks Eclipse for minutes,PDE,UI,pde-ui-inbox@eclipse.org,,sam.jaques@gmail.com,4.7.2,RESO,INVA,28-02-2018,cri,3,18-09-2018
+489494,eclipse-SDK-N20160312-1500-macosx-cocoa-x86_64.tar.gz is damaged,Platform,Releng,platform-releng-inbox@eclip...,,lshanmug@in.ibm.com,4.6,CLOS,WORK,12-03-2016,cri,4,15-03-2016
+546666,Cannot infer type argument(s) - Lambda - V4.11,JDT,Core,jdt-core-inbox@eclipse.org,,mawenpeng@163.com,4.11,VERI,INVA,23-04-2019,cri,6,30-05-2019
+514149,[resolver] issues resolving with substitutable exports,Equinox,Framewor,tjwatson@us.ibm.com,,tjwatson@us.ibm.com,unspe,RESO,FIXE,23-03-2017,cri,22,26-05-2017
+468612,Bug 401835,Platform,UI,Platform-UI-Inbox@eclipse.org,,alexvasiljev@gmail.com,4.4.1,CLOS,DUPL,28-05-2015,cri,2,28-05-2015
+485644,"JBOSS SERVER ADAPER IS NOT UPDATING .SHOWING UP TO JBOSS 5.I CANT GET JBOSS 6 ,7 .I UPDATED JBOSS AS TOOLS ALSO.",JDT,Doc,jdt-doc-inbox@eclipse.org,,karthickumar117@gmail.com,4.2,CLOS,NOT_,12-01-2016,cri,2,12-01-2016
+492450,AIOOBE in CodeStream.generateSyntheticBodyForMethodAccess for PDE's DocumentObject.java,JDT,Core,markus.kell.r@gmail.com,,markus.kell.r@gmail.com,4.6,VERI,FIXE,26-04-2016,cri,6,27-04-2016
+467733,CCombo totally broken on Windows,Platform,SWT,platform-swt-inbox@eclipse.org,,stepper@esc-net.de,4.5,CLOS,DUPL,20-05-2015,cri,2,20-05-2015
+471387,Space in Eclipse app name causes ant build to fail,Platform,Ant,sarika.sinha@in.ibm.com,,jichun@gmail.com,4.5,CLOS,DUPL,29-06-2015,cri,5,30-06-2015
+522005,Allow to clean after update,PDE,Build,pde-build-inbox@eclipse.org,,boniatillo@gmail.com,4.8,CLOS,WONT,07-09-2017,cri,2,24-09-2019
+531703,In linux table viewer columns are not getting hidden which are in the scrolled area,Platform,SWT,platform-swt-inbox@eclipse.org,,sorathiya.ankit@gmail.com,4.8,CLOS,WORK,27-02-2018,cri,3,23-08-2018
+493286,Eclipse delete 99% of my project files...,Platform,IDE,Platform-UI-Inbox@eclipse.org,,pereskokoff.vova@yandex.ru,4.6,RESO,WORK,10-05-2016,cri,5,11-05-2016
+541479,[code mining] Binary references are not counted,JDT,UI,jjohnstn@redhat.com,,noopur_gupta@in.ibm.com,4.1,RESO,FIXE,23-11-2018,cri,12,03-12-2018
+550393,ide not working properly,Platform,IDE,Platform-UI-Inbox@eclipse.org,,sriramojusaisrinivas@gmail.com,4.9,RESO,INVA,23-08-2019,cri,2,26-08-2019
+525687,Eclipse managed to erase entire project from disk,Platform,IDE,Platform-UI-Inbox@eclipse.org,,thomascraft333@gmail.com,4.8,CLOS,WORK,06-10-2017,cri,3,03-11-2017
+528279,Unable to launch eclipse,Platform,IDE,Platform-UI-Inbox@eclipse.org,,rajath.sagiboy@gmail.com,3.7.2,RESO,WONT,07-12-2017,cri,2,15-12-2017
+495100,Eclipse crashed when properties project windows closed,Platform,SWT,platform-swt-inbox@eclipse.org,,g.brzezinski@vips-sa.com,3.8.1,CLOS,DUPL,01-06-2016,cri,3,01-06-2016
+534559,Eclipse Oxygen fails to compile valid Java 8 code,JDT,Core,register.eclipse@brychcy.de,,ctubbsii+eclipse@gmail.com,4.7.3,VERI,DUPL,10-05-2018,cri,4,11-05-2018
+536409,Compare editor broken: shrinks,Platform,Compare,daniel_megert@ch.ibm.com,,daniel_megert@ch.ibm.com,4.9,RESO,FIXE,28-06-2018,cri,5,28-06-2018
+473302,Eclipse IDE for Java EE Developers - JDK Issue,Platform,IDE,Platform-UI-Inbox@eclipse.org,,dk.satty@gmail.com,4.6,CLOS,DUPL,22-07-2015,cri,8,23-07-2015
+543778,[10][compiler] NPE in 4.10 when compiling Lambda Expression,JDT,Core,stephan.herrmann@berlin.de,,lukas.wulff@dialog-edv.de,4.1,VERI,FIXE,24-01-2019,cri,17,07-10-2019
+552842,"Eclipse crash with access violation (0xc0000005) in module name: MSCTF.dll, version: 10.0.17134.1038, time stamp: 0x3ed186d7",Platform,IDE,Platform-UI-Inbox@eclipse.org,,mfj@earthling.net,4.13,CLOS,DUPL,08-11-2019,cri,25,21-03-2020
+457363,NPE in ApiAnalysisBuilder.toString,PDE,Build,pde-build-inbox@eclipse.org,,eclipse.sprigogin@gmail.com,4.5,CLOS,DUPL,13-01-2015,cri,2,13-01-2015
+520641,download link not working,Platform,IDE,Platform-UI-Inbox@eclipse.org,,mohamed.belhassen@gmail.com,4.8,CLOS,WONT,07-08-2017,cri,3,27-04-2020
+515880,DNF (crash) in core.tests.net,Equinox,Security,henryju@yahoo.fr,,loskutov@gmx.de,4.7.0,RESO,FIXE,27-04-2017,cri,43,10-05-2017
+465403,"Cannot open, find or re-download Eclipse.",Platform,IDE,Platform-UI-Inbox@eclipse.org,,ckjars13@student.aau.dk,4.5,RESO,WORK,24-04-2015,cri,2,15-06-2015
+467413,[http whiteboard] Using HttpServletRequestWrapper in filter implementation causes StackOverflowError,Equinox,Compendi,raymond.auge@liferay.com,,jreimann@redhat.com,4.5.0,RESO,FIXE,15-05-2015,cri,30,21-05-2015
+486943,Hang while search for file in order to replace,Platform,Search,platform-search-inbox@eclip...,,cvgaviao@gmail.com,4.6,RESO,WORK,01-02-2016,cri,2,02-02-2016
+472426,[1.8][inference] Type inference problem on overloaded methods,JDT,Core,stephan.herrmann@berlin.de,,phraktle@gmail.com,4.5,VERI,DUPL,11-07-2015,cri,7,14-01-2016
+550517,[GTK3] Swing components keep the focus when coming back to SWT widgets,Platform,SWT,ericwill@redhat.com,,olivier.prouvost@opcoach.com,4.13,VERI,FIXE,28-08-2019,cri,12,19-11-2019
+529052,Can not launch eclipse!,Platform,Runtime,platform-runtime-inbox@ecli...,,nekapitan@yahoo.com,4.7,CLOS,INVA,21-12-2017,cri,2,08-02-2018
+545951,Java launcher throws exception while loading swt application on Oracle Java 11,Platform,SWT,platform-swt-inbox@eclipse.org,,lokanadham.rallapalli@quest...,4.12,RESO,INVA,30-03-2019,cri,3,10-06-2019
+531032,[StyledText] StyledTextRenderer#isVariableHeight bug & improve,Platform,SWT,azerr@redhat.com,,azerr@redhat.com,4.8,RESO,FIXE,12-02-2018,cri,8,06-03-2018
+482457,JVM crash on Debian 8 on org.eclipse.swt.internal.gtk.OS._g_main_context_iteration,Platform,SWT,platform-swt-inbox@eclipse.org,,tka@profium.com,3.7.2,CLOS,WORK,18-11-2015,cri,7,22-09-2016
+514328,SDK package doesn't ask for workspace,Platform,IDE,Platform-UI-Inbox@eclipse.org,,mistria@redhat.com,4.7,CLOS,DUPL,28-03-2017,cri,3,28-03-2017
+459863,org.eclipse.swt.internal.gtk.OS._gtk_tree_view_get_grid_lines(J) in recent build,Platform,SWT,platform-swt-inbox@eclipse.org,,Lars.Vogel@vogella.com,4.5,RESO,FIXE,13-02-2015,cri,6,18-03-2015
+537416,UI Freeze for 15 minutes everytime when starting Eclipse IDE,Platform,UI,lbullen@redhat.com,,liedrig@gmx.net,4.8,RESO,FIXE,26-07-2018,cri,20,02-08-2018
+492733,"[""Smart Importer""] Open Projects wizard scanning not cancelable",Platform,IDE,mistria@redhat.com,,markus.kell.r@gmail.com,4.6,VERI,FIXE,29-04-2016,cri,10,31-05-2016
+550336,Staging view freezes on commit (NPE in AbstractTextEditor$TextEditorSavable.isDirty),Platform,UI,kalyan_prasad@in.ibm.com,,ma.becker@sap.com,4.13,RESO,FIXE,22-08-2019,cri,48,03-09-2019
+481112,Eclipse not saving files to disk after large Find/Replace,Platform,IDE,Platform-UI-Inbox@eclipse.org,,stevencraft1985@gmail.com,4.5.1,CLOS,WORK,30-10-2015,cri,4,12-04-2016
+503305,Import/Export breakpoints context menu item does not work,Platform,Debug,sarika.sinha@in.ibm.com,,marian.labuda@gmail.com,4.6,CLOS,DUPL,04-10-2016,cri,8,06-10-2016
+477400,Maximize/Minimize not available; Welcome screen part has wrong placement at startup,Platform,UI,markus.kell.r@gmail.com,,psuzzi@gmail.com,4.5,RESO,FIXE,14-09-2015,cri,7,14-09-2015
+548874,Tree/Table cell editors are not visible in Ubuntu 16.04,Platform,SWT,platform-swt-inbox@eclipse.org,,haiodo@gmail.com,4.12,CLOS,WONT,02-07-2019,cri,3,02-07-2019
+541531,type hierarchy is empty in java9 and above for JRE classes,JDT,Core,jdt-core-inbox@eclipse.org,manpalat@in.ibm.com,gayanper@gmail.com,4.9,VERI,DUPL,24-11-2018,cri,23,22-05-2019
+549569,[completion] javaCompletionProposalComputer is called even when it is disabled in preference,JDT,UI,stephan.herrmann@berlin.de,,gayanper@gmail.com,4.12,RESO,WORK,25-07-2019,cri,6,28-07-2019
+466396,[GTK3] WindowBuilder Designer crashes Eclipse 4.5 while opening an e4 part,Platform,SWT,platform-swt-inbox@eclipse.org,,Lars.Vogel@vogella.com,4.5,CLOS,DUPL,05-05-2015,cri,6,05-05-2015
+528761,[compiler] Huge hashedParameterizedTypes cache heavily slows down compilation,JDT,Core,jdt-core-inbox@eclipse.org,,lukas.eder@gmail.com,4.7.1,CLOS,DUPL,14-12-2017,cri,4,14-12-2017
+466205,Minecraft 1.7.10 forge modding crash,JDT,APT,jdt-apt-inbox@eclipse.org,,1manosvat@gmail.com,4.4.2,VERI,NOT_,02-05-2015,cri,4,11-05-2015
+551624,[GTK3] Recursive loop of SWT.Show events,Platform,SWT,ericwill@redhat.com,,ts-swt@syntevo.com,4.13,VERI,FIXE,30-09-2019,cri,10,08-10-2019
+513485,All .java files got deleted,Platform,Doc,platform-doc-inbox@eclipse.org,,z.pothen@gmail.com,4.7,RESO,INVA,10-03-2017,cri,2,14-03-2017
+506370,"Eclipse randomly crashes with JVM Access Violation error, seemingly due to JDT compiler.",JDT,Core,stephan.herrmann@berlin.de,,maniacmonkeyinspace@gmail.com,3.1,CLOS,DUPL,21-10-2016,cri,2,23-10-2016
+526987,The source code displaying on browser with .JSP extension,Platform,IDE,Platform-UI-Inbox@eclipse.org,,kishorekum@in.ibm.com,4.3.1,CLOS,DUPL,08-11-2017,cri,2,08-11-2017
+490469,Internal compiler error: java.lang.NullPointerException at org.eclipse.jdt.internal.compiler.ast.LambdaExpression.analyseCode(LambdaExpression.java:512),JDT,Core,sasikanth.bharadwaj@in.ibm.com,,bbryant@lendingclub.com,4.5.2,VERI,FIXE,25-03-2016,cri,15,06-12-2016
+496577,Every menu action produces 2 dialogs,Platform,IDE,Platform-UI-Inbox@eclipse.org,,Boris.Osipchuk@Halliburton.com,4.6,CLOS,WORK,22-06-2016,cri,10,25-06-2016
+500918,Equinox launcher upgrade breaks installation of Eclipse on shared drive.,Equinox,Launcher,equinox.p2-inbox@eclipse.org,,garret@globalmentor.com,4.6.0,CLOS,WONT,06-09-2016,cri,4,02-10-2019
+536990,Building workspace on each start after upgrade to Eclipse 4.8,JDT,Core,loskutov@gmx.de,,TheRealHawk@Freenet.de,4.8,VERI,FIXE,13-07-2018,cri,52,02-05-2019
+495947,Hudson build fails with java.lang.UnsatisfiedLinkError: org.eclipse.swt.internal.gtk.OS._gtk_tree_view_get_vadjustment(J)J,Platform,SWT,platform-swt-inbox@eclipse.org,,loskutov@gmx.de,4.7,RESO,FIXE,12-06-2016,cri,7,17-06-2016
+551724,Most dead key combinations no longer work,Platform,SWT,nikita@nemkin.ru,,pyvesdev@gmail.com,4.13,VERI,FIXE,02-10-2019,cri,12,18-02-2020
+462391,Valid class breaking project build,JDT,Core,stephan.herrmann@berlin.de,,fabiano.bonin@personalsoft....,4.5,VERI,DUPL,17-03-2015,cri,4,18-03-2015
+468999,"False compiler error: ""The method is ambiguous"" using lambda expression",JDT,Core,stephan.herrmann@berlin.de,,tanmatra@gmail.com,4.4.2,VERI,FIXE,01-06-2015,cri,12,04-08-2015
+474943,Target platform bundle ignored when different version available in workspace ( for 4.5 stream),PDE,UI,Vikas.Chandra@in.ibm.com,,Vikas.Chandra@in.ibm.com,4.4,RESO,WONT,14-08-2015,cri,6,14-01-2016
+474143,Eclipse debug configuration graphical error,Platform,IDE,sarika.sinha@in.ibm.com,,ggrimbert@kimoce.com,4.5,RESO,WORK,03-08-2015,cri,2,03-08-2015
+464226,Editor background color set in preferences no longer kept when using Dark theme,Platform,UI,fabiofz@gmail.com,,fabiofz@gmail.com,4.5,VERI,FIXE,08-04-2015,cri,21,06-01-2020
+490911,Unhandled event loop > StackOverflow in Preferences,Platform,SWT,platform-swt-inbox@eclipse.org,,psuzzi@gmail.com,4.6,CLOS,DUPL,01-04-2016,cri,3,01-04-2016
+538833,api 28 P preview,PDE,API Tool,pde-apitools-inbox@eclipse.org,,felipec.delamico@gmail.com,3.1,CLOS,INVA,08-09-2018,cri,3,08-09-2018
+514378,ArrayIndexOutOfBoundsException in SWT,Platform,SWT,platform-swt-inbox@eclipse.org,,matthias.sohn@sap.com,4.7,CLOS,DUPL,29-03-2017,cri,3,29-03-2017
+551823,Search view not working properly (File Search mode),Platform,Search,platform-search-inbox@eclip...,,sundaysunday87@gmail.com,4.13,RESO,INVA,07-10-2019,cri,4,15-10-2019
+460698,[Navigator][Project Explorer] Undo [ctrl z] deletes resources without warning in Project Explorer and Navigator,Platform,UI,kalyan_prasad@in.ibm.com,,eclipse@q-raum.de,4.4.1,VERI,FIXE,24-02-2015,cri,15,17-05-2016
+551907,Access violation msctf.dll,Platform,SWT,platform-swt-inbox@eclipse.org,,felix.dorner@gmail.com,4.13,CLOS,DUPL,08-10-2019,cri,3,08-10-2019
+518036,[regression] Duplicate menu items with DynamicMenuContributions,Platform,UI,daniel_megert@ch.ibm.com,,dirk.fauth@googlemail.com,4.7,VERI,FIXE,09-06-2017,cri,30,13-06-2017
+520374,java.lang.ArrayIndexOutOfBoundsException in StyledTextRenderer,Platform,SWT,fabiofz@gmail.com,,fortbild@streber24.de,4.7,RESO,FIXE,31-07-2017,cri,7,16-12-2017
+485805,[1.8][search] Search engine throws UnsupportedOperationException when searching for subclass implementors,JDT,Core,manpalat@in.ibm.com,,tsantalis@gmail.com,4.5.1,VERI,FIXE,13-01-2016,cri,11,27-04-2016
+498396,"[Win32] JVM crash in mshtml.dll, when content assist loads, only after KB3170106 installed",Platform,SWT,platform-swt-inbox@eclipse.org,,andrewsladen@gmail.com,4.6,CLOS,NOT_,24-07-2016,cri,4,06-06-2017
+472456,[performance] Refresh on big project takes extremely long,Platform,Resource,platform-resources-inbox@ec...,,spaceodyssey@gmx.de,4.6,CLOS,DUPL,13-07-2015,cri,11,16-07-2015
+537682,"After close IDE,Reopen IT",Platform,IDE,Platform-UI-Inbox@eclipse.org,,zenjoyer@163.com,4.8,RESO,INVA,03-08-2018,cri,2,06-08-2018
+558351,[gtk][Adwaita] Most of the fields in history view are empty,Platform,SWT,loskutov@gmx.de,,sravankumarl@in.ibm.com,4.15,VERI,FIXE,16-12-2019,cri,19,17-12-2019
+463189,Editors menu entries all over the place (again),Platform,UI,Platform-UI-Inbox@eclipse.org,,ed@willink.me.uk,4.4,CLOS,DUPL,26-03-2015,cri,6,26-03-2015
+518169,Product installed using Oomph fails to start,Platform,IDE,Platform-UI-Inbox@eclipse.org,,fredrik.attebrant@gmail.com,4.7,CLOS,INVA,13-06-2017,cri,2,13-06-2017
+536518,Failed to load p2 metadata repository from location http://download.eclipse.org/webtools/downloads/drops/R3.9.0/S-3.9.0M5-20170201000249/repository: No repository found at http://download.eclipse.org/webtools/downloads/drops/R3.9.0/S-3.9.0M5-2017020100024,Platform,Releng,platform-releng-inbox@eclip...,,zhangzhx1989@gmail.com,4.6,RESO,WORK,29-06-2018,cri,6,09-07-2018
+547995,NumberFormatException when using project specific settings,JDT,Core,jdt-core-inbox@eclipse.org,,Ruben.Hesselbaek@beumergrou...,4.12,VERI,INVA,06-06-2019,cri,4,20-08-2019
+480816,[Cocoa] Tree.cellSize throws NPE while Display.sleep(),Platform,SWT,platform-swt-inbox@eclipse.org,,eyck@it-jw.com,4.5.1,CLOS,DUPL,27-10-2015,cri,2,28-10-2015
+522244,"Specific context where classes are generated by APT, but not compiled",JDT,APT,jdt-apt-inbox@eclipse.org,,cristian.spiescu@gmail.com,4.7,CLOS,WONT,13-09-2017,cri,4,10-10-2019
+479730,Cannot run individual JUnit tests when importing Maven projects which uses JUnit < 4.6,JDT,UI,markus.kell.r@gmail.com,,cs94njw@gmail.com,4.5,RESO,NOT_,14-10-2015,cri,7,16-10-2015
+512838,sdfsf,PDE,Build,pde-build-inbox@eclipse.org,,nehadwngn@gmail.com,4.4.1,RESO,INVA,28-02-2017,cri,1,02-04-2017
+536028,SWT custom Toolbar does not display Breadcrumb on linux,Platform,SWT,platform-swt-inbox@eclipse.org,,nelivigisoumya12@gmail.com,4.9,CLOS,WORK,19-06-2018,cri,20,28-06-2018
+468208,[GTK3] Background not painted correctly when using SWT.EraseItem,Platform,SWT,sravankumarl@in.ibm.com,,bernd.hufmann@ericsson.com,4.5,RESO,FIXE,25-05-2015,cri,24,12-08-2015
+502568,[JDT 3.12.1] Unable to convert lambda,JDT,Core,stephan.herrmann@berlin.de,,h1424812@mvrht.com,4.6,VERI,DUPL,29-09-2016,cri,4,26-10-2016
+511597,[GTK] Canvas is forcing a synchronous repaint in response to every user scroll event,Platform,SWT,sxenos@gmail.com,,sxenos@gmail.com,4.6,VERI,FIXE,02-02-2017,cri,15,14-02-2017
+541607,Eclipse Info center massive memory leak since Photon,Equinox,Compendi,raymond.auge@liferay.com,,frederic.gurr@eclipse-found...,4.8.0,RESO,FIXE,27-11-2018,cri,37,16-01-2019
+547852,Eclipse + PyDev: the app created in a django project won't show up automatically,Platform,IDE,Platform-UI-Inbox@eclipse.org,,yltang52@gmail.com,4.8,RESO,NOT_,02-06-2019,cri,2,03-06-2019
+540948,[GTK3] parent window shoud not be created when it is not explicite open,Platform,SWT,platform-swt-inbox@eclipse.org,,albertofwb@gmail.com,4.1,CLOS,DUPL,09-11-2018,cri,3,08-10-2019
+463586,Can not change the code colour scheme,Platform,IDE,Platform-UI-Inbox@eclipse.org,,luis.de.sousa@protonmail.ch,4.4.1,RESO,NOT_,31-03-2015,cri,4,11-06-2015
+540345,java.lang.NullPointerException in RepositoryTypeView.saveState in Eclipse Neon 4.6.3.M20170301-0400,Platform,User Ass,Platform-UI-Inbox@eclipse.org,,aundine.kapp@britehouse.co.za,4.6,CLOS,NOT_,21-10-2018,cri,3,21-10-2018
+519070,Compiler hangs while compiling very large Java files (> 100 Mb),JDT,Core,stephan.herrmann@berlin.de,,pganelin@gmail.com,4.6,VERI,FIXE,01-07-2017,cri,17,30-04-2020
+458630,[GTK3] Inline editing does not work in the Tasks views,Platform,SWT,platform-swt-inbox@eclipse.org,,Lars.Vogel@vogella.com,4.5,CLOS,DUPL,28-01-2015,cri,2,01-05-2015
+468562,java editor can not smoothly run,Platform,SWT,platform-swt-inbox@eclipse.org,,yangsonglin4ever@outlook.com,4.2.2,CLOS,DUPL,27-05-2015,cri,2,28-05-2015
+509626,Permanent UI Freeze (endless loop) when using Compare Editor,Platform,Compare,platform-compare-inbox@ecli...,,fredleitenb@yahoo.de,4.7,CLOS,DUPL,22-12-2016,cri,5,22-12-2016
+471848,platform crashes,JDT,Core,jdt-core-inbox@eclipse.org,,sorokinu@gmail.com,4.5,VERI,WORK,04-07-2015,cri,4,03-08-2016
+486097,Cannot register same registry Listener twice with different filters,Platform,Runtime,platform-runtime-inbox@ecli...,,mistria@redhat.com,4.5,CLOS,WONT,19-01-2016,cri,6,20-01-2016
+475995,[Mars.1] New Splash screen not visible on Windows,Platform,Releng,platform-releng-inbox@eclip...,,niraj.modi@in.ibm.com,4.5.1,VERI,FIXE,27-08-2015,cri,5,27-08-2015
+512423,Eclipse hangs on start linux,Platform,IDE,Platform-UI-Inbox@eclipse.org,,yanp.bugz@gmail.com,4.6,CLOS,WONT,20-02-2017,cri,3,29-01-2020
+491333,Issue on git staging with new themed scrollbar,Platform,UI,Platform-UI-Inbox@eclipse.org,,fabiofz@gmail.com,4.6,CLOS,DUPL,08-04-2016,cri,4,14-04-2016
+552372,Eclipse fails to start with 'org.eclipse.datatools.enablement.sybase.feature' installed,Platform,IDE,loskutov@gmx.de,,mcoufal@redhat.com,4.14,VERI,FIXE,24-10-2019,cri,9,25-10-2019
+548386,Frequent UI freezes because of ResourceExtensionContentProvider,Platform,UI,mistria@redhat.com,,Lars.Vogel@vogella.com,4.11,RESO,FIXE,18-06-2019,cri,36,23-08-2019
+550391,eclipse IDE is not getting downloaded showing server error,Platform,IDE,Platform-UI-Inbox@eclipse.org,,goriasehgal12@gmail.com,4.13,RESO,DUPL,23-08-2019,cri,3,23-08-2019
+468150,[Error Message] Application giving error message 'Failed to load JNI shared library',JDT,Core,jdt-core-inbox@eclipse.org,,dharmendrsingh1990@gmail.com,4.5,CLOS,WONT,25-05-2015,cri,5,07-04-2020
+548791,[13] Launching with java 13 gives null as compatible jre for Java 12 and below,JDT,Debug,sarika.sinha@in.ibm.com,,Vikas.Chandra@in.ibm.com,4.11,VERI,FIXE,30-06-2019,cri,8,26-09-2019
+528695,[content assist] Lots of method invocations to look up module-info.class in ZipFile repeatedly,JDT,Core,sasikanth.bharadwaj@in.ibm.com,,lukas.eder@gmail.com,4.7.1,CLOS,DUPL,13-12-2017,cri,5,13-12-2017
+547607,Ant 1.10.6 has issues with Java 1.8 so revert to Ant 1.10.5,Platform,Ant,sarika.sinha@in.ibm.com,,sarika.sinha@in.ibm.com,4.12,VERI,FIXE,24-05-2019,cri,18,10-06-2019
+532883,Combobox is getting cut on linux - size issue,Platform,SWT,platform-swt-inbox@eclipse.org,,shital.devalkar@globant.com,4.7,CLOS,DUPL,26-03-2018,cri,2,18-09-2018
+485915,[1.8][compiler] Compile error with Java 8,JDT,Core,stephan.herrmann@berlin.de,,james@ractive.ch,4.5.1,VERI,NOT_,15-01-2016,cri,7,26-04-2016
+473264,[Keybindings] Eclipse forgots keys preferences after restart,Platform,IDE,kalyan_prasad@in.ibm.com,,xhpohanka@gmail.com,4.5,CLOS,WORK,22-07-2015,cri,4,01-04-2016
+489603,Freshly opened editor lacks key bindings,Platform,UI,loskutov@gmx.de,,stephan.herrmann@berlin.de,4.6,RESO,FIXE,14-03-2016,cri,9,15-03-2016
+530369,UNABLE TO RUN ECLIPSE IDE,Platform,IDE,Platform-UI-Inbox@eclipse.org,,karthik.so.radha@gmail.com,4.8,CLOS,INVA,26-01-2018,cri,6,01-02-2018
+533599,Requesting Java AST from selection - java.lang.IllegalArgumentException,JDT,Core,stephan.herrmann@berlin.de,,k696934@mvrht.net,4.7.3,VERI,NOT_,16-04-2018,cri,23,26-06-2018
+519669,Extremely High CPU Usage (likely due to Jetty),Platform,User Ass,Platform-UI-Inbox@eclipse.org,,riverocean1@Gmail.com,3.5,RESO,WORK,13-07-2017,cri,12,14-02-2018
+459004,Deadlock in configuration admin when using OSGi DS,Equinox,Componen,tjwatson@us.ibm.com,,jreimann@redhat.com,4.5.0,RESO,FIXE,03-02-2015,cri,9,28-10-2015
+483605,Breakpoint in nested type not hit any more,JDT,Debug,loskutov@gmx.de,,markus.kell.r@gmail.com,4.6,VERI,FIXE,03-12-2015,cri,7,09-12-2015
+533763,Eclipse forgets my edits (file changed on disk),Platform,IDE,Platform-UI-Inbox@eclipse.org,,engenharia5@inova.ind.br,4.7.3,RESO,INVA,18-04-2018,cri,3,19-04-2018
+535124,CSS tree selection issue on Linux only,Platform,SWT,ericwill@redhat.com,,pagew2000@yahoo.com,4.6,VERI,FIXE,25-05-2018,cri,14,03-08-2018
+540141,Filtering for text in Installation Details hangs the UI forever,Platform,UI,Platform-UI-Inbox@eclipse.org,,thomas.kutz@itemis.de,4.9,CLOS,DUPL,15-10-2018,cri,4,15-10-2018
+535927,[compile] NullPointerException when importing deprecated class in Java 10 project,JDT,Core,stephan.herrmann@berlin.de,,lukas.eder@gmail.com,4.7.3,VERI,DUPL,15-06-2018,cri,8,01-08-2018
+507896,UI breaks with Stackoverflow,Platform,SWT,platform-swt-inbox@eclipse.org,,steveg@allocinit.com,4.7,CLOS,DUPL,21-11-2016,cri,8,22-11-2016
+538579,DateTime SWT.DATE and SWT.Time styles do not allow to set value,Platform,SWT,xixiyan@redhat.com,,lkoehler@eclipsesource.com,4.9,VERI,FIXE,04-09-2018,cri,13,05-09-2018
+470997,[Gtk] Package Explorer tree empty when switching from Debug to Java perspective,Platform,SWT,platform-swt-inbox@eclipse.org,,andreas.watermeyer@its-telc...,4.5,CLOS,WORK,25-06-2015,cri,8,01-08-2017
+531546,"[code mining] Improve performance by drawing only ""visibles"" inlined annotations",Platform,Text,platform-text-inbox@eclipse...,,azerr@redhat.com,4.8,RESO,FIXE,22-02-2018,cri,13,05-04-2018
+534944,"Refactor-Rename not working - ""java.lang.NoSuchMethodError: org.eclipse.jdt.core.dom.SimpleName.isVar()Z""",JDT,UI,jdt-ui-inbox@eclipse.org,,madacs@gmail.com,4.7.3,RESO,WORK,22-05-2018,cri,3,22-05-2018
+551362,[regression] monitor.done() is not called anymore on resource operations,Platform,Resource,karsten.thoms@karakun.com,,loskutov@gmx.de,4.14,RESO,FIXE,23-09-2019,cri,10,25-09-2019
+486580,Team explorer everywhere refuses to connect to TFS over HTTPs,Platform,Team,platform-team-inbox@eclipse...,,ryan.heiser@themdu.com,4.5,CLOS,WONT,26-01-2016,cri,2,01-04-2020
+527689,"When using Mylyn after some time, Eclipse itself becomes really slow",Platform,UI,rolf.theunissen@gmail.com,,fabiofz@gmail.com,4.7,RESO,FIXE,23-11-2017,cri,5,18-08-2019
+549244,[GTK] SWT error with java.lang.UnsatisfiedLinkError,Platform,SWT,platform-swt-inbox@eclipse.org,,oh1226@hotmail.com,4.13,RESO,FIXE,14-07-2019,cri,13,30-09-2019
+460401,Creating application under UI test,PDE,UI,pde-ui-inbox@eclipse.org,,j.joslet@aegaeon-it.com,4.5,CLOS,WONT,20-02-2015,cri,3,04-10-2019
+493148,[Win32] Non-editable StyledText can be changed by typing Chinese using IME,Platform,SWT,ts-swt@syntevo.com,niraj.modi@in.ibm.com,eclipse@regnis.de,4.6,VERI,FIXE,06-05-2016,cri,12,22-05-2019
+533591,[code mining] Inlined annotation support must remove annotations when it is uninstalled,Platform,Text,platform-text-inbox@eclipse...,,azerr@redhat.com,4.8,RESO,FIXE,15-04-2018,cri,3,16-04-2018
+545606,Mac Test run failed for I20190320-1800,Platform,Releng,sravankumarl@in.ibm.com,,manpalat@in.ibm.com,4.12,VERI,FIXE,20-03-2019,cri,6,09-04-2019
+490488,[HighDpi] Stackoverflow at 199% custom zoom.,Platform,SWT,platform-swt-inbox@eclipse.org,,lneumeier@irotation.de,4.6,CLOS,DUPL,26-03-2016,cri,5,28-03-2016
+540293,"[9] Module doesn't compile / Errors in the editor, not in Problems view",JDT,Core,stephan.herrmann@berlin.de,,ealrann@gmail.com,4.1,VERI,FIXE,19-10-2018,cri,28,29-11-2018
+544758,Java 11 compiler error with Eclipse 4.11M3,JDT,Core,stephan.herrmann@berlin.de,,Alexander.Veit@unitedplanet.de,4.11,VERI,INVA,25-02-2019,cri,9,12-04-2019
+539280,http://download.eclipse.org/releases/latest points to photon,Platform,Releng,platform-releng-inbox@eclip...,,zulus@w3des.net,4.9,CLOS,FIXE,20-09-2018,cri,6,21-09-2018
+544825,"Java 11 compiler error ""The type java.util.ArrayList cannot be resolved""",JDT,Core,stephan.herrmann@berlin.de,,Alexander.Veit@unitedplanet.de,4.1,RESO,WORK,26-02-2019,cri,4,26-02-2019
+525465,[10.13] TextLayout with embedded images is missing text on macOS High Sierra,Platform,SWT,lshanmug@in.ibm.com,,peter@wireframesketcher.com,4.7.1,VERI,FIXE,02-10-2017,cri,22,17-11-2017
+532117,ECJ provides broken OSGi bundle,JDT,Core,jdt-core-inbox@eclipse.org,,jreimann@redhat.com,4.8,CLOS,WONT,07-03-2018,cri,12,25-04-2020
+473866,problem opening eclipse.exe,Platform,User Ass,Platform-UI-Inbox@eclipse.org,,alws_1994@live.com,4.4.2,CLOS,DUPL,29-07-2015,cri,2,29-07-2015
+522805,ashikkhandon755@gmail.com,Platform,CVS,platform-cvs-inbox@eclipse.org,,ashikkhandon755@gmail.com,4.5.2,CLOS,INVA,25-09-2017,cri,1,26-09-2017
+457469,Failures in UITestSuite,Platform,UI,daniel_megert@ch.ibm.com,,pwebster@ca.ibm.com,4.5,VERI,FIXE,14-01-2015,cri,18,28-01-2015
+546004,[JUnit] JUnit4TestFinder doesn't find Test classes,JDT,Core,jarthana@in.ibm.com,,nicole.behlen@gmail.com,4.11,CLOS,DUPL,01-04-2019,cri,25,16-05-2019
+500887,Unsuccessful installation of Eclipse IDE all in one package on a Mac (OS X 10.11.6),Platform,IDE,Platform-UI-Inbox@eclipse.org,,aconsumer.com@gmail.com,4.7,RESO,FIXE,05-09-2016,cri,8,06-09-2016
+467084,Existing project in workspace now showing in project explorer,Platform,IDE,Platform-UI-Inbox@eclipse.org,,jawadnaeem1@hotmail.com,4.5,CLOS,INVA,12-05-2015,cri,2,12-05-2015
+497191,Eclipse IDE Not responding,Platform,UI,Platform-UI-Inbox@eclipse.org,,veaceslav.bacu@gmail.com,4.6,CLOS,NOT_,03-07-2016,cri,10,05-07-2016
+543106,[Search] searching for RETURN_TYPE_REFERENCE doesn't take generic methods signatures.,JDT,Core,jdt-core-inbox@eclipse.org,,gayanper@gmail.com,4.1,RESO,DUPL,01-01-2019,cri,2,30-04-2020
+479360,view focus,Platform,Debug,sarika.sinha@in.ibm.com,,yo0702suke@gmail.com,4.4.2,RESO,INVA,08-10-2015,cri,2,09-10-2015
+526340,Project cannot export as runnable jar by Java 9,JDT,UI,jdt-ui-inbox@eclipse.org,,test@jackpositive.hk,4.7.1,RESO,WORK,21-10-2017,cri,2,23-12-2017
+488641,java.lang.UnsatisfiedLinkError: org.eclipse.swt.internal.C.memmove([BJJ)V,Platform,SWT,platform-swt-inbox@eclipse.org,,hamiltcl@verizon.net,4.4.2,RESO,WORK,28-02-2016,cri,2,08-02-2019
+477656,View switch doesn't save order,Platform,IDE,Platform-UI-Inbox@eclipse.org,,jef@ubench.com,4.5,CLOS,DUPL,17-09-2015,cri,11,03-12-2015
+507908,blaclk screen when im usiing eclipse,Platform,SWT,sravankumarl@in.ibm.com,,shoham5@bezeqint.net,4.7,CLOS,DUPL,21-11-2016,cri,9,14-12-2016
+462056,[CSS] PartRendereringEngine not triggered by CSS changes,Platform,UI,simon.scholz@vogella.com,,simon.scholz@vogella.com,4.5,VERI,FIXE,13-03-2015,cri,5,16-03-2015
+532604,[code mining] Line header content can be drawn on the line text when mining resolve takes time,Platform,Text,azerr@redhat.com,,azerr@redhat.com,4.8,RESO,FIXE,19-03-2018,cri,7,05-04-2018
+531124,@Deprecated types referenced in module-info.java cause an NPE during build,JDT,Core,stephan.herrmann@berlin.de,,nlisker@gmail.com,4.8,VERI,DUPL,13-02-2018,cri,7,08-03-2018
+544924,annotations.jar is added from the install even though org.eclipse.pde.ds.annotations is in my workspace and org.eclipse.pde.ds.annotations disabled in the target platform,PDE,UI,pnehrer@eclipticalsoftware.com,,daniel_megert@ch.ibm.com,4.11,VERI,FIXE,28-02-2019,cri,31,06-05-2019
+537835,Making array and vector available as list fails on Photon,JDT,Core,stephan.herrmann@berlin.de,,las-palmas-11@privatdemail.net,4.8,CLOS,DUPL,09-08-2018,cri,3,14-08-2018
+460940,file destroyed after laptop power saving,Platform,IDE,Platform-UI-Inbox@eclipse.org,,deng.hui@zte.com.cn,4.5,CLOS,DUPL,26-02-2015,cri,3,26-02-2015
+526986,"Reported defect: 526392, but no response from eclipse support on this defect",Platform,IDE,Platform-UI-Inbox@eclipse.org,,bhanu.prathap@in.ibm.com,4.6,CLOS,DUPL,08-11-2017,cri,2,08-11-2017
+530447,org.eclipse.jdt.ui.TemplateProposalComputer plug in exception when trying to use auto complete,JDT,UI,jdt-core-inbox@eclipse.org,,ilansysdardik@gmail.com,4.8,CLOS,WONT,29-01-2018,cri,6,26-02-2020
+540280,Regression - Exception thrown by handler not propagates to the console,Platform,UI,Lars.Vogel@vogella.com,,Lars.Vogel@vogella.com,4.8,VERI,FIXE,18-10-2018,cri,13,19-10-2018
+525908,Oxygen.1a fails to launch JREs,JDT,Debug,epp.packager-inbox@eclipse.org,,beni@xbhd.org,4.7.1,CLOS,NOT_,12-10-2017,cri,8,22-12-2017
+495946,Eclipse hangs while creating a project or a package (ubuntu 16.04 LTS desktop guest on Windows 10),Platform,SWT,platform-swt-inbox@eclipse.org,,m.alp.tunc@gmail.com,4.5.2,CLOS,DUPL,12-06-2016,cri,5,30-08-2016
+520413,[Glance] History view unreadable with search bar activated,e4,UI,skanton@gmail.com,,Lars.Vogel@vogella.com,unspe,RESO,FIXE,01-08-2017,cri,7,10-08-2017
+488128,JavaReconciler: Too many open files,JDT,Core,stephan.herrmann@berlin.de,,bsd@acm.org,4.2,CLOS,WORK,19-02-2016,cri,10,23-02-2016
+539369,"Errors running builder 'Java Builder' on project, with throwing ClosedFileSystemException in ClasspathMultiReleaseJar",JDT,Core,jdt-core-inbox@eclipse.org,,bartels@disy.net,4.9,CLOS,DUPL,24-09-2018,cri,2,24-09-2018
+509603,[Model Editor] is always reloaded when we switch to another editor,Platform,UI,olivier.prouvost@opcoach.com,,olivier.prouvost@opcoach.com,4.7,RESO,FIXE,21-12-2016,cri,9,09-01-2017
+460602,Eclipse keeps crashing,Platform,SWT,php.ui-inbox@eclipse.org,,stephan@cronius.nl,4.4.1,RESO,NOT_,23-02-2015,cri,13,24-02-2015
+493223,"Application ""org.eclipse.ui.ide.workbench"" could not be found in the registry.",Platform,IDE,Platform-UI-Inbox@eclipse.org,,destiny.subhra@gmail.com,4.5,RESO,WORK,09-05-2016,cri,3,09-05-2016
+537491,Photon@MacOS - Wrong context menu in Project/Package Explorer due to outdated selection,Platform,SWT,lshanmug@in.ibm.com,,xu.xiang@sap.com,4.8,VERI,FIXE,30-07-2018,cri,36,23-10-2018
+481851,[GTK3] - e4 model editor requires resize to show its content,Platform,SWT,platform-swt-inbox@eclipse.org,,Lars.Vogel@vogella.com,4.6,CLOS,DUPL,10-11-2015,cri,10,01-12-2015
+470420,Eclipse crashes when XULRunner10 is used,Platform,SWT,platform-swt-inbox@eclipse.org,,kmarmaliykov@exadel.com,4.5,RESO,WONT,17-06-2015,cri,2,04-03-2016
+518025,Installing,Platform,User Ass,Platform-UI-Inbox@eclipse.org,,n-mcbeth@comcast.net,4.7,RESO,INVA,08-06-2017,cri,5,26-09-2019
+484497,[GTK3] Renaming a file freezes Eclipse,Platform,SWT,platform-swt-inbox@eclipse.org,,Lars.Vogel@vogella.com,4.6,CLOS,DUPL,16-12-2015,cri,8,14-01-2016
+539570,Eclipse 2018-09 won't compile Java 11 source; thinks it is below 1.7,JDT,Core,jdt-core-inbox@eclipse.org,,garret@globalmentor.com,4.9,RESO,FIXE,27-09-2018,cri,31,20-11-2018
+526837,Test test,JDT,APT,jdt-apt-inbox@eclipse.org,,ninadnaik72@gmail.com,4.7,CLOS,WONT,04-11-2017,cri,2,10-03-2020
+527656,Product Configuration Editor does not update plugin.xml,PDE,UI,pde-ui-inbox@eclipse.org,,BergerT@aol.com,4.7.1,RESO,WORK,23-11-2017,cri,3,30-10-2019
+550376,[JUnit 5] Cannot run Jupiter tests in a project with module-info.java after upgrade to JUnit 5.5.1,JDT,UI,noopur_gupta@in.ibm.com,,noopur_gupta@in.ibm.com,4.13,VERI,FIXE,23-08-2019,cri,26,28-08-2019
+529595,Error in the editor formatting files,JDT,Text,jdt-text-inbox@eclipse.org,,jasongonzalezbonilla@outloo...,4.8,RESO,INVA,09-01-2018,cri,2,23-08-2019
+477787,Embedded Equinox in an entreprise application ear - NullPointerException at start up,Equinox,Framewor,jwross@us.ibm.com,,Thomas.Schurins@clear2pay.com,3.10.,RESO,FIXE,18-09-2015,cri,7,03-03-2016
+488795,NullPointerException from ForeachStatement.resolve rendering Mars SR2 unusable,JDT,Core,stephan.herrmann@berlin.de,,kdevolder@pivotal.io,4.5.2,VERI,FIXE,01-03-2016,cri,20,06-06-2016
+534712,Invalid getGenericParameterTypes when using reference to an instance method of a particular object,JDT,Core,jdt-core-inbox@eclipse.org,,christian.connert@arz.at,4.7.3,CLOS,DUPL,15-05-2018,cri,5,15-05-2018
+458870,[Outline] ContentOutline shows IllegalArgumentException dialog during debugging,Platform,IDE,platform-ui-triaged@eclipse...,,loskutov@gmx.de,4.5,CLOS,DUPL,31-01-2015,cri,4,27-05-2015
+506690,"Eclipse hangs forever after an unsuccessful ""drag-and-drop"" of a file from OSX Finder into Windows Virtualbox",Platform,SWT,platform-swt-inbox@eclipse.org,,mober.at+eclipse@gmail.com,4.5.2,CLOS,NOT_,28-10-2016,cri,4,19-06-2017
+538204,Mac OS X 10.7.5 - Installer crashes on launch,Platform,IDE,Platform-UI-Inbox@eclipse.org,,private1@outlook.com,4.8,RESO,WORK,23-08-2018,cri,20,20-11-2018
+511596,[painting][rulers] Rulers are forcing synchronous paints during scroll,Platform,Text,sxenos@gmail.com,,sxenos@gmail.com,4.6,VERI,FIXE,02-02-2017,cri,40,14-07-2017
+518731,Eclipse neon.3 very frequent crashes related to libjavascriptcoregtk-3.0.so.0 / libswt-webkit-gtk-4629.so,Platform,SWT,platform-swt-inbox@eclipse.org,,ludovic.aelbrecht+eclipse@g...,4.7,CLOS,INVA,23-06-2017,cri,8,14-10-2017
+459705,Cant install Eclipse with Java 1.8,Platform,IDE,Platform-UI-Inbox@eclipse.org,,rweyers@my.wgu.edu,4.5,CLOS,DUPL,11-02-2015,cri,8,12-02-2015
+468853,NPE in Compiler.restoreAptProblems,JDT,APT,eclipse.sprigogin@gmail.com,,eclipse.sprigogin@gmail.com,4.5,VERI,FIXE,29-05-2015,cri,15,03-06-2015
+484805,popups in tiling window manager cause 100% CPU usage; contents only refreshed after workspace switch,Platform,UI,Platform-UI-Inbox@eclipse.org,,installe@gmail.com,4.5,CLOS,DUPL,22-12-2015,cri,6,01-06-2016
+487550,IDE Doesnt run on high resolution laptops,Platform,UI,Platform-UI-Inbox@eclipse.org,,ayserchoudhury@gmail.com,4.6,CLOS,DUPL,09-02-2016,cri,2,10-02-2016
+458981,Jface TreeViewer no updated when delete tree node with duplicate entries,Platform,UI,kalyan_prasad@in.ibm.com,,zhang.hongying@siemens.com,3.8,RESO,INVA,02-02-2015,cri,4,24-02-2016
+480926,[GTK3] incorrect cell editor position in tree caused by PaintItem listener,Platform,SWT,platform-swt-inbox@eclipse.org,,aburdukov@gmail.com,4.7,CLOS,WORK,28-10-2015,cri,6,19-03-2018
+531005,The super interfaces set has been reduced for type org.eclipse.ui.views.properties.PropertySheet,PDE,API Tool,Vikas.Chandra@in.ibm.com,,loskutov@gmx.de,4.8,VERI,FIXE,11-02-2018,cri,38,08-05-2018
+494673,Artifacts seem to be missing from the eclipse/updates/4.6milestones/S-4.6RC1-201605121000 repo,Platform,Releng,platform-releng-inbox@eclip...,,mober.at+eclipse@gmail.com,4.6,CLOS,INVA,26-05-2016,cri,2,05-06-2016
+544501,[SWT] Eclipse crashes with reference count error message cairo_surface_destroy,Platform,SWT,platform-swt-inbox@eclipse.org,,ansgar.radermacher@cea.fr,4.6,CLOS,MOVE,15-02-2019,cri,25,04-11-2019
+532266,not responding when share git project or when opening preference/team/git/configuration,Platform,Team,platform-team-inbox@eclipse...,,realsunmoonone@qq.com,4.7.2,CLOS,WONT,10-03-2018,cri,3,27-03-2020
+494035,[HiDpi][Win32][GTK] Rendering issues on Neon due to the new SWT Auto-scaling feature,Platform,SWT,sravankumarl@in.ibm.com,,rschnekenburger@eclipsesour...,4.6,VERI,FIXE,19-05-2016,cri,18,26-05-2016
+547011,p2 metadata format 1.2.0 breaks update scenarios in case bundles exist locally and remotely in the same version,Equinox,p2,equinox.p2-inbox@eclipse.org,,sebastian.ratz@sap.com,4.12,RESO,FIXE,06-05-2019,cri,11,21-03-2020
+552269,Cannot open sql console in Eclipse,Platform,IDE,Platform-UI-Inbox@eclipse.org,,dung.vt02@pnj.com.vn,4.14,CLOS,NOT_,21-10-2019,cri,3,21-10-2019
+476042,Adding file to build path and dragging it back destroys the file,JDT,UI,jdt-ui-inbox@eclipse.org,,psalline@gmail.com,4.5,RESO,WORK,27-08-2015,cri,4,05-04-2016
+496902,content assist throws Unhandled event loop exception,JDT,Text,jdt-text-inbox@eclipse.org,,nirajtalukdar@outlook.com,4.6,RESO,NOT_,28-06-2016,cri,3,29-06-2016
+514297,Eclipse is not showing workspace prompt at startup,Platform,UI,loskutov@gmx.de,,sarika.sinha@in.ibm.com,4.7,VERI,FIXE,28-03-2017,cri,11,29-03-2017
+517013,Regression: Equinox Launcher fails on RHEL6 due to GLIBC_2.14 dependency,Equinox,Launcher,arunkumar.thondapu@in.ibm.com,,mober.at+eclipse@gmail.com,4.7.0,VERI,FIXE,19-05-2017,cri,30,02-06-2017
+492214,Eclipse paint issues while scrolling in the java editor,Platform,SWT,platform-swt-inbox@eclipse.org,,sgabriel@brainfuse.com,4.6,CLOS,DUPL,21-04-2016,cri,2,22-04-2016
+532732,Space indent setting works only for the first involved workspace,Platform,IDE,Platform-UI-Inbox@eclipse.org,,mohamed.ennahdi@yahoo.com,4.8,RESO,INVA,21-03-2018,cri,2,05-04-2018
+517336,Oxygen RC1 Java EPP doesn't start on Mac OS X: gets a SIGSEGV right away,Platform,Releng,platform-releng-inbox@eclip...,,thomas.wolf@paranor.ch,4.7,RESO,WONT,28-05-2017,cri,5,30-05-2017
+527373,JDT core tests are unstable on Gerrit,JDT,Core,loskutov@gmx.de,,loskutov@gmx.de,4.8,VERI,FIXE,16-11-2017,cri,20,06-12-2017
+506949,Save actions cause file corruption on undo,Platform,UI,noopur_gupta@in.ibm.com,,zralston@rocketmail.com,4.6,VERI,FIXE,02-11-2016,cri,51,31-10-2017
+472956,[Regression][XULRunner] XULRunner crashes when profile path does not exist,Platform,SWT,niraj.modi@in.ibm.com,,matthew.painter@import.io,4.5,VERI,FIXE,17-07-2015,cri,12,27-08-2015
+494261,JVM crash when associating external editor with file extension,Platform,SWT,platform-swt-inbox@eclipse.org,,stepper@esc-net.de,4.5.2,CLOS,DUPL,23-05-2016,cri,10,24-05-2016
+535885,Plattform UI Gerrits hang with Gtk-CRITICAL **: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkCheckButton,Platform,SWT,platform-swt-inbox@eclipse.org,,loskutov@gmx.de,4.9,CLOS,WORK,14-06-2018,cri,16,14-06-2018
+534060,Build failures in materialize-product with Tycho 1.2.0-SNAPSHOT,Platform,Releng,akurtakov@redhat.com,,mistria@redhat.com,4.7,RESO,FIXE,25-04-2018,cri,5,26-04-2018
+542895,[code mining] JavaSourceViewer#updateCodeMinings() API broken,JDT,Text,mistria@redhat.com,,aboyko@pivotal.io,4.1,RESO,FIXE,18-12-2018,cri,14,28-01-2019
+514419,[regression][GTK3] DND is broken in staging view,Platform,SWT,ipun@redhat.com,,loskutov@gmx.de,4.7,RESO,FIXE,29-03-2017,cri,8,05-04-2017
+496221,System.out doesn't write to Console tab after higher resolution monitors installed,Platform,IDE,Platform-UI-Inbox@eclipse.org,,wynner@mail.nih.gov,4.5.2,CLOS,DUPL,15-06-2016,cri,7,02-08-2016
+543234,Eclipse platform is not launching on ppc64LE architecture,Platform,SWT,sravankumarl@in.ibm.com,,sravankumarl@in.ibm.com,4.11,VERI,FIXE,08-01-2019,cri,16,21-02-2019
+474397,TreeViewer shows wrong content,Platform,SWT,platform-swt-inbox@eclipse.org,,exdata2@gmx.de,4.5,CLOS,DUPL,06-08-2015,cri,13,08-12-2015
+530815,Uses extremely high CPU and nothig happens,Platform,IDE,Platform-UI-Inbox@eclipse.org,,jarlgjessing@gmail.com,4.8,RESO,WORK,07-02-2018,cri,8,19-02-2020
+468798,Eclipse juno not working in windows 7,Platform,IDE,Platform-UI-Inbox@eclipse.org,,krajeev@newtglobal.com,4.5,RESO,WONT,29-05-2015,cri,2,15-06-2015
+533597,Getting constant Error pop-up after latest update.,JDT,UI,jdt-ui-inbox@eclipse.org,,wasbhamla2005@gmail.com,4.7.3,RESO,INVA,16-04-2018,cri,2,17-04-2018
+465900,Internal compiler error: java.lang.IllegalArgumentException: info cannot be null at org.eclipse.jdt.internal.compiler.codegen.StackMapFrame.addStackItem(StackMapFrame.java:81),JDT,Core,sasikanth.bharadwaj@in.ibm.com,,emond.papegaaij@gmail.com,4.5,VERI,FIXE,30-04-2015,cri,10,01-07-2015
+543490,Trouble launching eclipse from a path with whitespace chars,PDE,UI,loskutov@gmx.de,,jarthana@in.ibm.com,4.11,VERI,FIXE,16-01-2019,cri,12,17-01-2019
+457310,Numerous API tools failure on latest 4.5 build due to NPE in ApiAnalysisBuilder.toString(),PDE,API Tool,daniel_megert@ch.ibm.com,,Vikas.Chandra@in.ibm.com,4.5,VERI,FIXE,13-01-2015,cri,13,26-01-2015
+485808,[GTK3] Eclipse always hangs on action,Platform,SWT,platform-swt-inbox@eclipse.org,,am.public@hotmail.com,4.5,CLOS,WORK,14-01-2016,cri,9,30-09-2016
+540343,DS Builder is not building all files,PDE,UI,pde-ui-inbox@eclipse.org,,picard@castortech.com,4.7.2,CLOS,FIXE,21-10-2018,cri,5,09-04-2020
+549657,Eclipse pins CPU or hangs accessing the jOOL package,JDT,Core,jdt-core-inbox@eclipse.org,,mishkin@aya.yale.edu,4.11,CLOS,DUPL,30-07-2019,cri,10,31-07-2019
+462009,[Gtk3] Button background Color fix,Platform,SWT,lufimtse@redhat.com,,lufimtse@redhat.com,4.5,CLOS,FIXE,12-03-2015,cri,54,05-12-2016
+501979,FileDialog setFilterExtensions() cannot properly handle extensions containing >1 dots in the extension name,Platform,SWT,platform-swt-inbox@eclipse.org,,kamil.sarelo@gmail.com,4.5,RESO,DUPL,22-09-2016,cri,4,29-10-2018
+468962,[Win32] Double pop-up can lock up Eclipse,Platform,SWT,platform-swt-inbox@eclipse.org,,ed@willink.me.uk,4.5,CLOS,WONT,01-06-2015,cri,4,24-02-2020
+509870,Missing file on the update site,Platform,Releng,platform-releng-inbox@eclip...,,Olivier_Thomann@ca.ibm.com,4.7,CLOS,WONT,03-01-2017,cri,10,05-03-2020
+468295,ArrayIndexOutOfBoundsException in org.eclipse.swt.custom.StyledTextRenderer.calculateClientArea,Platform,SWT,platform-swt-inbox@eclipse.org,,Lars.Vogel@vogella.com,4.5,CLOS,DUPL,26-05-2015,cri,4,09-07-2015
+507092,"Eclipse fails to start: ""An internal error occurred during: ""Initializing workspace.""",Equinox,Componen,loskutov@gmx.de,,loskutov@gmx.de,4.7.0,RESO,FIXE,05-11-2016,cri,37,22-03-2017
+530327,Blank error.,JDT,APT,jdt-apt-inbox@eclipse.org,,Szewczukpawel.sp@gmail.com,4.8,CLOS,WONT,25-01-2018,cri,3,08-04-2020
+521364,keeps hanging so I have to close using task manager and re open,Platform,UI,Platform-UI-Inbox@eclipse.org,,shorif2000@gmail.com,4.7,RESO,INVA,24-08-2017,cri,2,24-08-2017
+488016,"[1.8] Eclipse accept code that contains a syntax error, and compiles it, producing wrong output. Javac rejects the code.",JDT,Core,jdt-core-inbox@eclipse.org,,r.dellaversana@gmail.com,4.5.1,CLOS,DUPL,18-02-2016,cri,3,18-02-2016
+499351,[1.8][inference] Streams: Type mismatch: cannot convert from Set<Object> to Set<XXX>,JDT,Core,stephan.herrmann@berlin.de,,hjohn@xs4all.nl,4.7,VERI,FIXE,08-08-2016,cri,31,01-04-2017
+544964,SWT/AWT Bridge : JComboBox usage is leading to application crash,Platform,SWT,platform-swt-inbox@eclipse.org,,cartu38.opendev@gmail.com,4.1,RESO,WORK,01-03-2019,cri,4,18-09-2019
+501674,Eclipse Neon does not start with either JDK 1.8.0_102 or JDK 9ea132 on MacOS X 10.11.6,Platform,IDE,Platform-UI-Inbox@eclipse.org,,catull@gmail.com,4.6,RESO,WORK,19-09-2016,cri,8,28-10-2016
+493606,Smart Import project recursion does not work for Eclipse project,Platform,UI,mistria@redhat.com,,Lars.Vogel@vogella.com,4.4,VERI,FIXE,13-05-2016,cri,11,20-05-2016
+487697,Leaf,Platform,IDE,Platform-UI-Inbox@eclipse.org,,asirleaf1@msn.com,4.4.2,CLOS,NOT_,11-02-2016,cri,2,13-02-2016
+528764,Eclipse freezes on editing text,Platform,IDE,Platform-UI-Inbox@eclipse.org,,gim6626@gmail.com,4.7.1,RESO,FIXE,14-12-2017,cri,11,27-12-2017
+513776,Downloads page misses 4.7M1 and M2,Platform,Releng,sravankumarl@in.ibm.com,,markus.kell.r@gmail.com,4.7,RESO,WONT,16-03-2017,cri,5,02-06-2017
+536809,As I try to install eclipse it crashes on Lubuntu 16.04 LTS,Platform,IDE,Platform-UI-Inbox@eclipse.org,,alexxiacopini@gmail.com,4.8,RESO,INVA,08-07-2018,cri,3,24-05-2019
+480605,Where's my projects?,JDT,APT,jdt-apt-inbox@eclipse.org,,omarepic1@gmail.com,4.6,VERI,INVA,26-10-2015,cri,3,27-10-2015
+469581,Dynamic Menu Contributions are never be invoked,Platform,UI,dirk.fauth@googlemail.com,,jeeeyul@gmail.com,4.5,RESO,FIXE,08-06-2015,cri,104,26-07-2016
+470753,after installation i get this error and the application didn't open,Equinox,Launcher,equinox.launcher-inbox@ecli...,,wshuail@gmail.com,3.10.,CLOS,WONT,22-06-2015,cri,3,23-03-2020
+492260,Copying a project with unresolved linked resources corrupts the project's loaded object-model,Platform,Resource,platform-resources-inbox@ec...,,bbelyavsky@ti.com,4.5.2,CLOS,WONT,22-04-2016,cri,2,14-01-2020
